@@ -1,0 +1,84 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2EEciXEn6DJGwZ7GVIkx4btCDyW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EQ4h0zjAhZPc4rmBsdzr59vHcR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "/tag:Theme",
+    "MarketplacePluginsSearchHistory": "vim\nspring\n/tag:Theme\ngruvb\ngrub",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IU-222.3739.54-8caaca5db833a8e77842b5975d6fa962d62301ee409e1851688109c6652fad35",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-222.3739.54",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "defaultpackageserviceconfig.fulltext": "https://package-search.services.jetbrains.com/api/search/idea/fulltext",
+    "defaultpackageserviceconfig.suggest": "https://package-search.services.jetbrains.com/api/search/idea/suggest",
+    "defaultpackageserviceconfig.updated.ts": "1662516243851",
+    "eclipse.projects.detected": "",
+    "evlsprt3.222": "22",
+    "file.gist.reindex.count": "12",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "gotit.previous.run": "IU-222.3739.54",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1662779876716",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ3739.54",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/home/italo/proyectos/talleres/spring",
+    "previousColorScheme": "_@user_Gruvbox Dark Hard",
+    "project.wizard.group": "SpringInitializr",
+    "registry.to.advanced.settings.migration.build": "IU-222.3739.54",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/italo/proyectos/talleres/spring",
+      "/home/italo/Videos"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="attendance-history" project-path="$USER_HOME$/proyectos/talleres/spring/attendance" last-access-time="1662779868807" />
+      <command-history-file filename="untitled-history" project-path="$USER_HOME$/Videos/untitled" last-access-time="1662514455408" />
+    </command-history-files>
+  </component>
+</application>

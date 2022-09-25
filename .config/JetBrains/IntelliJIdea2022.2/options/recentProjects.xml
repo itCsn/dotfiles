@@ -1,0 +1,36 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Videos/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java" projectWorkspaceId="2EEciXEn6DJGwZ7GVIkx4btCDyW">
+              <option name="activationTimestamp" value="1662514591836" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.3739.54" />
+              <option name="buildTimestamp" value="1660626100600" />
+              <frame x="5" y="24" width="1908" height="1049" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1662164312346" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/proyectos/talleres/spring/attendance">
+          <value>
+            <RecentProjectMetaInfo frameTitle="attendance – AttendanceApplication.java" opened="true" projectWorkspaceId="2EQ4h0zjAhZPc4rmBsdzr59vHcR">
+              <option name="activationTimestamp" value="1662779881551" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-222.3739.54" />
+              <option name="buildTimestamp" value="1660626072649" />
+              <frame x="5" y="24" width="1908" height="1049" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1662514592194" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/proyectos/talleres/spring/attendance" />
+    <option name="lastProjectLocation" value="$USER_HOME$/proyectos/talleres/spring" />
+  </component>
+</application>

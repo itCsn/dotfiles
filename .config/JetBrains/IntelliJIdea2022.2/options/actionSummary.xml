@@ -1,0 +1,91 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1662613410484" />
+    </e>
+    <e n="Back">
+      <i c="1" l="1662337141693" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1662514619526" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="43" l="1662517053317" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="5" l="1662314597625" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1662514546371" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1662314558102" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1662314552417" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="4" l="1662314542434" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="5" l="1662314540911" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="3" l="1662264988338" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1662517032984" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1662517035589" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1662314468057" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1662514463878" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1662514729867" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1662516160087" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1662314615900" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1662164299675" />
+    </e>
+    <e n="WelcomeScreen.ManageLicense">
+      <i c="2" l="1662164213783" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigSyncPluginsSilentlyAction">
+      <i c="1" l="1662314457495" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigSyncSettingsAction">
+      <i c="1" l="1662314460336" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigWidget$1">
+      <i c="1" l="1662314449150" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="3" l="1662164269012" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1662779877963" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="37" l="1662613407867" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="4" l="1662779882345" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="2" l="1662164209850" />
+    </e>
+    <e n="de.plushnikov.intellij.plugin.activity.LombokBuildManagerListener$1">
+      <i c="1" l="1662613413272" />
+    </e>
+  </component>
+</application>

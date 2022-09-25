@@ -1,0 +1,92 @@
+[2022-09-05 12:28:02.160] [exthost] [info] Extension host with pid 13532 started
+[2022-09-05 12:28:02.160] [exthost] [info] Skipping acquiring lock for /home/italo/.config/Code/User/workspaceStorage/6443b8ff6f69aa0d990d6e5f8eeb5518.
+[2022-09-05 12:28:02.199] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-05 12:28:02.377] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-05 12:28:02.488] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-05 12:28:02.611] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-05 12:28:02.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-05 12:28:02.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-05 12:28:02.711] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-05 12:28:02.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-05 12:28:02.714] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-09-05 12:28:02.715] [exthost] [info] ExtensionService#_doActivateExtension Janne252.fontawesome-autocomplete, startup: true, activationEvent: '*'
+[2022-09-05 12:28:02.746] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-09-05 12:28:03.049] [exthost] [info] ExtensionService#_doActivateExtension ms-dotnettools.csharp, startup: true, activationEvent: '*', root cause: Unity.unity-debug
+[2022-09-05 12:28:03.111] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-09-05 12:28:04.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-05 12:28:04.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-05 12:28:04.369] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-09-05 12:28:04.485] [exthost] [info] ExtensionService#_doActivateExtension Unity.unity-debug, startup: true, activationEvent: '*'
+[2022-09-05 12:28:04.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-05 12:28:04.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-05 12:28:04.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-05 12:28:04.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-05 12:28:05.504] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2022-09-05 12:28:05.504] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: Process terminated. Couldn't find a valid ICU package installed on the system. Set the configuration flag System.Globalization.Invariant to true if you want to run with no globalization support.
+   at System.Environment.FailFast(System.String)
+   at System.Globalization.GlobalizationMode.GetGlobalizationInvariantMode()
+   at System.Globalization.GlobalizationMode..cctor()
+   at System.Globalization.CultureData.CreateCultureWithInvariantData()
+   at System.Globalization.CultureData.get_Invariant()
+   at System.Globalization.CultureInfo..cctor()
+   at System.String.ToLowerInvariant()
+   at System.Text.EncodingHelper.GetCharset()
+   at System.Text.EncodingHelper.GetEncodingFromCharset()
+   at System.ConsolePal.GetConsoleEncoding()
+   at System.Console+<>c.<get_OutputEncoding>b__19_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_OutputEncoding()
+   at System.Console.CreateOutputWriter(System.IO.Stream)
+   at System.Console+<>c.<get_Out>b__26_0()
+   at System.Threading.LazyInitializer.EnsureInitializedCore[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Threading.LazyInitializer.EnsureInitialized[[System.__Canon, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]](System.__Canon ByRef, System.Object ByRef, System.Func`1<System.__Canon>)
+   at System.Console.get_Out()
+   at Microsoft.Extensions.CommandLineUtils.CommandLineApplication..ctor(Boolean)
+   at Microsoft.Cascade.Agent.Program..ctor()
+   at Microsoft.Cascade.Agent.Program.Main(System.String[])
+    at ChildProcess.<anonymous> (/home/italo/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5705/src/abstractions/node/agent.ts:304:32)
+    at ChildProcess.emit (node:events:402:35)
+    at maybeClose (node:internal/child_process:1064:16)
+    at Socket.<anonymous> (node:internal/child_process:450:11)
+    at Socket.emit (node:events:390:28)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-09-05 12:28:05.504] [exthost] [info] Eager extensions activated
+[2022-09-05 12:28:05.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.537] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-09-05 12:28:05.574] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.644] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.704] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:28:05.833] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-05 12:33:34.048] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-05 12:33:34.295] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/italo/.vscode/extensions/vscodevim.vim-1.23.2/src/register/register.ts:326:30)
+    at Object.e.deactivate (/home/italo/.vscode/extensions/vscodevim.vim-1.23.2/extension.ts:65:18)
+    at w._deactivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:13068)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10622
+    at Array.map (<anonymous>)
+    at w._deactivateAll (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10609)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10993)
+    at w.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+    at m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19006)
+    at i._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23593)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21127
+    at w.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+    at p.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+    at p.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15837)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14967
+    at Socket.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:26303)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-09-05 12:33:34.301] [exthost] [info] Extension host with pid 13532 exiting with code 0

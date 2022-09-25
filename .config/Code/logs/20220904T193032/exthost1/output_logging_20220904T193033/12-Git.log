@@ -1,0 +1,21 @@
+[2022-09-05T00:30:35.539Z] Log level: Info
+[2022-09-05T00:30:35.540Z] [info] Validating found git in: git
+[2022-09-05T00:30:35.576Z] [info] Using git 2.37.2 from git
+[2022-09-05T00:30:36.135Z] > git rev-parse --show-toplevel [545ms]
+[2022-09-05T00:30:36.168Z] > git rev-parse --git-dir --git-common-dir [23ms]
+[2022-09-05T00:30:36.171Z] [info] Open repository: /home/italo/trabajo/odoo/template_odoo_docker_compose
+[2022-09-05T00:30:36.203Z] > git status -z -uall [24ms]
+[2022-09-05T00:30:36.216Z] > git symbolic-ref --short HEAD [4ms]
+[2022-09-05T00:30:36.245Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+[2022-09-05T00:30:36.264Z] > git remote --verbose [6ms]
+[2022-09-05T00:30:36.264Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-09-05T00:30:36.292Z] > git config --get commit.template [15ms]
+[2022-09-05T00:30:36.316Z] > git status -z -uall [16ms]
+[2022-09-05T00:30:36.391Z] > git symbolic-ref --short HEAD [68ms]
+[2022-09-05T00:30:36.402Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-05T00:30:36.425Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-09-05T00:30:36.431Z] > git remote --verbose [13ms]
+[2022-09-05T00:30:36.446Z] > git config --get commit.template [2ms]
+[2022-09-05T00:30:36.561Z] > git show --textconv :addons/dv_traslation_file_generator/__manifest__.py [6ms]
+[2022-09-05T00:30:36.562Z] > git ls-files --stage -- /home/italo/trabajo/odoo/template_odoo_docker_compose/addons/dv_traslation_file_generator/__manifest__.py [2ms]
+[2022-09-05T00:30:36.763Z] > git check-ignore -v -z --stdin [10ms]

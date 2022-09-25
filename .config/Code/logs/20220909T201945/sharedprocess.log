@@ -1,0 +1,44 @@
+[2022-09-09 20:19:47.084] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/italo/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5705
+[2022-09-09 20:19:47.318] [sharedprocess] [info] Starting worker process with pid 38726 (type: fileWatcher, window: 1).
+[2022-09-09 20:19:50.786] [sharedprocess] [info] Getting Manifest... angular.ng-template
+[2022-09-09 20:19:50.786] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-09-09 20:19:50.787] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-09 20:19:50.787] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-09-09 20:19:50.787] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-containers
+[2022-09-09 20:19:50.788] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-09-09 20:19:51.259] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-09 20:19:51.400] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-09-09 20:19:51.406] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-09-09 20:19:51.437] [sharedprocess] [info] Installing extension: angular.ng-template
+[2022-09-09 20:19:51.478] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-09-09 20:19:51.593] [sharedprocess] [info] Installing extension: github.copilot
+[2022-09-09 20:19:55.365] [sharedprocess] [info] Downloaded extension: github.copilot /home/italo/.config/Code/CachedExtensionVSIXs/github.copilot-1.44.6735
+[2022-09-09 20:19:55.395] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.6a453c0b-567d-42ec-b4b7-0d6712423824: github.copilot
+[2022-09-09 20:19:55.397] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/github.copilot-1.44.6735
+[2022-09-09 20:19:55.398] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-09-09 20:19:55.400] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-09-09 20:20:06.205] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/italo/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.251.0
+[2022-09-09 20:20:06.445] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.afd01095-0cc6-4dcd-955f-e6581f865d46: ms-vscode-remote.remote-containers
+[2022-09-09 20:20:06.450] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-vscode-remote.remote-containers-0.251.0
+[2022-09-09 20:20:06.451] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-09-09 20:20:06.454] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-09-09 20:20:14.926] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/italo/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002431955
+[2022-09-09 20:20:15.263] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.402bbfce-95b1-4b46-aeb2-2277d1b3ce2d: ms-toolsai.jupyter
+[2022-09-09 20:20:15.267] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-toolsai.jupyter-2022.8.1002431955
+[2022-09-09 20:20:15.273] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-09-09 20:20:15.277] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-09-09 20:20:16.167] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/italo/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.10
+[2022-09-09 20:20:16.875] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/italo/.config/Code/CachedExtensionVSIXs/angular.ng-template-14.2.0
+[2022-09-09 20:20:17.614] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.17e9a20f-af7c-4f5c-829b-d1f1d338bcdf: angular.ng-template
+[2022-09-09 20:20:17.622] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/angular.ng-template-14.2.0
+[2022-09-09 20:20:17.623] [sharedprocess] [info] Extracting completed. angular.ng-template
+[2022-09-09 20:20:17.625] [sharedprocess] [info] Extension installed successfully: angular.ng-template
+[2022-09-09 20:20:17.953] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.0e34b59a-4f94-43d9-824e-c89554cbf9e3: ms-python.vscode-pylance
+[2022-09-09 20:20:17.955] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.9.10
+[2022-09-09 20:20:17.956] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-09 20:20:17.958] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-09-09 20:20:21.847] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/italo/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.25
+[2022-09-09 20:20:22.436] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.f80cd7a7-f750-4af2-9ed9-ec9e7f25eb9e: visualstudioexptteam.vscodeintellicode
+[2022-09-09 20:20:22.439] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.25
+[2022-09-09 20:20:22.440] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-09-09 20:20:22.443] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode

@@ -1,0 +1,35 @@
+[2022-09-15 13:27:11.357] [sharedprocess] [info] Deleted from disk github.copilot /home/italo/.vscode/extensions/github.copilot-1.43.6621
+[2022-09-15 13:27:11.518] [sharedprocess] [info] Deleted from disk visualstudioexptteam.vscodeintellicode /home/italo/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.24
+[2022-09-15 13:27:11.585] [sharedprocess] [info] Starting worker process with pid 127271 (type: fileWatcher, window: 1).
+[2022-09-15 13:27:11.631] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/italo/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217
+[2022-09-15 13:27:11.962] [sharedprocess] [info] Deleted from disk angular.ng-template /home/italo/.vscode/extensions/angular.ng-template-14.1.0
+[2022-09-15 13:27:12.061] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.8.50
+[2022-09-15 13:27:12.085] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /home/italo/.vscode/extensions/ms-vscode-remote.remote-containers-0.245.2
+[2022-09-15 13:27:15.596] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-09-15 13:27:15.596] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-09-15 13:27:15.597] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-15 13:27:15.598] [sharedprocess] [info] Getting Manifest... rust-lang.rust-analyzer
+[2022-09-15 13:27:16.060] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-09-15 13:27:16.205] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-09-15 13:27:16.386] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-09-15 13:27:16.398] [sharedprocess] [info] Installing extension: rust-lang.rust-analyzer
+[2022-09-15 13:27:20.477] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/italo/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.12.27
+[2022-09-15 13:27:20.589] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.bc170301-4652-4124-9159-1819b16ec968: ms-vscode.cmake-tools
+[2022-09-15 13:27:20.592] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-vscode.cmake-tools-1.12.27
+[2022-09-15 13:27:20.595] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-09-15 13:27:20.597] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-09-15 13:27:20.679] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/italo/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.9.20
+[2022-09-15 13:27:22.256] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.bf1b9089-8454-4bc2-af3f-ce3ced987bc9: ms-python.vscode-pylance
+[2022-09-15 13:27:22.263] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.9.20
+[2022-09-15 13:27:22.264] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-09-15 13:27:22.266] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-09-15 13:27:24.508] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/italo/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5719
+[2022-09-15 13:27:25.566] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.3867b844-570b-4f58-9996-5b3b6b7b0aa1: ms-vsliveshare.vsliveshare
+[2022-09-15 13:27:25.570] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5719
+[2022-09-15 13:27:25.572] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-09-15 13:27:25.575] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-09-15 13:27:29.229] [sharedprocess] [info] Downloaded extension: rust-lang.rust-analyzer /home/italo/.config/Code/CachedExtensionVSIXs/rust-lang.rust-analyzer-0.3.1203-linux-x64
+[2022-09-15 13:27:29.499] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.f02465d7-d804-48fd-9177-6662449aba16: rust-lang.rust-analyzer
+[2022-09-15 13:27:29.502] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/rust-lang.rust-analyzer-0.3.1203-linux-x64
+[2022-09-15 13:27:29.504] [sharedprocess] [info] Extracting completed. rust-lang.rust-analyzer
+[2022-09-15 13:27:29.508] [sharedprocess] [info] Extension installed successfully: rust-lang.rust-analyzer

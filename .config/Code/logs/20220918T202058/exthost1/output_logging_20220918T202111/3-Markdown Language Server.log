@@ -1,0 +1,6 @@
+[Trace 01:21:11.811] Server: connection.languages.diagnostics.on: file:///home/italo/proyectos/ccat/ti/slides.md
+[Debug 01:21:11.831] LinkProvider: compute - file:///home/italo/proyectos/ccat/ti/slides.md
+[Trace 01:21:11.846] Server: connection.languages.diagnostics.on: file:///home/italo/proyectos/ccat/ti/slides.md
+[Debug 01:21:12.860] TableOfContentsProvider: create - file:///home/italo/proyectos/ccat/ti/slides.md
+[Debug 01:21:13.319] MdFoldingProvider: provideFoldingRanges - file:///home/italo/proyectos/ccat/ti/slides.md
+[Debug 01:21:26.960] MdFoldingProvider: provideFoldingRanges - file:///home/italo/proyectos/ccat/ti/slides.md

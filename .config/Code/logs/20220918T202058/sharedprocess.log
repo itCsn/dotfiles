@@ -1,0 +1,37 @@
+[2022-09-18 20:21:00.419] [sharedprocess] [info] Starting worker process with pid 1057549 (type: fileWatcher, window: 1).
+[2022-09-18 20:21:00.451] [sharedprocess] [info] Deleted from disk rust-lang.rust-analyzer /home/italo/.vscode/extensions/rust-lang.rust-analyzer-0.3.1194-linux-x64
+[2022-09-18 20:21:00.451] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools /home/italo/.vscode/extensions/ms-vscode.cmake-tools-1.12.26
+[2022-09-18 20:21:00.685] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.9.10
+[2022-09-18 20:21:00.842] [sharedprocess] [info] Deleted from disk ms-vsliveshare.vsliveshare /home/italo/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5711
+[2022-09-18 20:21:04.724] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-09-18 20:21:04.725] [sharedprocess] [info] Getting Manifest... jdinhlife.gruvbox
+[2022-09-18 20:21:04.726] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-18 20:21:04.727] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:21:05.440] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare
+[2022-09-18 20:21:05.555] [sharedprocess] [info] Installing extension: github.copilot
+[2022-09-18 20:21:05.628] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2022-09-18 20:21:05.691] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:21:07.515] [sharedprocess] [info] Downloaded extension: github.copilot /home/italo/.config/Code/CachedExtensionVSIXs/github.copilot-1.45.6792
+[2022-09-18 20:21:07.564] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.9d0b4595-e220-49c4-bee0-6997f845d3aa: github.copilot
+[2022-09-18 20:21:07.565] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/github.copilot-1.45.6792
+[2022-09-18 20:21:07.566] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-09-18 20:21:07.568] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-09-18 20:21:09.247] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox /home/italo/.config/Code/CachedExtensionVSIXs/jdinhlife.gruvbox-1.8.0
+[2022-09-18 20:21:09.270] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.801d6667-7d7c-45c2-89db-90b514072393: jdinhlife.gruvbox
+[2022-09-18 20:21:09.273] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/jdinhlife.gruvbox-1.8.0
+[2022-09-18 20:21:09.274] [sharedprocess] [info] Extracting completed. jdinhlife.gruvbox
+[2022-09-18 20:21:09.275] [sharedprocess] [info] Extension installed successfully: jdinhlife.gruvbox
+[2022-09-18 20:21:09.853] [sharedprocess] [info] Worker process with pid 1057549 terminated normally (type: fileWatcher, window: 1).
+[2022-09-18 20:21:10.352] [sharedprocess] [info] Starting worker process with pid 1057942 (type: fileWatcher, window: 1).
+[2022-09-18 20:21:10.867] [sharedprocess] [info] Downloaded extension: ms-vsliveshare.vsliveshare /home/italo/.config/Code/CachedExtensionVSIXs/ms-vsliveshare.vsliveshare-1.0.5723
+[2022-09-18 20:21:11.969] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.3eaac81d-6e72-49ce-9600-3869cb29ea18: ms-vsliveshare.vsliveshare
+[2022-09-18 20:21:11.973] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5723
+[2022-09-18 20:21:11.976] [sharedprocess] [info] Extracting completed. ms-vsliveshare.vsliveshare
+[2022-09-18 20:21:11.979] [sharedprocess] [info] Extension installed successfully: ms-vsliveshare.vsliveshare
+[2022-09-18 20:21:13.766] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:21:13.770] [sharedprocess] [info] Extensions is already requested to install visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:22:25.373] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/italo/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.27
+[2022-09-18 20:22:26.202] [sharedprocess] [info] Extracted extension to /home/italo/.vscode/extensions/.280a83c0-638c-4d8a-967a-68e4a8491173: visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:22:26.205] [sharedprocess] [info] Renamed to /home/italo/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.27
+[2022-09-18 20:22:26.207] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-09-18 20:22:26.209] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode

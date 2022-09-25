@@ -1,0 +1,3494 @@
+15:24:43.937: CPU Name: AMD Ryzen 7 5800X 8-Core Processor
+15:24:43.937: CPU Speed: 3183.371MHz
+15:24:43.937: Physical Cores: 8, Logical Cores: 16
+15:24:43.937: Physical Memory: 32024MB Total, 26132MB Free
+15:24:43.937: Kernel Version: Linux 5.19.5-arch1-1
+15:24:43.937: Distribution: EndeavourOS Unknown
+15:24:43.937: Session Type: tty
+15:24:43.937: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+15:24:43.938: Qt Version: 5.15.5 (runtime), 5.15.5 (compiled)
+15:24:43.938: Portable mode: false
+15:24:43.976: OBS 27.2.4-2 (linux)
+15:24:43.976: ---------------------------------
+15:24:43.976: ---------------------------------
+15:24:43.976: audio settings reset:
+15:24:43.976: 	samples per sec: 48000
+15:24:43.976: 	speakers:        2
+15:24:43.977: ---------------------------------
+15:24:43.977: Initializing OpenGL...
+15:24:44.035: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+15:24:44.035: OpenGL loaded successfully, version 3.3.0 NVIDIA 515.65.01, shading language 3.30 NVIDIA via Cg compiler
+15:24:44.067: ---------------------------------
+15:24:44.067: video settings reset:
+15:24:44.067: 	base resolution:   1920x1080
+15:24:44.067: 	output resolution: 1280x720
+15:24:44.067: 	downscale filter:  Bicubic
+15:24:44.067: 	fps:               30/1
+15:24:44.067: 	format:            NV12
+15:24:44.067: 	YUV mode:          709/Partial
+15:24:44.068: NV12 texture support not available
+15:24:44.068: Audio monitoring device:
+15:24:44.068: 	name: Default
+15:24:44.068: 	id: default
+15:24:44.068: ---------------------------------
+15:24:44.068: Failed to load 'en-US' text for module: 'decklink-captions.so'
+15:24:44.069: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+15:24:44.070: Failed to load 'en-GB' text for module: 'frontend-tools.so'
+15:24:44.112: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+15:24:44.113: Failed to load 'en-GB' text for module: 'linux-capture.so'
+15:24:44.114: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:24:44.114: No blackmagic support
+15:24:44.115: Failed to load 'en-GB' text for module: 'linux-jack.so'
+15:24:44.115: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+15:24:44.119: v4l2loopback not installed, virtual camera disabled
+15:24:44.123: NVENC supported
+15:24:44.123: FFMPEG VAAPI supported
+15:24:44.124: Failed to load 'en-GB' text for module: 'obs-libfdk.so'
+15:24:44.126: Failed to load 'en-GB' text for module: 'obs-x264.so'
+15:24:44.126: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+15:24:44.126: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+15:24:44.126: 
+15:24:44.126: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+15:24:44.127: ---------------------------------
+15:24:44.127:   Loaded Modules:
+15:24:44.127:     text-freetype2.so
+15:24:44.127:     rtmp-services.so
+15:24:44.127:     obs-x264.so
+15:24:44.127:     obs-transitions.so
+15:24:44.127:     obs-outputs.so
+15:24:44.127:     obs-libfdk.so
+15:24:44.127:     obs-filters.so
+15:24:44.127:     obs-ffmpeg.so
+15:24:44.127:     linux-v4l2.so
+15:24:44.127:     linux-pulseaudio.so
+15:24:44.127:     linux-jack.so
+15:24:44.127:     linux-decklink.so
+15:24:44.127:     linux-capture.so
+15:24:44.127:     linux-alsa.so
+15:24:44.127:     image-source.so
+15:24:44.127:     frontend-tools.so
+15:24:44.127:     decklink-ouput-ui.so
+15:24:44.127:     decklink-captions.so
+15:24:44.127: ---------------------------------
+15:24:44.127: ==== Startup complete ===============================================
+15:24:44.129: No scene file found, creating default scene
+15:24:44.145: All scene data cleared
+15:24:44.145: ------------------------------------------------
+15:24:44.148: pulse-input: Server name: 'pulseaudio 16.1'
+15:24:44.148: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+15:24:44.148: pulse-input: Started recording from 'alsa_output.pci-0000_2d_00.4.analog-stereo.monitor'
+15:24:44.148: pulse-input: Server name: 'pulseaudio 16.1'
+15:24:44.148: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+15:24:44.148: pulse-input: Started recording from 'alsa_input.usb-Jieli_Technology_USB_PHY_2.0-02.mono-fallback'
+15:24:44.148: Switched to scene 'Scene'
+15:24:44.148: Failed to glob scene collections
+15:24:44.651: [rtmp-services plugin] Successfully updated file 'services.json' (version 201)
+15:24:44.651: [rtmp-services plugin] Successfully updated package (version 201)
+15:24:44.693: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+15:24:44.693: 
+15:24:51.639: 
+15:24:51.639: ==== Auto-config wizard testing commencing ======
+
+15:24:53.007: ---------------------------------
+15:24:53.007: video settings reset:
+15:24:53.007: 	base resolution:   1920x1080
+15:24:53.007: 	output resolution: 1920x1080
+15:24:53.007: 	downscale filter:  Bicubic
+15:24:53.007: 	fps:               60/1
+15:24:53.007: 	format:            NV12
+15:24:53.007: 	YUV mode:          709/Partial
+15:24:53.007: NV12 texture support not available
+15:24:53.009: 
+15:24:53.009: ==== Auto-config wizard testing stopping ========
+
+15:25:01.829: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+15:25:01.852: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:01.866: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:01.866: 	title: (2) WhatsApp
+15:25:01.866: 	class: whatsapp-nativefier-d40211
+15:25:01.866: 	Bit depth: 24
+15:25:01.866: 	Found proper GLXFBConfig (in 9): yes
+15:25:01.866: 
+15:25:06.308: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:06.311: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:06.311: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:06.311: 	class: Navigator
+15:25:06.311: 	Bit depth: 32
+15:25:06.311: 	Found proper GLXFBConfig (in 9): yes
+15:25:06.311: 
+15:25:12.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:12.760: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:12.760: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:12.760: 	class: Navigator
+15:25:12.760: 	Bit depth: 32
+15:25:12.760: 	Found proper GLXFBConfig (in 9): yes
+15:25:12.760: 
+15:25:15.024: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:15.026: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:15.026: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:15.026: 	class: Navigator
+15:25:15.026: 	Bit depth: 32
+15:25:15.026: 	Found proper GLXFBConfig (in 9): yes
+15:25:15.026: 
+15:25:15.524: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:15.526: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:15.526: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:15.526: 	class: Navigator
+15:25:15.526: 	Bit depth: 32
+15:25:15.526: 	Found proper GLXFBConfig (in 9): yes
+15:25:15.526: 
+15:25:16.958: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:16.960: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:16.960: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:16.960: 	class: Navigator
+15:25:16.960: 	Bit depth: 32
+15:25:16.960: 	Found proper GLXFBConfig (in 9): yes
+15:25:16.960: 
+15:25:17.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:17.877: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:17.877: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:17.877: 	class: Navigator
+15:25:17.877: 	Bit depth: 32
+15:25:17.877: 	Found proper GLXFBConfig (in 9): yes
+15:25:17.877: 
+15:25:21.430: ---------------------------------
+15:25:21.430: [NVENC encoder: 'simple_h264_recording'] settings:
+15:25:21.430: 	rate_control: CQP
+15:25:21.430: 	bitrate:      0
+15:25:21.430: 	cqp:          23
+15:25:21.430: 	keyint:       250
+15:25:21.430: 	preset:       hq
+15:25:21.430: 	profile:      high
+15:25:21.430: 	width:        1920
+15:25:21.430: 	height:       1080
+15:25:21.430: 	2-pass:       false
+15:25:21.430: 	b-frames:     2
+15:25:21.430: 	psycho-aq:    1
+15:25:21.430: 	GPU:          0
+15:25:21.430: 
+15:25:21.646: libfdk_aac encoder created
+15:25:21.646: libfdk_aac bitrate: 192, channels: 2
+15:25:21.647: ==== Recording Start ===============================================
+15:25:21.647: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/italo/2022-09-04 15-25-21.mkv'...
+15:25:27.658: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:25:27.660: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:25:27.660: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:25:27.660: 	class: Navigator
+15:25:27.660: 	Bit depth: 32
+15:25:27.660: 	Found proper GLXFBConfig (in 9): yes
+15:25:27.660: 
+15:26:08.475: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:26:08.477: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:26:08.477: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:26:08.477: 	class: Navigator
+15:26:08.477: 	Bit depth: 32
+15:26:08.477: 	Found proper GLXFBConfig (in 9): yes
+15:26:08.477: 
+15:26:14.678: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/italo/2022-09-04 15-25-21.mkv' stopped
+15:26:14.678: Output 'simple_file_output': stopping
+15:26:14.678: Output 'simple_file_output': Total frames output: 3146
+15:26:14.678: Output 'simple_file_output': Total drawn frames: 3182
+15:26:14.678: ==== Recording Stop ================================================
+15:26:14.857: libfdk_aac encoder destroyed
+15:26:15.677: ---------------------------------
+15:26:15.677: [NVENC encoder: 'simple_h264_recording'] settings:
+15:26:15.677: 	rate_control: CQP
+15:26:15.677: 	bitrate:      0
+15:26:15.677: 	cqp:          23
+15:26:15.677: 	keyint:       250
+15:26:15.677: 	preset:       hq
+15:26:15.677: 	profile:      high
+15:26:15.677: 	width:        1920
+15:26:15.677: 	height:       1080
+15:26:15.677: 	2-pass:       false
+15:26:15.677: 	b-frames:     2
+15:26:15.677: 	psycho-aq:    1
+15:26:15.677: 	GPU:          0
+15:26:15.677: 
+15:26:15.842: libfdk_aac encoder created
+15:26:15.842: libfdk_aac bitrate: 192, channels: 2
+15:26:15.842: ==== Recording Start ===============================================
+15:26:15.842: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/italo/2022-09-04 15-26-15.mkv'...
+15:26:21.458: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:26:21.459: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:26:21.459: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:26:21.459: 	class: Navigator
+15:26:21.459: 	Bit depth: 32
+15:26:21.459: 	Found proper GLXFBConfig (in 9): yes
+15:26:21.459: 
+15:28:14.291: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:28:14.293: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:28:14.293: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:28:14.293: 	class: Navigator
+15:28:14.293: 	Bit depth: 32
+15:28:14.293: 	Found proper GLXFBConfig (in 9): yes
+15:28:14.293: 
+15:28:16.592: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:28:16.593: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:28:16.593: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:28:16.593: 	class: Navigator
+15:28:16.593: 	Bit depth: 32
+15:28:16.593: 	Found proper GLXFBConfig (in 9): yes
+15:28:16.593: 
+15:28:18.108: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:28:18.109: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:28:18.109: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:28:18.109: 	class: Navigator
+15:28:18.109: 	Bit depth: 32
+15:28:18.109: 	Found proper GLXFBConfig (in 9): yes
+15:28:18.109: 
+15:28:19.158: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:28:19.160: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:28:19.160: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:28:19.160: 	class: Navigator
+15:28:19.160: 	Bit depth: 32
+15:28:19.160: 	Found proper GLXFBConfig (in 9): yes
+15:28:19.160: 
+15:29:12.791: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:29:12.793: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:29:12.793: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:29:12.793: 	class: Navigator
+15:29:12.793: 	Bit depth: 32
+15:29:12.793: 	Found proper GLXFBConfig (in 9): yes
+15:29:12.793: 
+15:31:22.408: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:31:22.409: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:31:22.409: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:31:22.409: 	class: Navigator
+15:31:22.409: 	Bit depth: 32
+15:31:22.409: 	Found proper GLXFBConfig (in 9): yes
+15:31:22.409: 
+15:32:32.158: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:32:32.159: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:32:32.159: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:32:32.159: 	class: Navigator
+15:32:32.159: 	Bit depth: 32
+15:32:32.159: 	Found proper GLXFBConfig (in 9): yes
+15:32:32.159: 
+15:32:58.374: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:32:58.376: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:32:58.376: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:32:58.376: 	class: Navigator
+15:32:58.376: 	Bit depth: 32
+15:32:58.376: 	Found proper GLXFBConfig (in 9): yes
+15:32:58.376: 
+15:32:58.775: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:32:58.776: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:32:58.776: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:32:58.776: 	class: Navigator
+15:32:58.776: 	Bit depth: 32
+15:32:58.776: 	Found proper GLXFBConfig (in 9): yes
+15:32:58.776: 
+15:34:28.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:34:28.976: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:34:28.976: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:34:28.976: 	class: Navigator
+15:34:28.976: 	Bit depth: 32
+15:34:28.976: 	Found proper GLXFBConfig (in 9): yes
+15:34:28.976: 
+15:34:39.491: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:34:39.493: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:34:39.493: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:34:39.493: 	class: Navigator
+15:34:39.493: 	Bit depth: 32
+15:34:39.493: 	Found proper GLXFBConfig (in 9): yes
+15:34:39.493: 
+15:35:36.424: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:35:36.426: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:35:36.426: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:35:36.426: 	class: Navigator
+15:35:36.426: 	Bit depth: 32
+15:35:36.426: 	Found proper GLXFBConfig (in 9): yes
+15:35:36.426: 
+15:36:10.341: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:10.343: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:10.343: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:10.343: 	class: Navigator
+15:36:10.343: 	Bit depth: 32
+15:36:10.343: 	Found proper GLXFBConfig (in 9): yes
+15:36:10.343: 
+15:36:12.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:12.576: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:12.576: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:12.576: 	class: Navigator
+15:36:12.576: 	Bit depth: 32
+15:36:12.576: 	Found proper GLXFBConfig (in 9): yes
+15:36:12.576: 
+15:36:12.958: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:12.967: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:12.967: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:12.967: 	class: Navigator
+15:36:12.967: 	Bit depth: 32
+15:36:12.967: 	Found proper GLXFBConfig (in 9): yes
+15:36:12.967: 
+15:36:13.458: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:13.459: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:13.459: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:13.459: 	class: Navigator
+15:36:13.459: 	Bit depth: 32
+15:36:13.459: 	Found proper GLXFBConfig (in 9): yes
+15:36:13.459: 
+15:36:14.191: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:14.192: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:14.192: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:14.192: 	class: Navigator
+15:36:14.192: 	Bit depth: 32
+15:36:14.192: 	Found proper GLXFBConfig (in 9): yes
+15:36:14.192: 
+15:36:16.731: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:36:16.733: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:36:16.733: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:36:16.733: 	class: Navigator
+15:36:16.733: 	Bit depth: 32
+15:36:16.733: 	Found proper GLXFBConfig (in 9): yes
+15:36:16.733: 
+15:38:57.925: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:38:57.927: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:38:57.927: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:38:57.927: 	class: Navigator
+15:38:57.927: 	Bit depth: 32
+15:38:57.927: 	Found proper GLXFBConfig (in 9): yes
+15:38:57.927: 
+15:41:15.658: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:41:15.659: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:41:15.659: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:41:15.659: 	class: Navigator
+15:41:15.659: 	Bit depth: 32
+15:41:15.659: 	Found proper GLXFBConfig (in 9): yes
+15:41:15.659: 
+15:41:16.958: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:41:16.959: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:41:16.959: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:41:16.959: 	class: Navigator
+15:41:16.959: 	Bit depth: 32
+15:41:16.959: 	Found proper GLXFBConfig (in 9): yes
+15:41:16.959: 
+15:44:02.691: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:44:02.693: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:44:02.693: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:44:02.693: 	class: Navigator
+15:44:02.693: 	Bit depth: 32
+15:44:02.693: 	Found proper GLXFBConfig (in 9): yes
+15:44:02.693: 
+15:44:55.662: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:44:55.664: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:44:55.664: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:44:55.664: 	class: Navigator
+15:44:55.664: 	Bit depth: 32
+15:44:55.664: 	Found proper GLXFBConfig (in 9): yes
+15:44:55.664: 
+15:49:25.191: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:25.192: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:25.192: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:25.192: 	class: Navigator
+15:49:25.192: 	Bit depth: 32
+15:49:25.192: 	Found proper GLXFBConfig (in 9): yes
+15:49:25.192: 
+15:49:27.608: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:27.609: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:27.609: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:27.609: 	class: Navigator
+15:49:27.609: 	Bit depth: 32
+15:49:27.609: 	Found proper GLXFBConfig (in 9): yes
+15:49:27.609: 
+15:49:39.991: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:39.992: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:39.992: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:39.992: 	class: Navigator
+15:49:39.992: 	Bit depth: 32
+15:49:39.992: 	Found proper GLXFBConfig (in 9): yes
+15:49:39.992: 
+15:49:40.358: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:40.360: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:40.360: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:40.360: 	class: Navigator
+15:49:40.360: 	Bit depth: 32
+15:49:40.360: 	Found proper GLXFBConfig (in 9): yes
+15:49:40.360: 
+15:49:41.491: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:41.492: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:41.492: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:41.492: 	class: Navigator
+15:49:41.492: 	Bit depth: 32
+15:49:41.492: 	Found proper GLXFBConfig (in 9): yes
+15:49:41.492: 
+15:49:46.274: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:46.276: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:46.276: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:46.276: 	class: Navigator
+15:49:46.276: 	Bit depth: 32
+15:49:46.276: 	Found proper GLXFBConfig (in 9): yes
+15:49:46.276: 
+15:49:49.391: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:49:49.393: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:49:49.393: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:49:49.393: 	class: Navigator
+15:49:49.393: 	Bit depth: 32
+15:49:49.393: 	Found proper GLXFBConfig (in 9): yes
+15:49:49.393: 
+15:51:50.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:51:50.228: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:51:50.228: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:51:50.228: 	class: Navigator
+15:51:50.228: 	Bit depth: 32
+15:51:50.228: 	Found proper GLXFBConfig (in 9): yes
+15:51:50.228: 
+15:52:25.059: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:25.060: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:25.060: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:25.060: 	class: Navigator
+15:52:25.060: 	Bit depth: 32
+15:52:25.060: 	Found proper GLXFBConfig (in 9): yes
+15:52:25.060: 
+15:52:27.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:27.676: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:27.676: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:27.676: 	class: Navigator
+15:52:27.676: 	Bit depth: 32
+15:52:27.676: 	Found proper GLXFBConfig (in 9): yes
+15:52:27.676: 
+15:52:29.174: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:29.178: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:29.178: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:29.178: 	class: Navigator
+15:52:29.178: 	Bit depth: 32
+15:52:29.178: 	Found proper GLXFBConfig (in 9): yes
+15:52:29.178: 
+15:52:34.424: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:34.429: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:34.429: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:34.429: 	class: Navigator
+15:52:34.429: 	Bit depth: 32
+15:52:34.429: 	Found proper GLXFBConfig (in 9): yes
+15:52:34.429: 
+15:52:53.861: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:53.863: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:53.863: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:53.863: 	class: Navigator
+15:52:53.863: 	Bit depth: 32
+15:52:53.863: 	Found proper GLXFBConfig (in 9): yes
+15:52:53.863: 
+15:52:55.008: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:55.010: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:55.010: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:55.010: 	class: Navigator
+15:52:55.010: 	Bit depth: 32
+15:52:55.010: 	Found proper GLXFBConfig (in 9): yes
+15:52:55.010: 
+15:52:59.558: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:52:59.560: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:52:59.560: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:52:59.560: 	class: Navigator
+15:52:59.560: 	Bit depth: 32
+15:52:59.560: 	Found proper GLXFBConfig (in 9): yes
+15:52:59.560: 
+15:53:01.508: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:01.511: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:01.511: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:01.511: 	class: Navigator
+15:53:01.511: 	Bit depth: 32
+15:53:01.511: 	Found proper GLXFBConfig (in 9): yes
+15:53:01.511: 
+15:53:02.608: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:02.609: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:02.609: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:02.609: 	class: Navigator
+15:53:02.609: 	Bit depth: 32
+15:53:02.609: 	Found proper GLXFBConfig (in 9): yes
+15:53:02.609: 
+15:53:03.941: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:03.945: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:03.945: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:03.945: 	class: Navigator
+15:53:03.945: 	Bit depth: 32
+15:53:03.945: 	Found proper GLXFBConfig (in 9): yes
+15:53:03.945: 
+15:53:06.713: output simple_file_output paused
+15:53:10.441: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:10.445: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:10.445: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:10.445: 	class: Navigator
+15:53:10.445: 	Bit depth: 32
+15:53:10.445: 	Found proper GLXFBConfig (in 9): yes
+15:53:10.445: 
+15:53:21.191: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:21.195: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:21.195: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:21.195: 	class: Navigator
+15:53:21.195: 	Bit depth: 32
+15:53:21.195: 	Found proper GLXFBConfig (in 9): yes
+15:53:21.195: 
+15:53:32.008: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:32.015: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:32.015: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:32.015: 	class: Navigator
+15:53:32.015: 	Bit depth: 32
+15:53:32.015: 	Found proper GLXFBConfig (in 9): yes
+15:53:32.015: 
+15:53:34.043: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:34.047: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:34.047: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:34.047: 	class: Navigator
+15:53:34.047: 	Bit depth: 32
+15:53:34.047: 	Found proper GLXFBConfig (in 9): yes
+15:53:34.047: 
+15:53:43.897: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:43.903: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:43.903: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:43.903: 	class: Navigator
+15:53:43.903: 	Bit depth: 32
+15:53:43.903: 	Found proper GLXFBConfig (in 9): yes
+15:53:43.903: 
+15:53:46.499: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:46.502: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:46.502: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:46.502: 	class: Navigator
+15:53:46.502: 	Bit depth: 32
+15:53:46.502: 	Found proper GLXFBConfig (in 9): yes
+15:53:46.502: 
+15:53:47.029: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:53:47.034: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:53:47.034: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:53:47.034: 	class: Navigator
+15:53:47.034: 	Bit depth: 32
+15:53:47.034: 	Found proper GLXFBConfig (in 9): yes
+15:53:47.034: 
+15:54:03.380: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:03.389: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:54:03.389: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:54:03.389: 	class: Navigator
+15:54:03.389: 	Bit depth: 32
+15:54:03.389: 	Found proper GLXFBConfig (in 9): yes
+15:54:03.389: 
+15:54:38.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:38.597: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:54:38.597: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:54:38.597: 	class: Navigator
+15:54:38.597: 	Bit depth: 32
+15:54:38.597: 	Found proper GLXFBConfig (in 9): yes
+15:54:38.597: 
+15:54:42.979: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:42.987: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:54:42.987: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:54:42.987: 	class: Navigator
+15:54:42.987: 	Bit depth: 32
+15:54:42.987: 	Found proper GLXFBConfig (in 9): yes
+15:54:42.987: 
+15:54:49.474: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:49.481: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:54:49.481: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:54:49.481: 	class: Navigator
+15:54:49.481: 	Bit depth: 32
+15:54:49.481: 	Found proper GLXFBConfig (in 9): yes
+15:54:49.481: 
+15:54:50.825: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:54:50.828: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:54:50.828: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:54:50.828: 	class: Navigator
+15:54:50.828: 	Bit depth: 32
+15:54:50.828: 	Found proper GLXFBConfig (in 9): yes
+15:54:50.828: 
+15:55:01.724: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:55:01.727: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:55:01.727: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:55:01.727: 	class: Navigator
+15:55:01.727: 	Bit depth: 32
+15:55:01.727: 	Found proper GLXFBConfig (in 9): yes
+15:55:01.727: 
+15:56:31.158: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:31.169: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:31.169: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:31.169: 	class: Navigator
+15:56:31.169: 	Bit depth: 32
+15:56:31.169: 	Found proper GLXFBConfig (in 9): yes
+15:56:31.169: 
+15:56:31.544: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:31.557: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:31.557: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:31.557: 	class: Navigator
+15:56:31.557: 	Bit depth: 32
+15:56:31.557: 	Found proper GLXFBConfig (in 9): yes
+15:56:31.557: 
+15:56:31.951: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:31.954: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:31.954: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:31.954: 	class: Navigator
+15:56:31.954: 	Bit depth: 32
+15:56:31.954: 	Found proper GLXFBConfig (in 9): yes
+15:56:31.954: 
+15:56:32.828: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:32.831: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:32.831: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:32.831: 	class: Navigator
+15:56:32.831: 	Bit depth: 32
+15:56:32.831: 	Found proper GLXFBConfig (in 9): yes
+15:56:32.831: 
+15:56:33.478: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:33.481: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:33.481: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:33.481: 	class: Navigator
+15:56:33.481: 	Bit depth: 32
+15:56:33.481: 	Found proper GLXFBConfig (in 9): yes
+15:56:33.481: 
+15:56:36.879: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:36.887: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:36.887: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:36.887: 	class: Navigator
+15:56:36.887: 	Bit depth: 32
+15:56:36.887: 	Found proper GLXFBConfig (in 9): yes
+15:56:36.887: 
+15:56:37.229: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:37.234: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:37.234: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:37.234: 	class: Navigator
+15:56:37.234: 	Bit depth: 32
+15:56:37.234: 	Found proper GLXFBConfig (in 9): yes
+15:56:37.234: 
+15:56:37.464: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:37.470: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:37.470: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:37.470: 	class: Navigator
+15:56:37.470: 	Bit depth: 32
+15:56:37.470: 	Found proper GLXFBConfig (in 9): yes
+15:56:37.470: 
+15:56:38.145: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:38.148: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:38.148: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+15:56:38.148: 	class: Navigator
+15:56:38.148: 	Bit depth: 32
+15:56:38.148: 	Found proper GLXFBConfig (in 9): yes
+15:56:38.148: 
+15:56:42.061: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:42.065: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:42.065: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:42.065: 	class: Navigator
+15:56:42.065: 	Bit depth: 32
+15:56:42.065: 	Found proper GLXFBConfig (in 9): yes
+15:56:42.065: 
+15:56:42.629: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:42.632: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:42.632: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:42.632: 	class: Navigator
+15:56:42.632: 	Bit depth: 32
+15:56:42.632: 	Found proper GLXFBConfig (in 9): yes
+15:56:42.632: 
+15:56:44.307: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:44.312: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:44.312: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:44.312: 	class: Navigator
+15:56:44.312: 	Bit depth: 32
+15:56:44.312: 	Found proper GLXFBConfig (in 9): yes
+15:56:44.312: 
+15:56:47.374: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:47.380: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:47.380: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:47.380: 	class: Navigator
+15:56:47.380: 	Bit depth: 32
+15:56:47.380: 	Found proper GLXFBConfig (in 9): yes
+15:56:47.380: 
+15:56:47.843: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:47.848: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:47.848: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:47.848: 	class: Navigator
+15:56:47.848: 	Bit depth: 32
+15:56:47.848: 	Found proper GLXFBConfig (in 9): yes
+15:56:47.848: 
+15:56:49.624: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:49.628: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:49.628: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:49.628: 	class: Navigator
+15:56:49.628: 	Bit depth: 32
+15:56:49.628: 	Found proper GLXFBConfig (in 9): yes
+15:56:49.628: 
+15:56:50.141: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:56:50.146: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:56:50.146: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:56:50.146: 	class: Navigator
+15:56:50.146: 	Bit depth: 32
+15:56:50.146: 	Found proper GLXFBConfig (in 9): yes
+15:56:50.146: 
+15:57:52.877: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:57:52.888: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:57:52.888: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:57:52.888: 	class: Navigator
+15:57:52.888: 	Bit depth: 32
+15:57:52.888: 	Found proper GLXFBConfig (in 9): yes
+15:57:52.888: 
+15:57:53.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:57:53.960: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:57:53.960: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:57:53.960: 	class: Navigator
+15:57:53.960: 	Bit depth: 32
+15:57:53.960: 	Found proper GLXFBConfig (in 9): yes
+15:57:53.960: 
+15:58:18.625: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+15:58:18.629: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+15:58:18.629: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+15:58:18.629: 	class: Navigator
+15:58:18.629: 	Bit depth: 32
+15:58:18.629: 	Found proper GLXFBConfig (in 9): yes
+15:58:18.629: 
+16:00:22.391: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:22.400: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:22.400: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:22.400: 	class: Navigator
+16:00:22.400: 	Bit depth: 32
+16:00:22.400: 	Found proper GLXFBConfig (in 9): yes
+16:00:22.400: 
+16:00:25.830: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:25.837: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:25.837: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:25.837: 	class: Navigator
+16:00:25.837: 	Bit depth: 32
+16:00:25.837: 	Found proper GLXFBConfig (in 9): yes
+16:00:25.837: 
+16:00:26.626: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:26.631: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:26.631: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:26.631: 	class: Navigator
+16:00:26.631: 	Bit depth: 32
+16:00:26.631: 	Found proper GLXFBConfig (in 9): yes
+16:00:26.631: 
+16:00:49.528: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:49.532: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:49.532: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:49.532: 	class: Navigator
+16:00:49.532: 	Bit depth: 32
+16:00:49.532: 	Found proper GLXFBConfig (in 9): yes
+16:00:49.532: 
+16:00:50.474: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:50.477: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:50.477: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:50.477: 	class: Navigator
+16:00:50.477: 	Bit depth: 32
+16:00:50.477: 	Found proper GLXFBConfig (in 9): yes
+16:00:50.477: 
+16:00:51.324: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:51.326: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:51.326: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:51.326: 	class: Navigator
+16:00:51.326: 	Bit depth: 32
+16:00:51.326: 	Found proper GLXFBConfig (in 9): yes
+16:00:51.326: 
+16:00:51.643: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:51.645: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:51.645: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:51.645: 	class: Navigator
+16:00:51.645: 	Bit depth: 32
+16:00:51.645: 	Found proper GLXFBConfig (in 9): yes
+16:00:51.645: 
+16:00:52.226: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:00:52.229: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:00:52.229: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:00:52.229: 	class: Navigator
+16:00:52.229: 	Bit depth: 32
+16:00:52.229: 	Found proper GLXFBConfig (in 9): yes
+16:00:52.229: 
+16:01:14.411: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:01:14.416: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:01:14.416: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:01:14.416: 	class: Navigator
+16:01:14.416: 	Bit depth: 32
+16:01:14.416: 	Found proper GLXFBConfig (in 9): yes
+16:01:14.416: 
+16:01:24.794: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:01:24.797: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:01:24.797: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:01:24.797: 	class: Navigator
+16:01:24.797: 	Bit depth: 32
+16:01:24.797: 	Found proper GLXFBConfig (in 9): yes
+16:01:24.797: 
+16:01:28.560: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:01:28.565: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:01:28.565: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:01:28.565: 	class: Navigator
+16:01:28.565: 	Bit depth: 32
+16:01:28.565: 	Found proper GLXFBConfig (in 9): yes
+16:01:28.565: 
+16:03:04.127: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:04.133: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:04.133: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:04.133: 	class: Navigator
+16:03:04.133: 	Bit depth: 32
+16:03:04.133: 	Found proper GLXFBConfig (in 9): yes
+16:03:04.133: 
+16:03:05.375: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:05.377: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:05.377: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:05.377: 	class: Navigator
+16:03:05.377: 	Bit depth: 32
+16:03:05.377: 	Found proper GLXFBConfig (in 9): yes
+16:03:05.377: 
+16:03:42.429: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:42.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:42.433: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:42.433: 	class: Navigator
+16:03:42.433: 	Bit depth: 32
+16:03:42.433: 	Found proper GLXFBConfig (in 9): yes
+16:03:42.433: 
+16:03:43.341: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:43.345: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:43.345: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:43.345: 	class: Navigator
+16:03:43.345: 	Bit depth: 32
+16:03:43.345: 	Found proper GLXFBConfig (in 9): yes
+16:03:43.345: 
+16:03:44.777: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:44.781: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:44.781: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:44.781: 	class: Navigator
+16:03:44.781: 	Bit depth: 32
+16:03:44.781: 	Found proper GLXFBConfig (in 9): yes
+16:03:44.781: 
+16:03:46.529: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:03:46.532: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:03:46.532: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:03:46.532: 	class: Navigator
+16:03:46.532: 	Bit depth: 32
+16:03:46.532: 	Found proper GLXFBConfig (in 9): yes
+16:03:46.532: 
+16:04:07.741: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:04:07.744: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:04:07.744: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:04:07.744: 	class: Navigator
+16:04:07.744: 	Bit depth: 32
+16:04:07.744: 	Found proper GLXFBConfig (in 9): yes
+16:04:07.744: 
+16:05:21.242: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:21.246: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:21.246: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:05:21.246: 	class: Navigator
+16:05:21.246: 	Bit depth: 32
+16:05:21.246: 	Found proper GLXFBConfig (in 9): yes
+16:05:21.246: 
+16:05:26.642: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:26.645: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:26.645: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:05:26.645: 	class: Navigator
+16:05:26.645: 	Bit depth: 32
+16:05:26.645: 	Found proper GLXFBConfig (in 9): yes
+16:05:26.645: 
+16:05:37.909: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:37.914: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:37.914: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:05:37.914: 	class: Navigator
+16:05:37.914: 	Bit depth: 32
+16:05:37.914: 	Found proper GLXFBConfig (in 9): yes
+16:05:37.914: 
+16:05:40.525: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:40.530: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:40.530: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:40.530: 	class: Navigator
+16:05:40.530: 	Bit depth: 32
+16:05:40.530: 	Found proper GLXFBConfig (in 9): yes
+16:05:40.530: 
+16:05:40.827: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:40.830: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:40.830: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:40.830: 	class: Navigator
+16:05:40.830: 	Bit depth: 32
+16:05:40.830: 	Found proper GLXFBConfig (in 9): yes
+16:05:40.830: 
+16:05:42.645: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:42.650: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:42.650: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:42.650: 	class: Navigator
+16:05:42.650: 	Bit depth: 32
+16:05:42.650: 	Found proper GLXFBConfig (in 9): yes
+16:05:42.650: 
+16:05:43.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:43.228: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:43.228: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:43.228: 	class: Navigator
+16:05:43.228: 	Bit depth: 32
+16:05:43.228: 	Found proper GLXFBConfig (in 9): yes
+16:05:43.228: 
+16:05:48.737: output simple_file_output unpaused
+16:05:51.008: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:51.010: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:51.010: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:51.010: 	class: Navigator
+16:05:51.010: 	Bit depth: 32
+16:05:51.010: 	Found proper GLXFBConfig (in 9): yes
+16:05:51.010: 
+16:05:51.991: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:05:51.993: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:05:51.993: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:05:51.993: 	class: Navigator
+16:05:51.993: 	Bit depth: 32
+16:05:51.993: 	Found proper GLXFBConfig (in 9): yes
+16:05:51.993: 
+16:05:54.257: output simple_file_output paused
+16:06:02.374: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:02.376: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:02.376: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:02.376: 	class: Navigator
+16:06:02.376: 	Bit depth: 32
+16:06:02.376: 	Found proper GLXFBConfig (in 9): yes
+16:06:02.376: 
+16:06:03.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:03.576: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:03.576: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:03.576: 	class: Navigator
+16:06:03.576: 	Bit depth: 32
+16:06:03.576: 	Found proper GLXFBConfig (in 9): yes
+16:06:03.576: 
+16:06:04.058: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:04.059: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:04.059: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:04.059: 	class: Navigator
+16:06:04.059: 	Bit depth: 32
+16:06:04.059: 	Found proper GLXFBConfig (in 9): yes
+16:06:04.059: 
+16:06:04.641: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:04.642: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:04.642: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:04.642: 	class: Navigator
+16:06:04.642: 	Bit depth: 32
+16:06:04.642: 	Found proper GLXFBConfig (in 9): yes
+16:06:04.642: 
+16:06:07.312: output simple_file_output unpaused
+16:06:07.945: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/italo/2022-09-04 15-26-15.mkv' stopped
+16:06:07.945: Output 'simple_file_output': stopping
+16:06:07.945: Output 'simple_file_output': Total frames output: 96984
+16:06:07.945: Output 'simple_file_output': Total drawn frames: 143515 (143526 attempted)
+16:06:07.945: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 11 (0.0%)
+16:06:07.945: ==== Recording Stop ================================================
+16:06:08.117: libfdk_aac encoder destroyed
+16:06:10.692: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:10.696: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:10.696: 	title: Alacritty
+16:06:10.696: 	class: Alacritty
+16:06:10.696: 	Bit depth: 32
+16:06:10.696: 	Found proper GLXFBConfig (in 9): yes
+16:06:10.696: 
+16:06:14.659: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:14.664: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:14.664: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:14.664: 	class: Navigator
+16:06:14.664: 	Bit depth: 32
+16:06:14.664: 	Found proper GLXFBConfig (in 9): yes
+16:06:14.664: 
+16:06:17.691: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:17.694: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:17.694: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:17.694: 	class: Navigator
+16:06:17.694: 	Bit depth: 32
+16:06:17.694: 	Found proper GLXFBConfig (in 9): yes
+16:06:17.694: 
+16:06:21.525: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:21.528: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:21.528: 	title: GPC - FIIS - Juniors - Bruteforce - Virtual Judge — Mozilla Firefox
+16:06:21.528: 	class: Navigator
+16:06:21.528: 	Bit depth: 32
+16:06:21.528: 	Found proper GLXFBConfig (in 9): yes
+16:06:21.528: 
+16:06:27.125: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:27.129: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:27.129: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:27.129: 	class: Navigator
+16:06:27.129: 	Bit depth: 32
+16:06:27.129: 	Found proper GLXFBConfig (in 9): yes
+16:06:27.129: 
+16:06:28.758: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:28.761: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:28.761: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:28.761: 	class: Navigator
+16:06:28.761: 	Bit depth: 32
+16:06:28.761: 	Found proper GLXFBConfig (in 9): yes
+16:06:28.761: 
+16:06:33.744: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:33.750: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:33.750: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:33.750: 	class: Navigator
+16:06:33.750: 	Bit depth: 32
+16:06:33.750: 	Found proper GLXFBConfig (in 9): yes
+16:06:33.750: 
+16:06:34.474: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:34.481: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:34.481: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:34.481: 	class: Navigator
+16:06:34.481: 	Bit depth: 32
+16:06:34.481: 	Found proper GLXFBConfig (in 9): yes
+16:06:34.481: 
+16:06:35.591: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:35.596: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:35.596: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:35.596: 	class: Navigator
+16:06:35.596: 	Bit depth: 32
+16:06:35.596: 	Found proper GLXFBConfig (in 9): yes
+16:06:35.596: 
+16:06:38.144: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:38.149: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:38.149: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:38.149: 	class: Navigator
+16:06:38.149: 	Bit depth: 32
+16:06:38.149: 	Found proper GLXFBConfig (in 9): yes
+16:06:38.149: 
+16:06:44.559: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:06:44.564: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:06:44.564: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:06:44.564: 	class: Navigator
+16:06:44.564: 	Bit depth: 32
+16:06:44.564: 	Found proper GLXFBConfig (in 9): yes
+16:06:44.564: 
+16:07:53.326: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:53.331: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:53.331: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:53.331: 	class: Navigator
+16:07:53.331: 	Bit depth: 32
+16:07:53.331: 	Found proper GLXFBConfig (in 9): yes
+16:07:53.331: 
+16:07:54.247: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:54.251: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:54.251: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:54.251: 	class: Navigator
+16:07:54.251: 	Bit depth: 32
+16:07:54.251: 	Found proper GLXFBConfig (in 9): yes
+16:07:54.251: 
+16:07:54.658: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:54.661: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:54.661: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:54.661: 	class: Navigator
+16:07:54.661: 	Bit depth: 32
+16:07:54.661: 	Found proper GLXFBConfig (in 9): yes
+16:07:54.661: 
+16:07:55.264: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:55.268: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:55.268: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:55.268: 	class: Navigator
+16:07:55.268: 	Bit depth: 32
+16:07:55.268: 	Found proper GLXFBConfig (in 9): yes
+16:07:55.268: 
+16:07:56.310: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:56.319: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:56.319: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:56.319: 	class: Navigator
+16:07:56.319: 	Bit depth: 32
+16:07:56.319: 	Found proper GLXFBConfig (in 9): yes
+16:07:56.319: 
+16:07:57.195: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:57.200: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:57.200: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:57.200: 	class: Navigator
+16:07:57.200: 	Bit depth: 32
+16:07:57.200: 	Found proper GLXFBConfig (in 9): yes
+16:07:57.200: 
+16:07:58.276: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:58.281: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:58.281: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:58.281: 	class: Navigator
+16:07:58.281: 	Bit depth: 32
+16:07:58.281: 	Found proper GLXFBConfig (in 9): yes
+16:07:58.281: 
+16:07:58.559: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:07:58.569: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:07:58.569: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:07:58.569: 	class: Navigator
+16:07:58.569: 	Bit depth: 32
+16:07:58.569: 	Found proper GLXFBConfig (in 9): yes
+16:07:58.569: 
+16:08:25.076: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:25.082: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:25.082: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:25.082: 	class: Navigator
+16:08:25.082: 	Bit depth: 32
+16:08:25.082: 	Found proper GLXFBConfig (in 9): yes
+16:08:25.082: 
+16:08:25.732: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:25.738: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:25.738: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:25.738: 	class: Navigator
+16:08:25.738: 	Bit depth: 32
+16:08:25.738: 	Found proper GLXFBConfig (in 9): yes
+16:08:25.738: 
+16:08:26.061: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:26.067: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:26.067: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:26.067: 	class: Navigator
+16:08:26.067: 	Bit depth: 32
+16:08:26.067: 	Found proper GLXFBConfig (in 9): yes
+16:08:26.067: 
+16:08:27.059: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:27.067: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:27.067: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:27.067: 	class: Navigator
+16:08:27.067: 	Bit depth: 32
+16:08:27.067: 	Found proper GLXFBConfig (in 9): yes
+16:08:27.067: 
+16:08:28.342: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:28.351: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:28.351: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:28.351: 	class: Navigator
+16:08:28.351: 	Bit depth: 32
+16:08:28.351: 	Found proper GLXFBConfig (in 9): yes
+16:08:28.351: 
+16:08:29.060: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:29.065: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:29.065: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:29.065: 	class: Navigator
+16:08:29.065: 	Bit depth: 32
+16:08:29.065: 	Found proper GLXFBConfig (in 9): yes
+16:08:29.065: 
+16:08:29.811: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:29.816: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:29.816: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:29.816: 	class: Navigator
+16:08:29.816: 	Bit depth: 32
+16:08:29.816: 	Found proper GLXFBConfig (in 9): yes
+16:08:29.816: 
+16:08:30.097: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:30.105: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:30.105: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:30.105: 	class: Navigator
+16:08:30.105: 	Bit depth: 32
+16:08:30.105: 	Found proper GLXFBConfig (in 9): yes
+16:08:30.105: 
+16:08:33.660: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:33.667: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:33.667: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:33.667: 	class: Navigator
+16:08:33.667: 	Bit depth: 32
+16:08:33.667: 	Found proper GLXFBConfig (in 9): yes
+16:08:33.667: 
+16:08:34.144: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:08:34.151: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:08:34.151: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:08:34.151: 	class: Navigator
+16:08:34.151: 	Bit depth: 32
+16:08:34.151: 	Found proper GLXFBConfig (in 9): yes
+16:08:34.151: 
+16:09:39.958: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:39.976: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:39.976: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:39.976: 	class: Navigator
+16:09:39.976: 	Bit depth: 32
+16:09:39.976: 	Found proper GLXFBConfig (in 9): yes
+16:09:39.976: 
+16:09:40.942: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:40.947: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:40.947: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:40.947: 	class: Navigator
+16:09:40.947: 	Bit depth: 32
+16:09:40.947: 	Found proper GLXFBConfig (in 9): yes
+16:09:40.947: 
+16:09:43.210: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:43.214: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:43.214: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:43.214: 	class: Navigator
+16:09:43.214: 	Bit depth: 32
+16:09:43.214: 	Found proper GLXFBConfig (in 9): yes
+16:09:43.214: 
+16:09:43.681: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:43.686: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:43.686: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:43.686: 	class: Navigator
+16:09:43.686: 	Bit depth: 32
+16:09:43.686: 	Found proper GLXFBConfig (in 9): yes
+16:09:43.686: 
+16:09:44.026: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:44.030: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:44.030: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:44.030: 	class: Navigator
+16:09:44.030: 	Bit depth: 32
+16:09:44.030: 	Found proper GLXFBConfig (in 9): yes
+16:09:44.030: 
+16:09:44.358: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:44.366: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:44.366: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:44.366: 	class: Navigator
+16:09:44.366: 	Bit depth: 32
+16:09:44.366: 	Found proper GLXFBConfig (in 9): yes
+16:09:44.366: 
+16:09:46.315: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:46.331: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:46.331: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:46.331: 	class: Navigator
+16:09:46.331: 	Bit depth: 32
+16:09:46.331: 	Found proper GLXFBConfig (in 9): yes
+16:09:46.331: 
+16:09:46.759: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:46.775: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:46.775: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:46.775: 	class: Navigator
+16:09:46.775: 	Bit depth: 32
+16:09:46.775: 	Found proper GLXFBConfig (in 9): yes
+16:09:46.775: 
+16:09:48.159: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:48.161: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:48.161: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:48.161: 	class: Navigator
+16:09:48.161: 	Bit depth: 32
+16:09:48.161: 	Found proper GLXFBConfig (in 9): yes
+16:09:48.161: 
+16:09:48.896: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:48.900: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:48.900: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:48.900: 	class: Navigator
+16:09:48.900: 	Bit depth: 32
+16:09:48.900: 	Found proper GLXFBConfig (in 9): yes
+16:09:48.900: 
+16:09:50.725: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:50.730: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:50.730: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:50.730: 	class: Navigator
+16:09:50.730: 	Bit depth: 32
+16:09:50.730: 	Found proper GLXFBConfig (in 9): yes
+16:09:50.730: 
+16:09:51.924: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:51.930: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:51.930: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:51.930: 	class: Navigator
+16:09:51.930: 	Bit depth: 32
+16:09:51.930: 	Found proper GLXFBConfig (in 9): yes
+16:09:51.930: 
+16:09:53.693: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:53.704: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:53.704: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:53.704: 	class: Navigator
+16:09:53.704: 	Bit depth: 32
+16:09:53.704: 	Found proper GLXFBConfig (in 9): yes
+16:09:53.704: 
+16:09:54.462: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:54.469: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:54.469: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:54.469: 	class: Navigator
+16:09:54.469: 	Bit depth: 32
+16:09:54.469: 	Found proper GLXFBConfig (in 9): yes
+16:09:54.469: 
+16:09:55.126: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:55.131: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:55.131: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:55.131: 	class: Navigator
+16:09:55.131: 	Bit depth: 32
+16:09:55.131: 	Found proper GLXFBConfig (in 9): yes
+16:09:55.131: 
+16:09:56.108: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:09:56.116: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:09:56.116: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:09:56.116: 	class: Navigator
+16:09:56.116: 	Bit depth: 32
+16:09:56.116: 	Found proper GLXFBConfig (in 9): yes
+16:09:56.116: 
+16:10:06.677: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:10:06.682: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:10:06.682: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:10:06.682: 	class: Navigator
+16:10:06.682: 	Bit depth: 32
+16:10:06.682: 	Found proper GLXFBConfig (in 9): yes
+16:10:06.682: 
+16:10:06.964: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:10:06.969: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:10:06.969: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:10:06.969: 	class: Navigator
+16:10:06.969: 	Bit depth: 32
+16:10:06.969: 	Found proper GLXFBConfig (in 9): yes
+16:10:06.969: 
+16:10:09.110: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:10:09.115: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:10:09.115: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:10:09.115: 	class: Navigator
+16:10:09.115: 	Bit depth: 32
+16:10:09.115: 	Found proper GLXFBConfig (in 9): yes
+16:10:09.115: 
+16:10:10.112: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:10:10.118: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:10:10.118: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:10:10.118: 	class: Navigator
+16:10:10.118: 	Bit depth: 32
+16:10:10.118: 	Found proper GLXFBConfig (in 9): yes
+16:10:10.118: 
+16:13:33.408: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:13:33.415: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:13:33.415: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:13:33.415: 	class: Navigator
+16:13:33.415: 	Bit depth: 32
+16:13:33.415: 	Found proper GLXFBConfig (in 9): yes
+16:13:33.415: 
+16:13:34.542: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:13:34.544: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:13:34.544: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:13:34.544: 	class: Navigator
+16:13:34.544: 	Bit depth: 32
+16:13:34.544: 	Found proper GLXFBConfig (in 9): yes
+16:13:34.544: 
+16:14:50.807: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:14:50.817: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:14:50.817: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:14:50.817: 	class: Navigator
+16:14:50.817: 	Bit depth: 32
+16:14:50.817: 	Found proper GLXFBConfig (in 9): yes
+16:14:50.817: 
+16:16:54.644: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:16:54.652: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:16:54.652: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:16:54.652: 	class: Navigator
+16:16:54.652: 	Bit depth: 32
+16:16:54.652: 	Found proper GLXFBConfig (in 9): yes
+16:16:54.652: 
+16:17:10.326: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:17:10.328: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:17:10.328: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:17:10.328: 	class: Navigator
+16:17:10.328: 	Bit depth: 32
+16:17:10.328: 	Found proper GLXFBConfig (in 9): yes
+16:17:10.328: 
+16:17:10.857: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:17:10.861: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:17:10.861: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:17:10.861: 	class: Navigator
+16:17:10.861: 	Bit depth: 32
+16:17:10.861: 	Found proper GLXFBConfig (in 9): yes
+16:17:10.861: 
+16:17:59.108: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:17:59.111: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:17:59.111: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:17:59.111: 	class: Navigator
+16:17:59.111: 	Bit depth: 32
+16:17:59.111: 	Found proper GLXFBConfig (in 9): yes
+16:17:59.111: 
+16:17:59.509: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:17:59.511: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:17:59.511: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:17:59.511: 	class: Navigator
+16:17:59.511: 	Bit depth: 32
+16:17:59.511: 	Found proper GLXFBConfig (in 9): yes
+16:17:59.511: 
+16:18:31.675: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:31.678: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:31.678: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:31.678: 	class: Navigator
+16:18:31.678: 	Bit depth: 32
+16:18:31.678: 	Found proper GLXFBConfig (in 9): yes
+16:18:31.678: 
+16:18:31.859: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:31.863: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:31.863: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:31.863: 	class: Navigator
+16:18:31.863: 	Bit depth: 32
+16:18:31.863: 	Found proper GLXFBConfig (in 9): yes
+16:18:31.863: 
+16:18:45.343: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:45.346: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:45.346: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:45.346: 	class: Navigator
+16:18:45.346: 	Bit depth: 32
+16:18:45.346: 	Found proper GLXFBConfig (in 9): yes
+16:18:45.346: 
+16:18:45.801: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:45.810: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:45.810: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:45.810: 	class: Navigator
+16:18:45.810: 	Bit depth: 32
+16:18:45.810: 	Found proper GLXFBConfig (in 9): yes
+16:18:45.810: 
+16:18:46.675: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:46.681: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:46.681: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:46.681: 	class: Navigator
+16:18:46.681: 	Bit depth: 32
+16:18:46.681: 	Found proper GLXFBConfig (in 9): yes
+16:18:46.681: 
+16:18:48.311: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:18:48.314: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:18:48.314: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:18:48.314: 	class: Navigator
+16:18:48.314: 	Bit depth: 32
+16:18:48.314: 	Found proper GLXFBConfig (in 9): yes
+16:18:48.314: 
+16:20:02.609: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:20:02.614: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:20:02.614: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:20:02.614: 	class: Navigator
+16:20:02.614: 	Bit depth: 32
+16:20:02.614: 	Found proper GLXFBConfig (in 9): yes
+16:20:02.614: 
+16:20:02.927: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:20:02.937: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:20:02.937: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:20:02.937: 	class: Navigator
+16:20:02.937: 	Bit depth: 32
+16:20:02.937: 	Found proper GLXFBConfig (in 9): yes
+16:20:02.937: 
+16:23:34.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:34.960: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:34.960: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:34.960: 	class: Navigator
+16:23:34.960: 	Bit depth: 32
+16:23:34.960: 	Found proper GLXFBConfig (in 9): yes
+16:23:34.960: 
+16:23:35.330: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:35.334: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:35.334: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:35.334: 	class: Navigator
+16:23:35.334: 	Bit depth: 32
+16:23:35.334: 	Found proper GLXFBConfig (in 9): yes
+16:23:35.334: 
+16:23:36.458: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:36.464: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:36.464: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:36.464: 	class: Navigator
+16:23:36.464: 	Bit depth: 32
+16:23:36.464: 	Found proper GLXFBConfig (in 9): yes
+16:23:36.464: 
+16:23:37.443: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:37.446: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:37.446: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:37.446: 	class: Navigator
+16:23:37.446: 	Bit depth: 32
+16:23:37.446: 	Found proper GLXFBConfig (in 9): yes
+16:23:37.446: 
+16:23:41.207: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:41.209: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:41.209: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:41.209: 	class: Navigator
+16:23:41.209: 	Bit depth: 32
+16:23:41.209: 	Found proper GLXFBConfig (in 9): yes
+16:23:41.209: 
+16:23:41.758: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:23:41.761: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:23:41.761: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:23:41.761: 	class: Navigator
+16:23:41.761: 	Bit depth: 32
+16:23:41.761: 	Found proper GLXFBConfig (in 9): yes
+16:23:41.761: 
+16:25:00.578: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:25:00.581: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:25:00.581: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:25:00.581: 	class: Navigator
+16:25:00.581: 	Bit depth: 32
+16:25:00.581: 	Found proper GLXFBConfig (in 9): yes
+16:25:00.581: 
+16:25:01.424: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:25:01.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:25:01.433: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:25:01.433: 	class: Navigator
+16:25:01.433: 	Bit depth: 32
+16:25:01.433: 	Found proper GLXFBConfig (in 9): yes
+16:25:01.433: 
+16:25:08.759: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:25:08.796: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:25:08.796: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:25:08.796: 	class: Navigator
+16:25:08.796: 	Bit depth: 32
+16:25:08.796: 	Found proper GLXFBConfig (in 9): yes
+16:25:08.796: 
+16:25:09.357: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:25:09.368: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:25:09.368: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:25:09.368: 	class: Navigator
+16:25:09.368: 	Bit depth: 32
+16:25:09.368: 	Found proper GLXFBConfig (in 9): yes
+16:25:09.368: 
+16:26:03.393: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:26:03.396: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:26:03.396: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:26:03.396: 	class: Navigator
+16:26:03.396: 	Bit depth: 32
+16:26:03.396: 	Found proper GLXFBConfig (in 9): yes
+16:26:03.396: 
+16:26:03.992: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:26:03.998: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:26:03.998: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:26:03.998: 	class: Navigator
+16:26:03.998: 	Bit depth: 32
+16:26:03.998: 	Found proper GLXFBConfig (in 9): yes
+16:26:03.998: 
+16:28:45.343: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:28:45.345: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:28:45.345: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:28:45.345: 	class: Navigator
+16:28:45.345: 	Bit depth: 32
+16:28:45.345: 	Found proper GLXFBConfig (in 9): yes
+16:28:45.345: 
+16:31:24.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:31:24.676: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:31:24.676: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:31:24.676: 	class: Navigator
+16:31:24.676: 	Bit depth: 32
+16:31:24.676: 	Found proper GLXFBConfig (in 9): yes
+16:31:24.676: 
+16:33:49.941: ---------------------------------
+16:33:49.941: [NVENC encoder: 'simple_h264_recording'] settings:
+16:33:49.941: 	rate_control: CQP
+16:33:49.941: 	bitrate:      0
+16:33:49.941: 	cqp:          23
+16:33:49.941: 	keyint:       250
+16:33:49.941: 	preset:       hq
+16:33:49.941: 	profile:      high
+16:33:49.941: 	width:        1920
+16:33:49.941: 	height:       1080
+16:33:49.941: 	2-pass:       false
+16:33:49.941: 	b-frames:     2
+16:33:49.941: 	psycho-aq:    1
+16:33:49.941: 	GPU:          0
+16:33:49.941: 
+16:33:50.098: libfdk_aac encoder created
+16:33:50.098: libfdk_aac bitrate: 192, channels: 2
+16:33:50.099: ==== Recording Start ===============================================
+16:33:50.099: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/italo/2022-09-04 16-33-49.mkv'...
+16:38:38.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:38:38.875: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:38:38.875: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:38:38.875: 	class: Navigator
+16:38:38.875: 	Bit depth: 32
+16:38:38.875: 	Found proper GLXFBConfig (in 9): yes
+16:38:38.875: 
+16:54:23.791: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:54:23.792: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:54:23.792: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:54:23.792: 	class: Navigator
+16:54:23.792: 	Bit depth: 32
+16:54:23.792: 	Found proper GLXFBConfig (in 9): yes
+16:54:23.792: 
+16:54:58.884: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:54:58.885: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:54:58.885: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:54:58.885: 	class: Navigator
+16:54:58.885: 	Bit depth: 32
+16:54:58.885: 	Found proper GLXFBConfig (in 9): yes
+16:54:58.885: 
+16:55:02.191: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:55:02.192: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:55:02.192: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:55:02.192: 	class: Navigator
+16:55:02.192: 	Bit depth: 32
+16:55:02.192: 	Found proper GLXFBConfig (in 9): yes
+16:55:02.192: 
+16:55:11.041: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:55:11.042: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:55:11.042: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:55:11.042: 	class: Navigator
+16:55:11.042: 	Bit depth: 32
+16:55:11.042: 	Found proper GLXFBConfig (in 9): yes
+16:55:11.042: 
+16:55:11.450: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:55:11.452: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:55:11.452: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:55:11.452: 	class: Navigator
+16:55:11.452: 	Bit depth: 32
+16:55:11.452: 	Found proper GLXFBConfig (in 9): yes
+16:55:11.452: 
+16:55:12.250: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+16:55:12.251: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+16:55:12.251: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+16:55:12.251: 	class: Navigator
+16:55:12.251: 	Bit depth: 32
+16:55:12.251: 	Found proper GLXFBConfig (in 9): yes
+16:55:12.251: 
+17:02:20.774: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:02:20.775: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:02:20.775: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:02:20.775: 	class: Navigator
+17:02:20.775: 	Bit depth: 32
+17:02:20.775: 	Found proper GLXFBConfig (in 9): yes
+17:02:20.775: 
+17:02:22.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:02:22.676: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:02:22.676: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:02:22.676: 	class: Navigator
+17:02:22.676: 	Bit depth: 32
+17:02:22.676: 	Found proper GLXFBConfig (in 9): yes
+17:02:22.676: 
+17:04:30.391: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:04:30.393: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:04:30.393: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:04:30.393: 	class: Navigator
+17:04:30.393: 	Bit depth: 32
+17:04:30.393: 	Found proper GLXFBConfig (in 9): yes
+17:04:30.393: 
+17:04:31.141: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:04:31.142: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:04:31.142: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:04:31.142: 	class: Navigator
+17:04:31.142: 	Bit depth: 32
+17:04:31.142: 	Found proper GLXFBConfig (in 9): yes
+17:04:31.142: 
+17:04:34.541: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:04:34.543: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:04:34.543: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:04:34.543: 	class: Navigator
+17:04:34.543: 	Bit depth: 32
+17:04:34.543: 	Found proper GLXFBConfig (in 9): yes
+17:04:34.543: 
+17:04:53.766: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:04:53.768: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:04:53.768: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:04:53.768: 	class: Navigator
+17:04:53.768: 	Bit depth: 32
+17:04:53.768: 	Found proper GLXFBConfig (in 9): yes
+17:04:53.768: 
+17:05:28.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:05:28.226: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:05:28.226: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:05:28.226: 	class: Navigator
+17:05:28.226: 	Bit depth: 32
+17:05:28.226: 	Found proper GLXFBConfig (in 9): yes
+17:05:28.226: 
+17:05:28.824: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:05:28.826: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:05:28.826: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:05:28.826: 	class: Navigator
+17:05:28.826: 	Bit depth: 32
+17:05:28.826: 	Found proper GLXFBConfig (in 9): yes
+17:05:28.826: 
+17:05:29.532: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:05:29.533: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:05:29.533: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:05:29.533: 	class: Navigator
+17:05:29.533: 	Bit depth: 32
+17:05:29.533: 	Found proper GLXFBConfig (in 9): yes
+17:05:29.533: 
+17:07:54.431: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:07:54.433: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:07:54.433: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:07:54.433: 	class: Navigator
+17:07:54.433: 	Bit depth: 32
+17:07:54.433: 	Found proper GLXFBConfig (in 9): yes
+17:07:54.433: 
+17:07:57.698: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:07:57.699: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:07:57.699: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:07:57.699: 	class: Navigator
+17:07:57.699: 	Bit depth: 32
+17:07:57.699: 	Found proper GLXFBConfig (in 9): yes
+17:07:57.699: 
+17:07:58.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:07:58.882: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:07:58.882: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:07:58.882: 	class: Navigator
+17:07:58.882: 	Bit depth: 32
+17:07:58.882: 	Found proper GLXFBConfig (in 9): yes
+17:07:58.882: 
+17:08:01.215: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:01.217: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:01.217: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:01.217: 	class: Navigator
+17:08:01.217: 	Bit depth: 32
+17:08:01.217: 	Found proper GLXFBConfig (in 9): yes
+17:08:01.217: 
+17:08:03.207: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:03.209: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:03.209: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:03.209: 	class: Navigator
+17:08:03.209: 	Bit depth: 32
+17:08:03.209: 	Found proper GLXFBConfig (in 9): yes
+17:08:03.209: 
+17:08:08.591: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:08.592: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:08.592: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:08.592: 	class: Navigator
+17:08:08.592: 	Bit depth: 32
+17:08:08.592: 	Found proper GLXFBConfig (in 9): yes
+17:08:08.592: 
+17:08:09.741: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:09.742: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:09.742: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:09.742: 	class: Navigator
+17:08:09.742: 	Bit depth: 32
+17:08:09.742: 	Found proper GLXFBConfig (in 9): yes
+17:08:09.742: 
+17:08:22.558: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:22.560: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:22.560: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:22.560: 	class: Navigator
+17:08:22.560: 	Bit depth: 32
+17:08:22.560: 	Found proper GLXFBConfig (in 9): yes
+17:08:22.560: 
+17:08:23.357: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:23.359: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:23.359: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:23.359: 	class: Navigator
+17:08:23.359: 	Bit depth: 32
+17:08:23.359: 	Found proper GLXFBConfig (in 9): yes
+17:08:23.359: 
+17:08:24.491: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:24.492: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:24.492: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:24.492: 	class: Navigator
+17:08:24.492: 	Bit depth: 32
+17:08:24.492: 	Found proper GLXFBConfig (in 9): yes
+17:08:24.492: 
+17:08:27.691: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:27.692: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:27.692: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:27.692: 	class: Navigator
+17:08:27.692: 	Bit depth: 32
+17:08:27.692: 	Found proper GLXFBConfig (in 9): yes
+17:08:27.692: 
+17:08:28.741: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:28.743: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:28.743: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:28.743: 	class: Navigator
+17:08:28.743: 	Bit depth: 32
+17:08:28.743: 	Found proper GLXFBConfig (in 9): yes
+17:08:28.743: 
+17:08:30.624: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:30.626: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:30.626: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:30.626: 	class: Navigator
+17:08:30.626: 	Bit depth: 32
+17:08:30.626: 	Found proper GLXFBConfig (in 9): yes
+17:08:30.626: 
+17:08:33.835: output simple_file_output paused
+17:08:34.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:34.876: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:34.876: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:34.876: 	class: Navigator
+17:08:34.876: 	Bit depth: 32
+17:08:34.876: 	Found proper GLXFBConfig (in 9): yes
+17:08:34.876: 
+17:08:37.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:37.225: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:37.225: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:37.225: 	class: Navigator
+17:08:37.225: 	Bit depth: 32
+17:08:37.225: 	Found proper GLXFBConfig (in 9): yes
+17:08:37.225: 
+17:08:39.507: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:39.509: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:39.509: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:39.509: 	class: Navigator
+17:08:39.509: 	Bit depth: 32
+17:08:39.509: 	Found proper GLXFBConfig (in 9): yes
+17:08:39.509: 
+17:08:41.107: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:41.109: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:41.109: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:41.109: 	class: Navigator
+17:08:41.109: 	Bit depth: 32
+17:08:41.109: 	Found proper GLXFBConfig (in 9): yes
+17:08:41.109: 
+17:08:47.124: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:47.125: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:47.125: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:47.125: 	class: Navigator
+17:08:47.125: 	Bit depth: 32
+17:08:47.125: 	Found proper GLXFBConfig (in 9): yes
+17:08:47.125: 
+17:08:48.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:48.758: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:48.758: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:48.758: 	class: Navigator
+17:08:48.758: 	Bit depth: 32
+17:08:48.758: 	Found proper GLXFBConfig (in 9): yes
+17:08:48.758: 
+17:08:49.724: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:49.726: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:49.726: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:49.726: 	class: Navigator
+17:08:49.726: 	Bit depth: 32
+17:08:49.726: 	Found proper GLXFBConfig (in 9): yes
+17:08:49.726: 
+17:08:51.624: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:51.626: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:51.626: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:51.626: 	class: Navigator
+17:08:51.626: 	Bit depth: 32
+17:08:51.626: 	Found proper GLXFBConfig (in 9): yes
+17:08:51.626: 
+17:08:52.457: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:52.460: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:52.460: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:52.460: 	class: Navigator
+17:08:52.460: 	Bit depth: 32
+17:08:52.460: 	Found proper GLXFBConfig (in 9): yes
+17:08:52.460: 
+17:08:53.325: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:53.327: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:53.327: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:53.327: 	class: Navigator
+17:08:53.327: 	Bit depth: 32
+17:08:53.327: 	Found proper GLXFBConfig (in 9): yes
+17:08:53.327: 
+17:08:53.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:53.678: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:53.678: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:53.678: 	class: Navigator
+17:08:53.678: 	Bit depth: 32
+17:08:53.678: 	Found proper GLXFBConfig (in 9): yes
+17:08:53.678: 
+17:08:54.007: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:54.011: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:54.011: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:54.011: 	class: Navigator
+17:08:54.011: 	Bit depth: 32
+17:08:54.011: 	Found proper GLXFBConfig (in 9): yes
+17:08:54.011: 
+17:08:54.291: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:08:54.294: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:08:54.294: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:08:54.294: 	class: Navigator
+17:08:54.294: 	Bit depth: 32
+17:08:54.294: 	Found proper GLXFBConfig (in 9): yes
+17:08:54.294: 
+17:09:06.707: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:09:06.710: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:09:06.710: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:09:06.710: 	class: Navigator
+17:09:06.710: 	Bit depth: 32
+17:09:06.710: 	Found proper GLXFBConfig (in 9): yes
+17:09:06.710: 
+17:17:17.457: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:17.461: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:17.461: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:17.461: 	class: Navigator
+17:17:17.461: 	Bit depth: 32
+17:17:17.461: 	Found proper GLXFBConfig (in 9): yes
+17:17:17.461: 
+17:17:18.841: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:18.849: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:18.849: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:18.849: 	class: Navigator
+17:17:18.849: 	Bit depth: 32
+17:17:18.849: 	Found proper GLXFBConfig (in 9): yes
+17:17:18.849: 
+17:17:20.284: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:20.289: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:20.289: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:20.289: 	class: Navigator
+17:17:20.289: 	Bit depth: 32
+17:17:20.289: 	Found proper GLXFBConfig (in 9): yes
+17:17:20.289: 
+17:17:20.551: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:20.554: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:20.554: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:20.554: 	class: Navigator
+17:17:20.554: 	Bit depth: 32
+17:17:20.554: 	Found proper GLXFBConfig (in 9): yes
+17:17:20.554: 
+17:17:32.075: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:32.079: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:32.079: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:32.079: 	class: Navigator
+17:17:32.079: 	Bit depth: 32
+17:17:32.079: 	Found proper GLXFBConfig (in 9): yes
+17:17:32.079: 
+17:17:32.449: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:17:32.457: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:17:32.457: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:17:32.457: 	class: Navigator
+17:17:32.457: 	Bit depth: 32
+17:17:32.457: 	Found proper GLXFBConfig (in 9): yes
+17:17:32.457: 
+17:19:02.714: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:19:02.720: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:19:02.720: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:19:02.720: 	class: Navigator
+17:19:02.720: 	Bit depth: 32
+17:19:02.720: 	Found proper GLXFBConfig (in 9): yes
+17:19:02.720: 
+17:19:03.631: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:19:03.637: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:19:03.637: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:19:03.637: 	class: Navigator
+17:19:03.637: 	Bit depth: 32
+17:19:03.637: 	Found proper GLXFBConfig (in 9): yes
+17:19:03.637: 
+17:22:34.394: output simple_file_output unpaused
+17:22:35.020: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/italo/2022-09-04 16-33-49.mkv' stopped
+17:22:35.020: Output 'simple_file_output': stopping
+17:22:35.020: Output 'simple_file_output': Total frames output: 125025
+17:22:35.020: Output 'simple_file_output': Total drawn frames: 175494 (175495 attempted)
+17:22:35.020: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+17:22:35.020: ==== Recording Stop ================================================
+17:22:35.190: libfdk_aac encoder destroyed
+17:24:07.065: Settings changed (outputs)
+17:24:07.065: ------------------------------------------------
+17:24:34.679: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:24:34.778: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:24:34.778: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:24:34.778: 	class: Navigator
+17:24:34.778: 	Bit depth: 32
+17:24:34.778: 	Found proper GLXFBConfig (in 9): yes
+17:24:34.778: 
+17:24:36.079: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:24:36.162: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:24:36.162: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:24:36.162: 	class: Navigator
+17:24:36.162: 	Bit depth: 32
+17:24:36.162: 	Found proper GLXFBConfig (in 9): yes
+17:24:36.162: 
+17:26:25.583: ---------------------------------
+17:26:25.583: [NVENC encoder: 'simple_h264_recording'] settings:
+17:26:25.583: 	rate_control: CQP
+17:26:25.583: 	bitrate:      0
+17:26:25.583: 	cqp:          23
+17:26:25.583: 	keyint:       250
+17:26:25.583: 	preset:       hq
+17:26:25.583: 	profile:      high
+17:26:25.583: 	width:        1920
+17:26:25.583: 	height:       1080
+17:26:25.583: 	2-pass:       false
+17:26:25.583: 	b-frames:     2
+17:26:25.583: 	psycho-aq:    1
+17:26:25.583: 	GPU:          0
+17:26:25.583: 
+17:26:25.744: libfdk_aac encoder created
+17:26:25.744: libfdk_aac bitrate: 192, channels: 2
+17:26:25.745: ==== Recording Start ===============================================
+17:26:25.745: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/italo/Videos/2022-09-04 17-26-25.mkv'...
+17:29:06.777: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:06.779: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:06.779: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:06.779: 	class: Navigator
+17:29:06.779: 	Bit depth: 32
+17:29:06.779: 	Found proper GLXFBConfig (in 9): yes
+17:29:06.779: 
+17:29:07.944: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:07.946: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:07.946: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:07.946: 	class: Navigator
+17:29:07.946: 	Bit depth: 32
+17:29:07.946: 	Found proper GLXFBConfig (in 9): yes
+17:29:07.946: 
+17:29:13.891: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:13.892: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:13.892: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:13.892: 	class: Navigator
+17:29:13.892: 	Bit depth: 32
+17:29:13.892: 	Found proper GLXFBConfig (in 9): yes
+17:29:13.892: 
+17:29:14.924: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:14.926: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:14.926: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:14.926: 	class: Navigator
+17:29:14.926: 	Bit depth: 32
+17:29:14.926: 	Found proper GLXFBConfig (in 9): yes
+17:29:14.926: 
+17:29:15.644: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:15.645: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:15.645: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:15.645: 	class: Navigator
+17:29:15.645: 	Bit depth: 32
+17:29:15.645: 	Found proper GLXFBConfig (in 9): yes
+17:29:15.645: 
+17:29:16.557: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:16.559: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:16.559: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:16.559: 	class: Navigator
+17:29:16.559: 	Bit depth: 32
+17:29:16.559: 	Found proper GLXFBConfig (in 9): yes
+17:29:16.559: 
+17:29:23.141: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:23.144: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:23.144: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:23.144: 	class: Navigator
+17:29:23.144: 	Bit depth: 32
+17:29:23.144: 	Found proper GLXFBConfig (in 9): yes
+17:29:23.144: 
+17:29:23.857: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:23.859: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:23.859: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:23.859: 	class: Navigator
+17:29:23.859: 	Bit depth: 32
+17:29:23.859: 	Found proper GLXFBConfig (in 9): yes
+17:29:23.859: 
+17:29:24.807: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:29:24.809: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:29:24.809: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:29:24.809: 	class: Navigator
+17:29:24.809: 	Bit depth: 32
+17:29:24.809: 	Found proper GLXFBConfig (in 9): yes
+17:29:24.809: 
+17:32:47.907: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:32:47.910: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:32:47.910: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:32:47.910: 	class: Navigator
+17:32:47.910: 	Bit depth: 32
+17:32:47.910: 	Found proper GLXFBConfig (in 9): yes
+17:32:47.910: 
+17:32:48.724: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:32:48.726: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:32:48.726: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:32:48.726: 	class: Navigator
+17:32:48.726: 	Bit depth: 32
+17:32:48.726: 	Found proper GLXFBConfig (in 9): yes
+17:32:48.726: 
+17:32:49.524: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:32:49.526: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:32:49.526: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:32:49.526: 	class: Navigator
+17:32:49.526: 	Bit depth: 32
+17:32:49.526: 	Found proper GLXFBConfig (in 9): yes
+17:32:49.526: 
+17:33:33.057: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:33:33.061: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:33:33.061: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:33:33.061: 	class: Navigator
+17:33:33.061: 	Bit depth: 32
+17:33:33.061: 	Found proper GLXFBConfig (in 9): yes
+17:33:33.061: 
+17:34:06.277: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:34:06.278: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:34:06.278: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:34:06.278: 	class: Navigator
+17:34:06.278: 	Bit depth: 32
+17:34:06.278: 	Found proper GLXFBConfig (in 9): yes
+17:34:06.278: 
+17:39:30.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:39:30.759: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:30.759: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:39:30.759: 	class: Navigator
+17:39:30.759: 	Bit depth: 32
+17:39:30.759: 	Found proper GLXFBConfig (in 9): yes
+17:39:30.759: 
+17:39:38.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:39:38.576: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:38.576: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:39:38.576: 	class: Navigator
+17:39:38.576: 	Bit depth: 32
+17:39:38.576: 	Found proper GLXFBConfig (in 9): yes
+17:39:38.576: 
+17:39:45.441: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:39:45.443: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:39:45.443: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:39:45.443: 	class: Navigator
+17:39:45.443: 	Bit depth: 32
+17:39:45.443: 	Found proper GLXFBConfig (in 9): yes
+17:39:45.443: 
+17:40:00.241: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:40:00.242: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:40:00.242: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:40:00.242: 	class: Navigator
+17:40:00.242: 	Bit depth: 32
+17:40:00.242: 	Found proper GLXFBConfig (in 9): yes
+17:40:00.242: 
+17:40:07.157: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:40:07.160: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:40:07.160: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:40:07.160: 	class: Navigator
+17:40:07.160: 	Bit depth: 32
+17:40:07.160: 	Found proper GLXFBConfig (in 9): yes
+17:40:07.160: 
+17:40:31.207: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:40:31.209: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:40:31.209: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:40:31.209: 	class: Navigator
+17:40:31.209: 	Bit depth: 32
+17:40:31.209: 	Found proper GLXFBConfig (in 9): yes
+17:40:31.209: 
+17:40:33.641: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:40:33.642: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:40:33.642: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:40:33.642: 	class: Navigator
+17:40:33.642: 	Bit depth: 32
+17:40:33.642: 	Found proper GLXFBConfig (in 9): yes
+17:40:33.642: 
+17:41:05.641: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:41:05.642: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:41:05.642: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:41:05.642: 	class: Navigator
+17:41:05.642: 	Bit depth: 32
+17:41:05.642: 	Found proper GLXFBConfig (in 9): yes
+17:41:05.642: 
+17:41:10.374: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:41:10.376: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:41:10.376: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:41:10.376: 	class: Navigator
+17:41:10.376: 	Bit depth: 32
+17:41:10.376: 	Found proper GLXFBConfig (in 9): yes
+17:41:10.376: 
+17:41:10.991: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:41:10.993: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:41:10.993: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:41:10.993: 	class: Navigator
+17:41:10.993: 	Bit depth: 32
+17:41:10.993: 	Found proper GLXFBConfig (in 9): yes
+17:41:10.993: 
+17:42:00.991: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:00.993: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:00.993: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:00.993: 	class: Navigator
+17:42:00.993: 	Bit depth: 32
+17:42:00.993: 	Found proper GLXFBConfig (in 9): yes
+17:42:00.993: 
+17:42:03.707: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:03.709: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:03.709: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:03.709: 	class: Navigator
+17:42:03.709: 	Bit depth: 32
+17:42:03.709: 	Found proper GLXFBConfig (in 9): yes
+17:42:03.709: 
+17:42:04.491: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:04.492: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:04.492: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:04.492: 	class: Navigator
+17:42:04.492: 	Bit depth: 32
+17:42:04.492: 	Found proper GLXFBConfig (in 9): yes
+17:42:04.492: 
+17:42:06.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:06.676: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:06.676: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:06.676: 	class: Navigator
+17:42:06.676: 	Bit depth: 32
+17:42:06.676: 	Found proper GLXFBConfig (in 9): yes
+17:42:06.676: 
+17:42:07.291: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:07.292: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:07.292: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:07.292: 	class: Navigator
+17:42:07.292: 	Bit depth: 32
+17:42:07.292: 	Found proper GLXFBConfig (in 9): yes
+17:42:07.292: 
+17:42:08.726: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:08.728: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:08.728: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:08.728: 	class: Navigator
+17:42:08.728: 	Bit depth: 32
+17:42:08.728: 	Found proper GLXFBConfig (in 9): yes
+17:42:08.728: 
+17:42:27.743: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:27.745: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:27.745: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:27.745: 	class: Navigator
+17:42:27.745: 	Bit depth: 32
+17:42:27.745: 	Found proper GLXFBConfig (in 9): yes
+17:42:27.745: 
+17:42:33.343: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:33.344: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:33.344: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:33.344: 	class: Navigator
+17:42:33.344: 	Bit depth: 32
+17:42:33.344: 	Found proper GLXFBConfig (in 9): yes
+17:42:33.344: 
+17:42:33.943: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:33.944: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:33.944: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:33.944: 	class: Navigator
+17:42:33.944: 	Bit depth: 32
+17:42:33.944: 	Found proper GLXFBConfig (in 9): yes
+17:42:33.944: 
+17:42:38.358: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:38.360: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:38.360: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:38.360: 	class: Navigator
+17:42:38.360: 	Bit depth: 32
+17:42:38.360: 	Found proper GLXFBConfig (in 9): yes
+17:42:38.360: 
+17:42:38.760: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:38.762: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:38.762: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:38.762: 	class: Navigator
+17:42:38.762: 	Bit depth: 32
+17:42:38.762: 	Found proper GLXFBConfig (in 9): yes
+17:42:38.762: 
+17:42:45.426: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:45.428: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:45.428: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:45.428: 	class: Navigator
+17:42:45.428: 	Bit depth: 32
+17:42:45.428: 	Found proper GLXFBConfig (in 9): yes
+17:42:45.428: 
+17:42:46.141: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:46.142: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:46.142: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:46.142: 	class: Navigator
+17:42:46.142: 	Bit depth: 32
+17:42:46.142: 	Found proper GLXFBConfig (in 9): yes
+17:42:46.142: 
+17:42:46.993: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:46.995: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:46.995: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:46.995: 	class: Navigator
+17:42:46.995: 	Bit depth: 32
+17:42:46.995: 	Found proper GLXFBConfig (in 9): yes
+17:42:46.995: 
+17:42:52.809: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:52.811: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:52.811: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:52.811: 	class: Navigator
+17:42:52.811: 	Bit depth: 32
+17:42:52.811: 	Found proper GLXFBConfig (in 9): yes
+17:42:52.811: 
+17:42:54.391: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:42:54.393: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:42:54.393: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:42:54.393: 	class: Navigator
+17:42:54.393: 	Bit depth: 32
+17:42:54.393: 	Found proper GLXFBConfig (in 9): yes
+17:42:54.393: 
+17:43:03.107: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:43:03.109: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:43:03.109: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:43:03.109: 	class: Navigator
+17:43:03.109: 	Bit depth: 32
+17:43:03.109: 	Found proper GLXFBConfig (in 9): yes
+17:43:03.109: 
+17:43:03.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:43:03.759: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:43:03.759: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:43:03.759: 	class: Navigator
+17:43:03.759: 	Bit depth: 32
+17:43:03.759: 	Found proper GLXFBConfig (in 9): yes
+17:43:03.759: 
+17:43:37.159: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:43:37.161: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:43:37.161: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:43:37.161: 	class: Navigator
+17:43:37.161: 	Bit depth: 32
+17:43:37.161: 	Found proper GLXFBConfig (in 9): yes
+17:43:37.161: 
+17:43:45.824: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:43:45.826: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:43:45.826: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:43:45.826: 	class: Navigator
+17:43:45.826: 	Bit depth: 32
+17:43:45.826: 	Found proper GLXFBConfig (in 9): yes
+17:43:45.826: 
+17:44:12.924: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:12.926: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:12.926: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:12.926: 	class: Navigator
+17:44:12.926: 	Bit depth: 32
+17:44:12.926: 	Found proper GLXFBConfig (in 9): yes
+17:44:12.926: 
+17:44:13.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:13.227: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:13.227: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:13.227: 	class: Navigator
+17:44:13.227: 	Bit depth: 32
+17:44:13.227: 	Found proper GLXFBConfig (in 9): yes
+17:44:13.227: 
+17:44:23.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:23.876: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:23.876: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:23.876: 	class: Navigator
+17:44:23.876: 	Bit depth: 32
+17:44:23.876: 	Found proper GLXFBConfig (in 9): yes
+17:44:23.876: 
+17:44:24.891: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:24.893: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:24.893: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:24.893: 	class: Navigator
+17:44:24.893: 	Bit depth: 32
+17:44:24.893: 	Found proper GLXFBConfig (in 9): yes
+17:44:24.893: 
+17:44:26.307: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:26.309: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:26.309: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:26.309: 	class: Navigator
+17:44:26.309: 	Bit depth: 32
+17:44:26.309: 	Found proper GLXFBConfig (in 9): yes
+17:44:26.309: 
+17:44:26.559: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:26.561: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:26.561: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:26.561: 	class: Navigator
+17:44:26.561: 	Bit depth: 32
+17:44:26.561: 	Found proper GLXFBConfig (in 9): yes
+17:44:26.561: 
+17:44:26.942: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:26.944: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:26.944: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:26.944: 	class: Navigator
+17:44:26.944: 	Bit depth: 32
+17:44:26.944: 	Found proper GLXFBConfig (in 9): yes
+17:44:26.944: 
+17:44:27.492: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:27.494: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:27.494: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:27.494: 	class: Navigator
+17:44:27.494: 	Bit depth: 32
+17:44:27.494: 	Found proper GLXFBConfig (in 9): yes
+17:44:27.494: 
+17:44:38.057: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:38.060: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:38.060: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:38.060: 	class: Navigator
+17:44:38.060: 	Bit depth: 32
+17:44:38.060: 	Found proper GLXFBConfig (in 9): yes
+17:44:38.060: 
+17:44:44.725: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:44:44.726: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:44:44.726: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:44:44.726: 	class: Navigator
+17:44:44.726: 	Bit depth: 32
+17:44:44.726: 	Found proper GLXFBConfig (in 9): yes
+17:44:44.726: 
+17:47:20.241: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:47:20.259: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:20.259: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:47:20.259: 	class: Navigator
+17:47:20.259: 	Bit depth: 32
+17:47:20.259: 	Found proper GLXFBConfig (in 9): yes
+17:47:20.259: 
+17:47:21.710: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:47:21.712: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:47:21.712: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:47:21.712: 	class: Navigator
+17:47:21.712: 	Bit depth: 32
+17:47:21.712: 	Found proper GLXFBConfig (in 9): yes
+17:47:21.712: 
+17:52:22.840: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:52:22.842: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:52:22.842: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:52:22.842: 	class: Navigator
+17:52:22.842: 	Bit depth: 32
+17:52:22.842: 	Found proper GLXFBConfig (in 9): yes
+17:52:22.842: 
+17:52:23.157: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:52:23.158: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:52:23.158: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:52:23.158: 	class: Navigator
+17:52:23.158: 	Bit depth: 32
+17:52:23.158: 	Found proper GLXFBConfig (in 9): yes
+17:52:23.158: 
+17:52:23.707: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:52:23.709: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:52:23.709: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:52:23.709: 	class: Navigator
+17:52:23.709: 	Bit depth: 32
+17:52:23.709: 	Found proper GLXFBConfig (in 9): yes
+17:52:23.709: 
+17:52:24.340: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:52:24.407: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:52:24.407: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:52:24.407: 	class: Navigator
+17:52:24.407: 	Bit depth: 32
+17:52:24.407: 	Found proper GLXFBConfig (in 9): yes
+17:52:24.407: 
+17:52:27.688: output simple_file_output paused
+17:54:40.411: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:54:40.416: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:54:40.416: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:54:40.416: 	class: Navigator
+17:54:40.416: 	Bit depth: 32
+17:54:40.416: 	Found proper GLXFBConfig (in 9): yes
+17:54:40.416: 
+17:55:05.244: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:55:05.250: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:55:05.250: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:55:05.250: 	class: Navigator
+17:55:05.250: 	Bit depth: 32
+17:55:05.250: 	Found proper GLXFBConfig (in 9): yes
+17:55:05.250: 
+17:55:06.024: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:55:06.026: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:55:06.026: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:55:06.026: 	class: Navigator
+17:55:06.026: 	Bit depth: 32
+17:55:06.026: 	Found proper GLXFBConfig (in 9): yes
+17:55:06.026: 
+17:55:06.641: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:55:06.643: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:55:06.643: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:55:06.643: 	class: Navigator
+17:55:06.643: 	Bit depth: 32
+17:55:06.643: 	Found proper GLXFBConfig (in 9): yes
+17:55:06.643: 
+17:55:07.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:55:07.976: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:55:07.976: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:55:07.976: 	class: Navigator
+17:55:07.976: 	Bit depth: 32
+17:55:07.976: 	Found proper GLXFBConfig (in 9): yes
+17:55:07.976: 
+17:55:08.745: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+17:55:08.747: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:55:08.747: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+17:55:08.747: 	class: Navigator
+17:55:08.747: 	Bit depth: 32
+17:55:08.747: 	Found proper GLXFBConfig (in 9): yes
+17:55:08.747: 
+18:00:15.225: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:15.228: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:15.228: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:15.228: 	class: Navigator
+18:00:15.228: 	Bit depth: 32
+18:00:15.228: 	Found proper GLXFBConfig (in 9): yes
+18:00:15.228: 
+18:00:16.542: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:16.547: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:16.547: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:16.547: 	class: Navigator
+18:00:16.547: 	Bit depth: 32
+18:00:16.547: 	Found proper GLXFBConfig (in 9): yes
+18:00:16.547: 
+18:00:17.676: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:17.678: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:17.678: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:17.678: 	class: Navigator
+18:00:17.678: 	Bit depth: 32
+18:00:17.678: 	Found proper GLXFBConfig (in 9): yes
+18:00:17.678: 
+18:00:18.046: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:18.052: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:18.052: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:18.052: 	class: Navigator
+18:00:18.052: 	Bit depth: 32
+18:00:18.052: 	Found proper GLXFBConfig (in 9): yes
+18:00:18.052: 
+18:00:39.808: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:39.814: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:39.814: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:39.814: 	class: Navigator
+18:00:39.814: 	Bit depth: 32
+18:00:39.814: 	Found proper GLXFBConfig (in 9): yes
+18:00:39.814: 
+18:00:40.345: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:40.350: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:40.350: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:40.350: 	class: Navigator
+18:00:40.350: 	Bit depth: 32
+18:00:40.350: 	Found proper GLXFBConfig (in 9): yes
+18:00:40.350: 
+18:00:53.690: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:53.694: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:53.694: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:53.694: 	class: Navigator
+18:00:53.694: 	Bit depth: 32
+18:00:53.694: 	Found proper GLXFBConfig (in 9): yes
+18:00:53.694: 
+18:00:54.226: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:54.230: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:54.230: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:54.230: 	class: Navigator
+18:00:54.230: 	Bit depth: 32
+18:00:54.230: 	Found proper GLXFBConfig (in 9): yes
+18:00:54.230: 
+18:00:56.691: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:56.697: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:56.697: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:56.697: 	class: Navigator
+18:00:56.697: 	Bit depth: 32
+18:00:56.697: 	Found proper GLXFBConfig (in 9): yes
+18:00:56.697: 
+18:00:57.175: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:00:57.183: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:00:57.183: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:00:57.183: 	class: Navigator
+18:00:57.183: 	Bit depth: 32
+18:00:57.183: 	Found proper GLXFBConfig (in 9): yes
+18:00:57.183: 
+18:01:16.192: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:01:16.198: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:01:16.198: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:01:16.198: 	class: Navigator
+18:01:16.198: 	Bit depth: 32
+18:01:16.198: 	Found proper GLXFBConfig (in 9): yes
+18:01:16.198: 
+18:01:16.693: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:01:16.700: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:01:16.700: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:01:16.700: 	class: Navigator
+18:01:16.700: 	Bit depth: 32
+18:01:16.700: 	Found proper GLXFBConfig (in 9): yes
+18:01:16.700: 
+18:01:19.044: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:01:19.077: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:01:19.077: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:01:19.077: 	class: Navigator
+18:01:19.077: 	Bit depth: 32
+18:01:19.077: 	Found proper GLXFBConfig (in 9): yes
+18:01:19.077: 
+18:01:19.575: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:01:19.594: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:01:19.594: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:01:19.594: 	class: Navigator
+18:01:19.594: 	Bit depth: 32
+18:01:19.594: 	Found proper GLXFBConfig (in 9): yes
+18:01:19.594: 
+18:02:14.623: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:14.627: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:14.627: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:14.627: 	class: Navigator
+18:02:14.627: 	Bit depth: 32
+18:02:14.627: 	Found proper GLXFBConfig (in 9): yes
+18:02:14.627: 
+18:02:14.858: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:14.863: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:14.863: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:14.863: 	class: Navigator
+18:02:14.863: 	Bit depth: 32
+18:02:14.863: 	Found proper GLXFBConfig (in 9): yes
+18:02:14.863: 
+18:02:44.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:44.981: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:44.981: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:44.981: 	class: Navigator
+18:02:44.981: 	Bit depth: 32
+18:02:44.981: 	Found proper GLXFBConfig (in 9): yes
+18:02:44.981: 
+18:02:45.212: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:45.218: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:45.218: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:45.218: 	class: Navigator
+18:02:45.218: 	Bit depth: 32
+18:02:45.218: 	Found proper GLXFBConfig (in 9): yes
+18:02:45.218: 
+18:02:45.624: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:45.626: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:45.626: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:45.626: 	class: Navigator
+18:02:45.626: 	Bit depth: 32
+18:02:45.626: 	Found proper GLXFBConfig (in 9): yes
+18:02:45.626: 
+18:02:45.908: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:45.957: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:45.957: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:45.957: 	class: Navigator
+18:02:45.957: 	Bit depth: 32
+18:02:45.957: 	Found proper GLXFBConfig (in 9): yes
+18:02:45.957: 
+18:02:48.428: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:48.435: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:48.435: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:48.435: 	class: Navigator
+18:02:48.435: 	Bit depth: 32
+18:02:48.435: 	Found proper GLXFBConfig (in 9): yes
+18:02:48.435: 
+18:02:49.310: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:49.314: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:49.314: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:49.314: 	class: Navigator
+18:02:49.314: 	Bit depth: 32
+18:02:49.314: 	Found proper GLXFBConfig (in 9): yes
+18:02:49.314: 
+18:02:49.324: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:49.329: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:49.329: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:49.329: 	class: Navigator
+18:02:49.329: 	Bit depth: 32
+18:02:49.329: 	Found proper GLXFBConfig (in 9): yes
+18:02:49.329: 
+18:02:49.725: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:02:49.743: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:02:49.743: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:02:49.743: 	class: Navigator
+18:02:49.743: 	Bit depth: 32
+18:02:49.743: 	Found proper GLXFBConfig (in 9): yes
+18:02:49.743: 
+18:06:55.658: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:06:55.664: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:06:55.664: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:06:55.664: 	class: Navigator
+18:06:55.664: 	Bit depth: 32
+18:06:55.664: 	Found proper GLXFBConfig (in 9): yes
+18:06:55.664: 
+18:06:56.144: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:06:56.151: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:06:56.151: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:06:56.151: 	class: Navigator
+18:06:56.151: 	Bit depth: 32
+18:06:56.151: 	Found proper GLXFBConfig (in 9): yes
+18:06:56.151: 
+18:06:57.007: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:06:57.012: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:06:57.012: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:06:57.012: 	class: Navigator
+18:06:57.012: 	Bit depth: 32
+18:06:57.012: 	Found proper GLXFBConfig (in 9): yes
+18:06:57.012: 
+18:06:57.278: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:06:57.285: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:06:57.285: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:06:57.285: 	class: Navigator
+18:06:57.285: 	Bit depth: 32
+18:06:57.285: 	Found proper GLXFBConfig (in 9): yes
+18:06:57.285: 
+18:07:29.707: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:07:29.713: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:07:29.713: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:07:29.713: 	class: Navigator
+18:07:29.713: 	Bit depth: 32
+18:07:29.713: 	Found proper GLXFBConfig (in 9): yes
+18:07:29.713: 
+18:07:30.378: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:07:30.390: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:07:30.390: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:07:30.390: 	class: Navigator
+18:07:30.390: 	Bit depth: 32
+18:07:30.390: 	Found proper GLXFBConfig (in 9): yes
+18:07:30.390: 
+18:09:05.356: output simple_file_output unpaused
+18:09:49.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:09:49.959: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:09:49.959: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:09:49.959: 	class: Navigator
+18:09:49.959: 	Bit depth: 32
+18:09:49.959: 	Found proper GLXFBConfig (in 9): yes
+18:09:49.959: 
+18:13:46.041: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:13:46.042: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:13:46.042: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:13:46.042: 	class: Navigator
+18:13:46.042: 	Bit depth: 32
+18:13:46.042: 	Found proper GLXFBConfig (in 9): yes
+18:13:46.042: 
+18:13:46.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:13:46.759: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:13:46.759: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:13:46.759: 	class: Navigator
+18:13:46.759: 	Bit depth: 32
+18:13:46.759: 	Found proper GLXFBConfig (in 9): yes
+18:13:46.759: 
+18:13:47.104: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:13:47.105: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:13:47.105: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:13:47.105: 	class: Navigator
+18:13:47.105: 	Bit depth: 32
+18:13:47.105: 	Found proper GLXFBConfig (in 9): yes
+18:13:47.105: 
+18:14:02.024: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:02.026: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:02.026: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:02.026: 	class: Navigator
+18:14:02.026: 	Bit depth: 32
+18:14:02.026: 	Found proper GLXFBConfig (in 9): yes
+18:14:02.026: 
+18:14:28.807: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:28.822: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:28.822: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:28.822: 	class: Navigator
+18:14:28.822: 	Bit depth: 32
+18:14:28.822: 	Found proper GLXFBConfig (in 9): yes
+18:14:28.822: 
+18:14:39.507: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:39.509: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:39.509: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:39.509: 	class: Navigator
+18:14:39.509: 	Bit depth: 32
+18:14:39.509: 	Found proper GLXFBConfig (in 9): yes
+18:14:39.509: 
+18:14:42.090: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:42.092: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:42.092: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:42.092: 	class: Navigator
+18:14:42.092: 	Bit depth: 32
+18:14:42.092: 	Found proper GLXFBConfig (in 9): yes
+18:14:42.092: 
+18:14:43.457: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:43.459: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:43.459: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:43.459: 	class: Navigator
+18:14:43.459: 	Bit depth: 32
+18:14:43.459: 	Found proper GLXFBConfig (in 9): yes
+18:14:43.459: 
+18:14:44.521: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:44.523: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:44.523: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:44.523: 	class: Navigator
+18:14:44.523: 	Bit depth: 32
+18:14:44.523: 	Found proper GLXFBConfig (in 9): yes
+18:14:44.523: 
+18:14:54.740: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:54.742: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:54.742: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:54.742: 	class: Navigator
+18:14:54.742: 	Bit depth: 32
+18:14:54.742: 	Found proper GLXFBConfig (in 9): yes
+18:14:54.742: 
+18:14:55.807: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:14:55.809: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:14:55.809: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:14:55.809: 	class: Navigator
+18:14:55.809: 	Bit depth: 32
+18:14:55.809: 	Found proper GLXFBConfig (in 9): yes
+18:14:55.809: 
+18:15:01.790: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:01.792: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:01.792: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:01.792: 	class: Navigator
+18:15:01.792: 	Bit depth: 32
+18:15:01.792: 	Found proper GLXFBConfig (in 9): yes
+18:15:01.792: 
+18:15:04.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:04.675: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:04.675: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:04.675: 	class: Navigator
+18:15:04.675: 	Bit depth: 32
+18:15:04.675: 	Found proper GLXFBConfig (in 9): yes
+18:15:04.675: 
+18:15:09.007: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:09.009: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:09.009: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:09.009: 	class: Navigator
+18:15:09.009: 	Bit depth: 32
+18:15:09.009: 	Found proper GLXFBConfig (in 9): yes
+18:15:09.009: 
+18:15:10.457: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:10.459: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:10.459: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:10.459: 	class: Navigator
+18:15:10.459: 	Bit depth: 32
+18:15:10.459: 	Found proper GLXFBConfig (in 9): yes
+18:15:10.459: 
+18:15:12.404: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:12.405: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:12.405: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:12.405: 	class: Navigator
+18:15:12.405: 	Bit depth: 32
+18:15:12.405: 	Found proper GLXFBConfig (in 9): yes
+18:15:12.405: 
+18:15:12.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:12.958: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:12.958: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:12.958: 	class: Navigator
+18:15:12.958: 	Bit depth: 32
+18:15:12.958: 	Found proper GLXFBConfig (in 9): yes
+18:15:12.958: 
+18:15:13.690: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:13.692: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:13.692: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:13.692: 	class: Navigator
+18:15:13.692: 	Bit depth: 32
+18:15:13.692: 	Found proper GLXFBConfig (in 9): yes
+18:15:13.692: 
+18:15:14.621: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:14.623: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:14.623: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:14.623: 	class: Navigator
+18:15:14.623: 	Bit depth: 32
+18:15:14.623: 	Found proper GLXFBConfig (in 9): yes
+18:15:14.623: 
+18:15:24.690: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:24.692: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:24.692: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:24.692: 	class: Navigator
+18:15:24.692: 	Bit depth: 32
+18:15:24.692: 	Found proper GLXFBConfig (in 9): yes
+18:15:24.692: 
+18:15:28.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:28.759: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:28.759: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:28.759: 	class: Navigator
+18:15:28.759: 	Bit depth: 32
+18:15:28.759: 	Found proper GLXFBConfig (in 9): yes
+18:15:28.759: 
+18:15:30.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:30.976: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:30.976: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:30.976: 	class: Navigator
+18:15:30.976: 	Bit depth: 32
+18:15:30.976: 	Found proper GLXFBConfig (in 9): yes
+18:15:30.976: 
+18:15:32.274: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:32.276: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:32.276: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:32.276: 	class: Navigator
+18:15:32.276: 	Bit depth: 32
+18:15:32.276: 	Found proper GLXFBConfig (in 9): yes
+18:15:32.276: 
+18:15:53.687: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:53.689: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:53.689: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:53.689: 	class: Navigator
+18:15:53.689: 	Bit depth: 32
+18:15:53.689: 	Found proper GLXFBConfig (in 9): yes
+18:15:53.689: 
+18:15:57.757: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:15:57.759: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:15:57.759: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:15:57.759: 	class: Navigator
+18:15:57.759: 	Bit depth: 32
+18:15:57.759: 	Found proper GLXFBConfig (in 9): yes
+18:15:57.759: 
+18:16:00.257: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:00.259: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:00.259: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:00.259: 	class: Navigator
+18:16:00.259: 	Bit depth: 32
+18:16:00.259: 	Found proper GLXFBConfig (in 9): yes
+18:16:00.259: 
+18:16:01.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:01.958: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:01.958: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:01.958: 	class: Navigator
+18:16:01.958: 	Bit depth: 32
+18:16:01.958: 	Found proper GLXFBConfig (in 9): yes
+18:16:01.958: 
+18:16:09.653: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:09.655: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:09.655: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:09.655: 	class: Navigator
+18:16:09.655: 	Bit depth: 32
+18:16:09.655: 	Found proper GLXFBConfig (in 9): yes
+18:16:09.655: 
+18:16:11.621: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:11.622: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:11.622: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:11.622: 	class: Navigator
+18:16:11.622: 	Bit depth: 32
+18:16:11.622: 	Found proper GLXFBConfig (in 9): yes
+18:16:11.622: 
+18:16:17.824: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:17.826: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:17.826: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:17.826: 	class: Navigator
+18:16:17.826: 	Bit depth: 32
+18:16:17.826: 	Found proper GLXFBConfig (in 9): yes
+18:16:17.826: 
+18:16:22.224: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:22.226: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:22.226: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:22.226: 	class: Navigator
+18:16:22.226: 	Bit depth: 32
+18:16:22.226: 	Found proper GLXFBConfig (in 9): yes
+18:16:22.226: 
+18:16:24.070: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:24.072: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:24.072: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:24.072: 	class: Navigator
+18:16:24.072: 	Bit depth: 32
+18:16:24.072: 	Found proper GLXFBConfig (in 9): yes
+18:16:24.072: 
+18:16:52.040: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:52.042: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:52.042: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:52.042: 	class: Navigator
+18:16:52.042: 	Bit depth: 32
+18:16:52.042: 	Found proper GLXFBConfig (in 9): yes
+18:16:52.042: 
+18:16:55.855: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:55.856: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:55.856: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:55.856: 	class: Navigator
+18:16:55.856: 	Bit depth: 32
+18:16:55.856: 	Found proper GLXFBConfig (in 9): yes
+18:16:55.856: 
+18:16:56.954: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:56.955: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:56.955: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:56.955: 	class: Navigator
+18:16:56.955: 	Bit depth: 32
+18:16:56.955: 	Found proper GLXFBConfig (in 9): yes
+18:16:56.955: 
+18:16:58.941: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:16:58.942: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:16:58.942: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:16:58.942: 	class: Navigator
+18:16:58.942: 	Bit depth: 32
+18:16:58.942: 	Found proper GLXFBConfig (in 9): yes
+18:16:58.942: 
+18:17:01.738: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:01.739: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:01.739: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:01.739: 	class: Navigator
+18:17:01.739: 	Bit depth: 32
+18:17:01.739: 	Found proper GLXFBConfig (in 9): yes
+18:17:01.739: 
+18:17:03.441: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:03.443: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:03.443: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:03.443: 	class: Navigator
+18:17:03.443: 	Bit depth: 32
+18:17:03.443: 	Found proper GLXFBConfig (in 9): yes
+18:17:03.443: 
+18:17:04.524: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:04.526: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:04.526: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:04.526: 	class: Navigator
+18:17:04.526: 	Bit depth: 32
+18:17:04.526: 	Found proper GLXFBConfig (in 9): yes
+18:17:04.526: 
+18:17:09.291: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:09.292: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:09.292: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:09.292: 	class: Navigator
+18:17:09.292: 	Bit depth: 32
+18:17:09.292: 	Found proper GLXFBConfig (in 9): yes
+18:17:09.292: 
+18:17:10.057: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:10.059: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:10.059: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:10.059: 	class: Navigator
+18:17:10.059: 	Bit depth: 32
+18:17:10.059: 	Found proper GLXFBConfig (in 9): yes
+18:17:10.059: 
+18:17:15.407: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:15.408: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:15.408: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:15.408: 	class: Navigator
+18:17:15.408: 	Bit depth: 32
+18:17:15.408: 	Found proper GLXFBConfig (in 9): yes
+18:17:15.408: 
+18:17:16.307: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:16.309: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:16.309: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:16.309: 	class: Navigator
+18:17:16.309: 	Bit depth: 32
+18:17:16.309: 	Found proper GLXFBConfig (in 9): yes
+18:17:16.309: 
+18:17:21.057: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:21.059: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:21.059: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:21.059: 	class: Navigator
+18:17:21.059: 	Bit depth: 32
+18:17:21.059: 	Found proper GLXFBConfig (in 9): yes
+18:17:21.059: 
+18:17:22.324: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:22.325: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:22.325: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:22.325: 	class: Navigator
+18:17:22.325: 	Bit depth: 32
+18:17:22.325: 	Found proper GLXFBConfig (in 9): yes
+18:17:22.325: 
+18:17:23.841: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:23.842: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:23.842: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:23.842: 	class: Navigator
+18:17:23.842: 	Bit depth: 32
+18:17:23.842: 	Found proper GLXFBConfig (in 9): yes
+18:17:23.842: 
+18:17:36.374: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:36.375: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:36.375: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:36.375: 	class: Navigator
+18:17:36.375: 	Bit depth: 32
+18:17:36.375: 	Found proper GLXFBConfig (in 9): yes
+18:17:36.375: 
+18:17:44.507: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:44.509: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:44.509: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:44.509: 	class: Navigator
+18:17:44.509: 	Bit depth: 32
+18:17:44.509: 	Found proper GLXFBConfig (in 9): yes
+18:17:44.509: 
+18:17:45.107: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:45.108: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:45.108: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:45.108: 	class: Navigator
+18:17:45.108: 	Bit depth: 32
+18:17:45.108: 	Found proper GLXFBConfig (in 9): yes
+18:17:45.108: 
+18:17:53.554: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:17:53.556: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:17:53.556: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:17:53.556: 	class: Navigator
+18:17:53.556: 	Bit depth: 32
+18:17:53.556: 	Found proper GLXFBConfig (in 9): yes
+18:17:53.556: 
+18:18:03.674: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:03.676: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:03.676: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:03.676: 	class: Navigator
+18:18:03.676: 	Bit depth: 32
+18:18:03.676: 	Found proper GLXFBConfig (in 9): yes
+18:18:03.676: 
+18:18:10.490: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:10.492: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:10.492: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:10.492: 	class: Navigator
+18:18:10.492: 	Bit depth: 32
+18:18:10.492: 	Found proper GLXFBConfig (in 9): yes
+18:18:10.492: 
+18:18:10.990: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:10.992: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:10.992: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:10.992: 	class: Navigator
+18:18:10.992: 	Bit depth: 32
+18:18:10.992: 	Found proper GLXFBConfig (in 9): yes
+18:18:10.992: 
+18:18:11.890: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:11.892: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:11.892: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:11.892: 	class: Navigator
+18:18:11.892: 	Bit depth: 32
+18:18:11.892: 	Found proper GLXFBConfig (in 9): yes
+18:18:11.892: 
+18:18:12.153: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:12.155: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:12.155: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:12.155: 	class: Navigator
+18:18:12.155: 	Bit depth: 32
+18:18:12.155: 	Found proper GLXFBConfig (in 9): yes
+18:18:12.155: 
+18:18:19.324: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:19.326: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:19.326: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:19.326: 	class: Navigator
+18:18:19.326: 	Bit depth: 32
+18:18:19.326: 	Found proper GLXFBConfig (in 9): yes
+18:18:19.326: 
+18:18:20.887: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:20.889: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:20.889: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:20.889: 	class: Navigator
+18:18:20.889: 	Bit depth: 32
+18:18:20.889: 	Found proper GLXFBConfig (in 9): yes
+18:18:20.889: 
+18:18:24.090: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:24.092: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:24.092: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:24.092: 	class: Navigator
+18:18:24.092: 	Bit depth: 32
+18:18:24.092: 	Found proper GLXFBConfig (in 9): yes
+18:18:24.092: 
+18:18:29.507: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:29.508: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:29.508: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:29.508: 	class: Navigator
+18:18:29.508: 	Bit depth: 32
+18:18:29.508: 	Found proper GLXFBConfig (in 9): yes
+18:18:29.508: 
+18:18:34.474: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:34.475: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:34.475: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:34.475: 	class: Navigator
+18:18:34.475: 	Bit depth: 32
+18:18:34.475: 	Found proper GLXFBConfig (in 9): yes
+18:18:34.475: 
+18:18:34.820: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:34.822: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:34.822: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:34.822: 	class: Navigator
+18:18:34.822: 	Bit depth: 32
+18:18:34.822: 	Found proper GLXFBConfig (in 9): yes
+18:18:34.822: 
+18:18:37.741: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:37.742: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:37.742: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:37.742: 	class: Navigator
+18:18:37.742: 	Bit depth: 32
+18:18:37.742: 	Found proper GLXFBConfig (in 9): yes
+18:18:37.742: 
+18:18:42.657: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:42.659: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:42.659: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:42.659: 	class: Navigator
+18:18:42.659: 	Bit depth: 32
+18:18:42.659: 	Found proper GLXFBConfig (in 9): yes
+18:18:42.659: 
+18:18:50.774: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:50.775: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:50.775: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:50.775: 	class: Navigator
+18:18:50.775: 	Bit depth: 32
+18:18:50.775: 	Found proper GLXFBConfig (in 9): yes
+18:18:50.775: 
+18:18:53.569: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:53.571: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:53.571: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:53.571: 	class: Navigator
+18:18:53.571: 	Bit depth: 32
+18:18:53.571: 	Found proper GLXFBConfig (in 9): yes
+18:18:53.571: 
+18:18:56.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:56.959: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:56.959: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:56.959: 	class: Navigator
+18:18:56.959: 	Bit depth: 32
+18:18:56.959: 	Found proper GLXFBConfig (in 9): yes
+18:18:56.959: 
+18:18:58.291: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:58.293: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:58.293: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:58.293: 	class: Navigator
+18:18:58.293: 	Bit depth: 32
+18:18:58.293: 	Found proper GLXFBConfig (in 9): yes
+18:18:58.293: 
+18:18:58.657: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:58.659: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:58.659: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:58.659: 	class: Navigator
+18:18:58.659: 	Bit depth: 32
+18:18:58.659: 	Found proper GLXFBConfig (in 9): yes
+18:18:58.659: 
+18:18:59.870: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:18:59.872: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:18:59.872: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:18:59.872: 	class: Navigator
+18:18:59.872: 	Bit depth: 32
+18:18:59.872: 	Found proper GLXFBConfig (in 9): yes
+18:18:59.872: 
+18:19:30.853: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:30.854: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:30.854: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:30.854: 	class: Navigator
+18:19:30.854: 	Bit depth: 32
+18:19:30.854: 	Found proper GLXFBConfig (in 9): yes
+18:19:30.854: 
+18:19:32.157: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:32.158: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:32.158: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:32.158: 	class: Navigator
+18:19:32.158: 	Bit depth: 32
+18:19:32.158: 	Found proper GLXFBConfig (in 9): yes
+18:19:32.158: 
+18:19:37.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:37.576: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:37.576: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:37.576: 	class: Navigator
+18:19:37.576: 	Bit depth: 32
+18:19:37.576: 	Found proper GLXFBConfig (in 9): yes
+18:19:37.576: 
+18:19:38.390: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:38.392: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:38.392: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:38.392: 	class: Navigator
+18:19:38.392: 	Bit depth: 32
+18:19:38.392: 	Found proper GLXFBConfig (in 9): yes
+18:19:38.392: 
+18:19:57.620: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:57.622: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:57.622: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:57.622: 	class: Navigator
+18:19:57.622: 	Bit depth: 32
+18:19:57.622: 	Found proper GLXFBConfig (in 9): yes
+18:19:57.622: 
+18:19:59.190: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:19:59.192: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:19:59.192: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:19:59.192: 	class: Navigator
+18:19:59.192: 	Bit depth: 32
+18:19:59.192: 	Found proper GLXFBConfig (in 9): yes
+18:19:59.192: 
+18:20:05.874: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:20:05.876: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:20:05.876: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:20:05.876: 	class: Navigator
+18:20:05.876: 	Bit depth: 32
+18:20:05.876: 	Found proper GLXFBConfig (in 9): yes
+18:20:05.876: 
+18:20:20.225: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:20:20.227: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:20:20.227: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:20:20.227: 	class: Navigator
+18:20:20.227: 	Bit depth: 32
+18:20:20.227: 	Found proper GLXFBConfig (in 9): yes
+18:20:20.227: 
+18:20:20.540: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:20:20.542: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:20:20.542: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:20:20.542: 	class: Navigator
+18:20:20.542: 	Bit depth: 32
+18:20:20.542: 	Found proper GLXFBConfig (in 9): yes
+18:20:20.542: 
+18:21:07.474: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:21:07.476: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:21:07.476: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:21:07.476: 	class: Navigator
+18:21:07.476: 	Bit depth: 32
+18:21:07.476: 	Found proper GLXFBConfig (in 9): yes
+18:21:07.476: 
+18:21:07.941: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:21:07.942: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:21:07.942: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:21:07.942: 	class: Navigator
+18:21:07.942: 	Bit depth: 32
+18:21:07.942: 	Found proper GLXFBConfig (in 9): yes
+18:21:07.942: 
+18:21:57.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:21:57.975: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:21:57.975: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:21:57.975: 	class: Navigator
+18:21:57.975: 	Bit depth: 32
+18:21:57.975: 	Found proper GLXFBConfig (in 9): yes
+18:21:57.975: 
+18:22:17.470: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:22:17.471: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:22:17.471: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:22:17.471: 	class: Navigator
+18:22:17.471: 	Bit depth: 32
+18:22:17.471: 	Found proper GLXFBConfig (in 9): yes
+18:22:17.471: 
+18:22:18.107: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:22:18.109: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:22:18.109: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:22:18.109: 	class: Navigator
+18:22:18.109: 	Bit depth: 32
+18:22:18.109: 	Found proper GLXFBConfig (in 9): yes
+18:22:18.109: 
+18:22:18.570: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:22:18.572: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:22:18.572: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:22:18.572: 	class: Navigator
+18:22:18.572: 	Bit depth: 32
+18:22:18.572: 	Found proper GLXFBConfig (in 9): yes
+18:22:18.572: 
+18:25:39.941: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:25:39.942: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:25:39.942: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:25:39.942: 	class: Navigator
+18:25:39.942: 	Bit depth: 32
+18:25:39.942: 	Found proper GLXFBConfig (in 9): yes
+18:25:39.942: 
+18:25:41.007: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:25:41.009: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:25:41.009: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:25:41.009: 	class: Navigator
+18:25:41.009: 	Bit depth: 32
+18:25:41.009: 	Found proper GLXFBConfig (in 9): yes
+18:25:41.009: 
+18:25:42.041: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:25:42.042: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:25:42.042: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:25:42.042: 	class: Navigator
+18:25:42.042: 	Bit depth: 32
+18:25:42.042: 	Found proper GLXFBConfig (in 9): yes
+18:25:42.042: 
+18:26:23.440: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:26:23.442: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:26:23.442: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:26:23.442: 	class: Navigator
+18:26:23.442: 	Bit depth: 32
+18:26:23.442: 	Found proper GLXFBConfig (in 9): yes
+18:26:23.442: 
+18:27:05.541: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:27:05.542: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:27:05.542: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:27:05.542: 	class: Navigator
+18:27:05.542: 	Bit depth: 32
+18:27:05.542: 	Found proper GLXFBConfig (in 9): yes
+18:27:05.542: 
+18:27:08.336: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:27:08.337: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:27:08.337: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:27:08.337: 	class: Navigator
+18:27:08.337: 	Bit depth: 32
+18:27:08.337: 	Found proper GLXFBConfig (in 9): yes
+18:27:08.337: 
+18:28:00.307: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:00.309: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:00.309: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:00.309: 	class: Navigator
+18:28:00.309: 	Bit depth: 32
+18:28:00.309: 	Found proper GLXFBConfig (in 9): yes
+18:28:00.309: 
+18:28:01.602: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:01.604: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:01.604: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:01.604: 	class: Navigator
+18:28:01.604: 	Bit depth: 32
+18:28:01.604: 	Found proper GLXFBConfig (in 9): yes
+18:28:01.604: 
+18:28:02.240: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:02.242: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:02.242: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:02.242: 	class: Navigator
+18:28:02.242: 	Bit depth: 32
+18:28:02.242: 	Found proper GLXFBConfig (in 9): yes
+18:28:02.242: 
+18:28:03.141: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:03.142: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:03.142: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:03.142: 	class: Navigator
+18:28:03.142: 	Bit depth: 32
+18:28:03.142: 	Found proper GLXFBConfig (in 9): yes
+18:28:03.142: 
+18:28:04.091: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:04.092: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:04.092: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:04.092: 	class: Navigator
+18:28:04.092: 	Bit depth: 32
+18:28:04.092: 	Found proper GLXFBConfig (in 9): yes
+18:28:04.092: 
+18:28:07.041: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:28:07.042: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:28:07.042: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:28:07.042: 	class: Navigator
+18:28:07.042: 	Bit depth: 32
+18:28:07.042: 	Found proper GLXFBConfig (in 9): yes
+18:28:07.042: 
+18:29:57.841: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:29:57.842: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:29:57.842: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:29:57.842: 	class: Navigator
+18:29:57.842: 	Bit depth: 32
+18:29:57.842: 	Found proper GLXFBConfig (in 9): yes
+18:29:57.842: 
+18:54:59.216: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:54:59.218: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:54:59.218: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:54:59.218: 	class: Navigator
+18:54:59.218: 	Bit depth: 32
+18:54:59.218: 	Found proper GLXFBConfig (in 9): yes
+18:54:59.218: 
+18:55:03.940: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:03.942: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:03.942: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:03.942: 	class: Navigator
+18:55:03.942: 	Bit depth: 32
+18:55:03.942: 	Found proper GLXFBConfig (in 9): yes
+18:55:03.942: 
+18:55:04.214: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:04.216: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:04.216: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:04.216: 	class: Navigator
+18:55:04.216: 	Bit depth: 32
+18:55:04.216: 	Found proper GLXFBConfig (in 9): yes
+18:55:04.216: 
+18:55:09.590: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:09.592: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:09.592: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:09.592: 	class: Navigator
+18:55:09.592: 	Bit depth: 32
+18:55:09.592: 	Found proper GLXFBConfig (in 9): yes
+18:55:09.592: 
+18:55:12.898: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:12.899: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:12.899: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:12.899: 	class: Navigator
+18:55:12.899: 	Bit depth: 32
+18:55:12.899: 	Found proper GLXFBConfig (in 9): yes
+18:55:12.899: 
+18:55:13.415: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:13.416: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:13.416: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:13.416: 	class: Navigator
+18:55:13.416: 	Bit depth: 32
+18:55:13.416: 	Found proper GLXFBConfig (in 9): yes
+18:55:13.416: 
+18:55:13.957: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:13.958: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:13.958: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:13.958: 	class: Navigator
+18:55:13.958: 	Bit depth: 32
+18:55:13.958: 	Found proper GLXFBConfig (in 9): yes
+18:55:13.958: 
+18:55:15.540: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:15.542: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:15.542: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:15.542: 	class: Navigator
+18:55:15.542: 	Bit depth: 32
+18:55:15.542: 	Found proper GLXFBConfig (in 9): yes
+18:55:15.542: 
+18:55:16.028: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/italo/Videos/2022-09-04 17-26-25.mkv' stopped
+18:55:16.028: Output 'simple_file_output': stopping
+18:55:16.028: Output 'simple_file_output': Total frames output: 259919
+18:55:16.028: Output 'simple_file_output': Total drawn frames: 319801 (319817 attempted)
+18:55:16.028: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 16 (0.0%)
+18:55:16.028: ==== Recording Stop ================================================
+18:55:16.205: libfdk_aac encoder destroyed
+18:55:20.992: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:21.000: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:21.000: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:21.000: 	class: Navigator
+18:55:21.000: 	Bit depth: 32
+18:55:21.000: 	Found proper GLXFBConfig (in 9): yes
+18:55:21.000: 
+18:55:22.574: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:22.580: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:22.580: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:22.580: 	class: Navigator
+18:55:22.580: 	Bit depth: 32
+18:55:22.580: 	Found proper GLXFBConfig (in 9): yes
+18:55:22.580: 
+18:55:49.725: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:49.727: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:49.727: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:49.727: 	class: Navigator
+18:55:49.727: 	Bit depth: 32
+18:55:49.727: 	Found proper GLXFBConfig (in 9): yes
+18:55:49.727: 
+18:55:50.557: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:50.568: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:50.568: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:50.568: 	class: Navigator
+18:55:50.568: 	Bit depth: 32
+18:55:50.568: 	Found proper GLXFBConfig (in 9): yes
+18:55:50.568: 
+18:55:57.974: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:57.982: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:57.982: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:55:57.982: 	class: Navigator
+18:55:57.982: 	Bit depth: 32
+18:55:57.982: 	Found proper GLXFBConfig (in 9): yes
+18:55:57.982: 
+18:56:04.524: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:56:04.530: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:56:04.530: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:56:04.530: 	class: Navigator
+18:56:04.530: 	Bit depth: 32
+18:56:04.530: 	Found proper GLXFBConfig (in 9): yes
+18:56:04.530: 
+18:56:30.440: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:56:30.446: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:56:30.446: 	title: Meet - Clases Programación Competitiva FIIS — Mozilla Firefox
+18:56:30.446: 	class: Navigator
+18:56:30.446: 	Bit depth: 32
+18:56:30.446: 	Found proper GLXFBConfig (in 9): yes
+18:56:30.446: 
+19:03:39.184: ==== Shutting down ==================================================
+19:03:39.208: pulse-input: Stopped recording from 'alsa_output.pci-0000_2d_00.4.analog-stereo.monitor'
+19:03:39.208: pulse-input: Got 2813479 packets with 579261940 frames
+19:03:39.208: pulse-input: Stopped recording from 'alsa_input.usb-Jieli_Technology_USB_PHY_2.0-02.mono-fallback'
+19:03:39.208: pulse-input: Got 1321629 packets with 579447808 frames
+19:03:39.209: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 3135384
+19:03:39.209: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 3135385
+19:03:39.209: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:39.218: All scene data cleared
+19:03:39.218: ------------------------------------------------
+19:03:39.307: [Scripting] Total detached callbacks: 0
+19:03:39.307: Freeing OBS context data
+19:03:39.317: == Profiler Results =============================
+19:03:39.317: run_program_init: 261.745 ms
+19:03:39.317:  ┣OBSApp::AppInit: 2.038 ms
+19:03:39.317:  ┃ ┗OBSApp::InitLocale: 0.411 ms
+19:03:39.317:  ┗OBSApp::OBSInit: 227.387 ms
+19:03:39.317:    ┣obs_startup: 0.553 ms
+19:03:39.317:    ┗OBSBasic::OBSInit: 188.348 ms
+19:03:39.317:      ┣OBSBasic::InitBasicConfig: 0.194 ms
+19:03:39.317:      ┣OBSBasic::ResetAudio: 0.078 ms
+19:03:39.317:      ┣OBSBasic::ResetVideo: 91.29 ms
+19:03:39.317:      ┣OBSBasic::InitOBSCallbacks: 0.002 ms
+19:03:39.317:      ┣OBSBasic::InitHotkeys: 0.024 ms
+19:03:39.317:      ┣obs_load_all_modules: 59.064 ms
+19:03:39.317:      ┃ ┣obs_init_module(decklink-captions.so): 0.029 ms
+19:03:39.317:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.322 ms
+19:03:39.317:      ┃ ┣obs_init_module(frontend-tools.so): 41.035 ms
+19:03:39.317:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-capture.so): 0.186 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-decklink.so): 0.041 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-jack.so): 0 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0 ms
+19:03:39.317:      ┃ ┣obs_init_module(linux-v4l2.so): 3.384 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.679 ms
+19:03:39.317:      ┃ ┃ ┗nvenc_check: 1.607 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-filters.so): 0.01 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-libfdk.so): 0 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-transitions.so): 0.002 ms
+19:03:39.317:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+19:03:39.317:      ┃ ┣obs_init_module(rtmp-services.so): 0.087 ms
+19:03:39.317:      ┃ ┗obs_init_module(text-freetype2.so): 0.02 ms
+19:03:39.317:      ┣OBSBasic::ResetOutputs: 0.059 ms
+19:03:39.317:      ┣OBSBasic::CreateHotkeys: 0.03 ms
+19:03:39.317:      ┣OBSBasic::InitService: 0.662 ms
+19:03:39.317:      ┣OBSBasic::InitPrimitives: 0.131 ms
+19:03:39.317:      ┗OBSBasic::Load: 19.749 ms
+19:03:39.317: obs_hotkey_thread(25 ms): min=0.024 ms, median=0.06 ms, max=80.913 ms, 99th percentile=0.932 ms, 99.996% below 25 ms
+19:03:39.317: audio_thread(Audio): min=0 ms, median=0.226 ms, max=5.624 ms, 99th percentile=0.532 ms
+19:03:39.317:  ┗receive_audio: min=0 ms, median=0.206 ms, max=5.581 ms, 99th percentile=0.448 ms, 0.811894 calls per parent call
+19:03:39.317:    ┣buffer_audio: min=0 ms, median=0 ms, max=0.053 ms, 99th percentile=0.002 ms, 0.755799 calls per parent call
+19:03:39.317:    ┗do_encode: min=0.067 ms, median=0.234 ms, max=5.579 ms, 99th percentile=0.457 ms, 0.755763 calls per parent call
+19:03:39.317:      ┣encode(simple_aac_recording): min=0.065 ms, median=0.246 ms, max=0.8 ms, 99th percentile=0.46 ms, 0.464267 calls per parent call
+19:03:39.317:      ┣send_packet: min=0 ms, median=0.002 ms, max=5.394 ms, 99th percentile=0.014 ms
+19:03:39.317:      ┗encode(simple_aac_recording): min=0.098 ms, median=0.221 ms, max=0.787 ms, 99th percentile=0.44 ms, 0.535733 calls per parent call
+19:03:39.317: obs_graphics_thread(33.3333 ms): min=0.158 ms, median=0.418 ms, max=24.583 ms, 99th percentile=2.011 ms, 100% below 33.333 ms
+19:03:39.317:  ┣tick_sources: min=0.001 ms, median=0.003 ms, max=0.03 ms, 99th percentile=0.007 ms
+19:03:39.317:  ┣output_frame: min=0.064 ms, median=0.111 ms, max=3.334 ms, 99th percentile=0.222 ms
+19:03:39.317:  ┃ ┗gs_context(video->graphics): min=0.064 ms, median=0.11 ms, max=3.334 ms, 99th percentile=0.222 ms
+19:03:39.317:  ┃   ┣render_video: min=0.018 ms, median=0.039 ms, max=3.267 ms, 99th percentile=0.077 ms
+19:03:39.317:  ┃   ┃ ┗render_main_texture: min=0.015 ms, median=0.032 ms, max=3.254 ms, 99th percentile=0.066 ms
+19:03:39.317:  ┃   ┗gs_flush: min=0.006 ms, median=0.01 ms, max=0.156 ms, 99th percentile=0.148 ms
+19:03:39.317:  ┗render_displays: min=0.031 ms, median=0.197 ms, max=24.322 ms, 99th percentile=0.55 ms
+19:03:39.317: obs_graphics_thread(16.6667 ms): min=0.161 ms, median=1.346 ms, max=174.084 ms, 99th percentile=3.735 ms, 99.9236% below 16.667 ms
+19:03:39.317:  ┣tick_sources: min=0 ms, median=0.112 ms, max=117.839 ms, 99th percentile=0.243 ms
+19:03:39.317:  ┣output_frame: min=0.054 ms, median=0.9 ms, max=82.741 ms, 99th percentile=1.608 ms
+19:03:39.317:  ┃ ┣gs_context(video->graphics): min=0.054 ms, median=0.166 ms, max=82.74 ms, 99th percentile=0.42 ms
+19:03:39.317:  ┃ ┃ ┣render_video: min=0.017 ms, median=0.112 ms, max=16.528 ms, 99th percentile=0.23 ms
+19:03:39.317:  ┃ ┃ ┃ ┣render_main_texture: min=0.014 ms, median=0.052 ms, max=5.73 ms, 99th percentile=0.103 ms
+19:03:39.317:  ┃ ┃ ┃ ┣render_convert_texture: min=0.018 ms, median=0.041 ms, max=13.371 ms, 99th percentile=0.082 ms, 0.815226 calls per parent call
+19:03:39.317:  ┃ ┃ ┃ ┗stage_output_texture: min=0.017 ms, median=0.029 ms, max=16.209 ms, 99th percentile=0.063 ms, 0.815226 calls per parent call
+19:03:39.317:  ┃ ┃ ┣gs_flush: min=0.005 ms, median=0.007 ms, max=16.405 ms, 99th percentile=0.014 ms
+19:03:39.317:  ┃ ┃ ┗download_frame: min=0 ms, median=0.001 ms, max=8.197 ms, 99th percentile=0.003 ms, 0.815226 calls per parent call
+19:03:39.317:  ┃ ┗output_video_data: min=0.285 ms, median=0.742 ms, max=18.755 ms, 99th percentile=1.161 ms, 0.815221 calls per parent call
+19:03:39.317:  ┗render_displays: min=0.032 ms, median=0.282 ms, max=42.859 ms, 99th percentile=1.585 ms
+19:03:39.317: OBSBasic::ResetVideo: 55.805 ms
+19:03:39.317: OBSBasic::ResetOutputs: min=0.083 ms, median=0 ms, max=0.099 ms, 99th percentile=0.099 ms
+19:03:39.317: video_thread(video): min=0 ms, median=0.688 ms, max=13.121 ms, 99th percentile=1.29 ms
+19:03:39.317:  ┗receive_video: min=0 ms, median=0.687 ms, max=13.121 ms, 99th percentile=1.288 ms
+19:03:39.317:    ┗do_encode: min=0.437 ms, median=0.738 ms, max=13.121 ms, 99th percentile=1.354 ms, 0.755771 calls per parent call
+19:03:39.317:      ┣encode(simple_h264_recording): min=0.448 ms, median=0.731 ms, max=13.117 ms, 99th percentile=1.346 ms, 0.464248 calls per parent call
+19:03:39.317:      ┣send_packet: min=0 ms, median=0.003 ms, max=2.939 ms, 99th percentile=0.019 ms
+19:03:39.317:      ┗encode(simple_h264_recording): min=0.434 ms, median=0.733 ms, max=8.392 ms, 99th percentile=1.342 ms, 0.535752 calls per parent call
+19:03:39.317: =================================================
+19:03:39.317: == Profiler Time Between Calls ==================
+19:03:39.317: obs_hotkey_thread(25 ms): min=25.037 ms, median=25.118 ms, max=105.97 ms, 98.5779% within ±2% of 25 ms (0% lower, 1.42209% higher)
+19:03:39.317: obs_graphics_thread(33.3333 ms): min=33.327 ms, median=33.333 ms, max=33.357 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+19:03:39.317: obs_graphics_thread(16.6667 ms): min=1.907 ms, median=16.667 ms, max=174.089 ms, 99.8442% within ±2% of 16.667 ms (0.079111% lower, 0.0766983% higher)
+19:03:39.317: =================================================
+19:03:39.359: Number of memory leaks: 1

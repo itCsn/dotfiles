@@ -1,0 +1,292 @@
+[2022-09-05 13:12:55.905] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-05 13:12:55.928] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-09-05 13:12:56.006] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.006] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.007] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.008] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.009] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.010] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.011] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.012] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.012] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.012] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.012] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.012] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.013] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.014] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.015] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.016] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.017] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.018] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:56.019] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:12:57.048] [renderer1] [error] [Extension Host] (node:104565) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-09-05 13:13:27.162] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-05 13:13:27.445] [renderer1] [warning] No search provider registered for scheme: file, waiting
+[2022-09-05 13:13:27.649] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.649] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.649] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.650] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.651] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.652] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:27.653] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.654] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.655] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.655] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.655] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.655] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.656] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.657] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.658] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.659] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.660] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.661] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:27.662] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:28.114] [renderer1] [error] [Extension Host] (node:106308) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-09-05 13:13:30.205] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-09-05 13:13:30.614] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.615] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.615] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.615] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.615] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.616] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.616] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.616] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.616] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.617] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.617] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.617] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.617] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.618] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.619] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.619] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.619] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.619] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.620] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.620] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.620] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.620] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 13:13:30.620] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.621] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.621] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.621] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.621] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.621] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.622] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.622] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.622] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.622] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.622] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.623] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.623] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.623] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.623] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.623] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.624] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.624] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.624] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.624] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.625] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.625] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.625] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.625] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.625] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.626] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.627] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.627] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.627] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.627] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.627] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.628] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.628] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.628] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.628] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.628] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.629] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.630] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:13:30.631] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 13:14:26.644] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 4) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 13:14:26.644] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 4) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 13:14:26.645] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 4) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 13:14:26.645] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 4) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json

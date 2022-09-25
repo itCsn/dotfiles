@@ -1,0 +1,18 @@
+Visual Studio Code (1.70.2, undefined, desktop)
+Jupyter Extension Version: 2022.7.1102252217.
+Python Extension Version: 2022.14.0.
+Workspace folder /home/italo/trabajo/odoo/template_odoo_docker_compose/addons/dv_traslation_file_generator
+info 19:30:34.957: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 19:30:35.327: LSP Notebooks experiment is enabled
+info 19:30:35.422: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 19:30:36.129: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 19:52:51.534: Shutting down notebooks for f98b01a3-6c8e-4aea-9a8c-6e9c181a901f
+info 19:52:51.535: Disposing HostJupyterExecution ad7f9eb9-dfa5-4be2-9395-ae4793023446
+info 19:52:51.535: Disposing super HostJupyterExecution ad7f9eb9-dfa5-4be2-9395-ae4793023446
+info 19:52:51.535: Disposing HostJupyterExecution ad7f9eb9-dfa5-4be2-9395-ae4793023446
+info 19:52:51.535: Finished disposing HostJupyterExecution  ad7f9eb9-dfa5-4be2-9395-ae4793023446
+info 19:52:51.541: Cleaning up server cache ad7f9eb9-dfa5-4be2-9395-ae4793023446
+info 19:52:51.542: Finished disposing HostJupyterExecution  ad7f9eb9-dfa5-4be2-9395-ae4793023446

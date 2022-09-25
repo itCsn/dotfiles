@@ -1,0 +1,27 @@
+[2022-09-05T17:28:04.434Z] Log level: Info
+[2022-09-05T17:28:04.437Z] [info] Validating found git in: git
+[2022-09-05T17:28:04.455Z] [info] Using git  from git
+[2022-09-05T17:28:04.558Z] > git rev-parse --show-toplevel [90ms]
+[2022-09-05T17:28:04.580Z] > git rev-parse --git-dir --git-common-dir [16ms]
+[2022-09-05T17:28:04.583Z] [info] Open repository: /home/italo/trabajo/odoo/template_odoo_docker_compose
+[2022-09-05T17:28:04.598Z] > git status -z -uall [7ms]
+[2022-09-05T17:28:04.622Z] > git symbolic-ref --short HEAD [16ms]
+[2022-09-05T17:28:04.654Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+[2022-09-05T17:28:04.673Z] > git remote --verbose [5ms]
+[2022-09-05T17:28:04.674Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-09-05T17:28:04.705Z] > git config --get commit.template [19ms]
+[2022-09-05T17:28:04.716Z] > git status -z -uall [2ms]
+[2022-09-05T17:28:04.743Z] > git symbolic-ref --short HEAD [21ms]
+[2022-09-05T17:28:04.818Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [67ms]
+[2022-09-05T17:28:04.831Z] > git remote --verbose [2ms]
+[2022-09-05T17:28:04.831Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-05T17:28:04.847Z] > git config --get commit.template [9ms]
+[2022-09-05T17:28:04.961Z] > git show --textconv :addons/dv_traslation_file_generator/__manifest__.py [23ms]
+[2022-09-05T17:28:04.964Z] > git ls-files --stage -- /home/italo/trabajo/odoo/template_odoo_docker_compose/addons/dv_traslation_file_generator/__manifest__.py [19ms]
+[2022-09-05T17:28:05.124Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-05T17:28:57.876Z] > git status -z -uall [1ms]
+[2022-09-05T17:28:57.882Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-05T17:28:57.886Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+[2022-09-05T17:28:57.897Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-05T17:28:57.897Z] > git remote --verbose [1ms]
+[2022-09-05T17:28:57.903Z] > git config --get commit.template [1ms]

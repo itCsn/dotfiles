@@ -1,0 +1,13 @@
+[General]
+onLaunchAction=UseLastUsedCapturemode
+
+[GuiConfig]
+captureDelay=1
+captureMode=5
+cropRegion=1543,829,302,85
+onClickChecked=true
+window-position=310,69
+
+[Save]
+lastSaveAsLocation=file:///home/italo/Downloads/regression_comparison.png
+lastSaveLocation=file:///home/italo/Downloads/regression_comparison.png

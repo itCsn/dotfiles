@@ -1,0 +1,1 @@
+{"_id":"e2482701-993b-433f-a327-7202863f5e42","filter":{"category_code":{"$in":["web","social"]}},"_lastExecuted":{"$date":"2022-09-07T23:42:07.982Z"},"_ns":"sample_training.companies","_host":"cluster0.jhj0rbn.mongodb.net"}

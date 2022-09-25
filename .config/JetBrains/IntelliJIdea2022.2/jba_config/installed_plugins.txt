@@ -1,0 +1,2 @@
+com.vincentp.gruvbox-theme
+IdeaVIM

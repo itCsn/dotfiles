@@ -1,0 +1,1 @@
+{"_id":"e4aae3cb-31e9-450b-a43f-0af2d1b16772","filter":{"category_code":{"$in":["web","social"]},"$or":[{"founded_year":2004},{"founded_month":8}]},"_lastExecuted":{"$date":"2022-09-07T23:44:08.600Z"},"_ns":"sample_training.companies","_host":"cluster0.jhj0rbn.mongodb.net"}

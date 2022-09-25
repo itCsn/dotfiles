@@ -1,0 +1,2 @@
+[INFO] [auth] [2022-09-05T17:28:07.949Z] GitHub login failed
+[ERROR] [default] [2022-09-05T17:28:07.955Z] GitHub Copilot could not connect to server. Extension activation failed: "Failed to get copilot token"

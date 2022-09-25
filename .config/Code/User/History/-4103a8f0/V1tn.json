@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "tomtools.urls.path": "c:\\Users\\icasa\\.vscode\\extensions\\lauset.tomhub-tools-1.0.8\\data",
+    "tomtools.welcome": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.enabled": true,
+    "liveshare.connectionMode": "relay",
+    "github.copilot.enable": {
+
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "github.copilot.advanced": {
+    
+    },
+    "editor.fontFamily": "Hack Nerd Font"
+}

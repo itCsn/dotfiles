@@ -1,0 +1,706 @@
+18:52:04.666: CPU Name: AMD Ryzen 7 5800X 8-Core Processor
+18:52:04.666: CPU Speed: 2297.585MHz
+18:52:04.666: Physical Cores: 8, Logical Cores: 16
+18:52:04.666: Physical Memory: 32024MB Total, 21521MB Free
+18:52:04.666: Kernel Version: Linux 5.19.5-arch1-1
+18:52:04.666: Distribution: EndeavourOS Unknown
+18:52:04.666: Session Type: tty
+18:52:04.666: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+18:52:04.666: Qt Version: 5.15.5 (runtime), 5.15.5 (compiled)
+18:52:04.666: Portable mode: false
+18:52:04.697: OBS 27.2.4-2 (linux)
+18:52:04.697: ---------------------------------
+18:52:04.697: ---------------------------------
+18:52:04.697: audio settings reset:
+18:52:04.697: 	samples per sec: 48000
+18:52:04.697: 	speakers:        2
+18:52:04.698: ---------------------------------
+18:52:04.698: Initializing OpenGL...
+18:52:04.738: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+18:52:04.738: OpenGL loaded successfully, version 3.3.0 NVIDIA 515.65.01, shading language 3.30 NVIDIA via Cg compiler
+18:52:04.742: ---------------------------------
+18:52:04.742: video settings reset:
+18:52:04.742: 	base resolution:   1920x1080
+18:52:04.742: 	output resolution: 1920x1080
+18:52:04.742: 	downscale filter:  Bicubic
+18:52:04.742: 	fps:               60/1
+18:52:04.742: 	format:            NV12
+18:52:04.742: 	YUV mode:          709/Partial
+18:52:04.743: NV12 texture support not available
+18:52:04.743: Audio monitoring device:
+18:52:04.743: 	name: Default
+18:52:04.743: 	id: default
+18:52:04.743: ---------------------------------
+18:52:04.743: Failed to load 'en-US' text for module: 'decklink-captions.so'
+18:52:04.744: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+18:52:04.745: Failed to load 'en-GB' text for module: 'frontend-tools.so'
+18:52:04.784: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+18:52:04.785: Failed to load 'en-GB' text for module: 'linux-capture.so'
+18:52:04.786: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+18:52:04.786: No blackmagic support
+18:52:04.786: Failed to load 'en-GB' text for module: 'linux-jack.so'
+18:52:04.787: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+18:52:04.791: v4l2loopback not installed, virtual camera disabled
+18:52:04.794: NVENC supported
+18:52:04.794: FFMPEG VAAPI supported
+18:52:04.795: Failed to load 'en-GB' text for module: 'obs-libfdk.so'
+18:52:04.796: Failed to load 'en-GB' text for module: 'obs-x264.so'
+18:52:04.797: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+18:52:04.797: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+18:52:04.797: 
+18:52:04.797: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+18:52:04.798: ---------------------------------
+18:52:04.798:   Loaded Modules:
+18:52:04.798:     text-freetype2.so
+18:52:04.798:     rtmp-services.so
+18:52:04.798:     obs-x264.so
+18:52:04.798:     obs-transitions.so
+18:52:04.798:     obs-outputs.so
+18:52:04.798:     obs-libfdk.so
+18:52:04.798:     obs-filters.so
+18:52:04.798:     obs-ffmpeg.so
+18:52:04.798:     linux-v4l2.so
+18:52:04.798:     linux-pulseaudio.so
+18:52:04.798:     linux-jack.so
+18:52:04.798:     linux-decklink.so
+18:52:04.798:     linux-capture.so
+18:52:04.798:     linux-alsa.so
+18:52:04.798:     image-source.so
+18:52:04.798:     frontend-tools.so
+18:52:04.798:     decklink-ouput-ui.so
+18:52:04.798:     decklink-captions.so
+18:52:04.798: ---------------------------------
+18:52:04.798: ==== Startup complete ===============================================
+18:52:04.823: All scene data cleared
+18:52:04.823: ------------------------------------------------
+18:52:04.825: pulse-input: Server name: 'pulseaudio 16.1'
+18:52:04.825: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+18:52:04.825: pulse-input: Started recording from 'alsa_output.pci-0000_2d_00.4.analog-stereo.monitor'
+18:52:04.825: [Loaded global audio device]: 'Desktop Audio'
+18:52:04.825: pulse-input: Server name: 'pulseaudio 16.1'
+18:52:04.825: pulse-input: Audio format: s16le, 44100 Hz, 1 channels
+18:52:04.825: pulse-input: Started recording from 'alsa_input.usb-Jieli_Technology_USB_PHY_2.0-02.mono-fallback'
+18:52:04.825: [Loaded global audio device]: 'Mic/Aux'
+18:52:04.826: Switched to scene 'Scene'
+18:52:04.826: ------------------------------------------------
+18:52:04.826: Loaded scenes:
+18:52:04.826: - scene 'Scene':
+18:52:04.826:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+18:52:04.826: ------------------------------------------------
+18:52:05.371: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+18:52:05.371: 
+18:52:25.230: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:52:25.230: 	title: Zoom - Licensed Account
+18:52:25.230: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:52:25.230: 	Bit depth: 32
+18:52:25.230: 	Found proper GLXFBConfig (in 9): yes
+18:52:25.230: 
+18:52:27.127: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:52:27.131: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:52:27.131: 	title: Zoom Meeting
+18:52:27.131: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:52:27.131: 	Bit depth: 32
+18:52:27.131: 	Found proper GLXFBConfig (in 9): yes
+18:52:27.131: 
+18:52:29.117: ---------------------------------
+18:52:29.118: [NVENC encoder: 'simple_h264_recording'] settings:
+18:52:29.118: 	rate_control: CQP
+18:52:29.118: 	bitrate:      0
+18:52:29.118: 	cqp:          23
+18:52:29.118: 	keyint:       250
+18:52:29.118: 	preset:       hq
+18:52:29.118: 	profile:      high
+18:52:29.118: 	width:        1920
+18:52:29.118: 	height:       1080
+18:52:29.118: 	2-pass:       false
+18:52:29.118: 	b-frames:     2
+18:52:29.118: 	psycho-aq:    1
+18:52:29.118: 	GPU:          0
+18:52:29.118: 
+18:52:29.321: libfdk_aac encoder created
+18:52:29.321: libfdk_aac bitrate: 192, channels: 2
+18:52:29.321: ==== Recording Start ===============================================
+18:52:29.321: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/italo/Videos/2022-09-05 18-52-29.mkv'...
+18:52:31.677: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:52:31.679: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:52:31.679: 	title: Zoom Meeting
+18:52:31.679: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:52:31.679: 	Bit depth: 32
+18:52:31.679: 	Found proper GLXFBConfig (in 9): yes
+18:52:31.679: 
+18:55:09.744: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:09.761: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:09.761: 	title: Zoom Meeting
+18:55:09.761: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:55:09.761: 	Bit depth: 32
+18:55:09.761: 	Found proper GLXFBConfig (in 9): yes
+18:55:09.761: 
+18:55:10.760: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:10.762: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:10.762: 	title: Zoom Meeting
+18:55:10.762: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:55:10.762: 	Bit depth: 32
+18:55:10.762: 	Found proper GLXFBConfig (in 9): yes
+18:55:10.762: 
+18:55:12.710: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:55:12.711: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:55:12.711: 	title: Zoom Meeting
+18:55:12.711: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:55:12.711: 	Bit depth: 32
+18:55:12.711: 	Found proper GLXFBConfig (in 9): yes
+18:55:12.711: 
+18:57:22.760: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:57:22.793: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:57:22.793: 	title: Zoom Meeting
+18:57:22.793: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:57:22.793: 	Bit depth: 32
+18:57:22.793: 	Found proper GLXFBConfig (in 9): yes
+18:57:22.793: 
+18:57:22.960: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:57:22.962: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:57:22.962: 	title: Zoom Meeting
+18:57:22.962: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:57:22.962: 	Bit depth: 32
+18:57:22.962: 	Found proper GLXFBConfig (in 9): yes
+18:57:22.962: 
+18:57:22.976: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:57:22.978: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:57:22.978: 	title: Zoom Meeting
+18:57:22.978: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:57:22.978: 	Bit depth: 32
+18:57:22.978: 	Found proper GLXFBConfig (in 9): yes
+18:57:22.978: 
+18:57:24.743: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+18:57:24.745: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+18:57:24.745: 	title: Zoom Meeting
+18:57:24.745: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+18:57:24.745: 	Bit depth: 32
+18:57:24.745: 	Found proper GLXFBConfig (in 9): yes
+18:57:24.745: 
+19:00:27.743: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:27.761: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:27.761: 	title: Zoom Meeting
+19:00:27.761: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:27.761: 	Bit depth: 32
+19:00:27.761: 	Found proper GLXFBConfig (in 9): yes
+19:00:27.761: 
+19:00:27.926: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:27.928: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:27.928: 	title: Zoom Meeting
+19:00:27.928: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:27.928: 	Bit depth: 32
+19:00:27.928: 	Found proper GLXFBConfig (in 9): yes
+19:00:27.928: 
+19:00:31.843: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:31.845: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:31.845: 	title: Zoom Meeting
+19:00:31.845: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:31.845: 	Bit depth: 32
+19:00:31.845: 	Found proper GLXFBConfig (in 9): yes
+19:00:31.845: 
+19:00:39.660: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:39.661: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:39.661: 	title: Zoom Meeting
+19:00:39.661: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:39.661: 	Bit depth: 32
+19:00:39.661: 	Found proper GLXFBConfig (in 9): yes
+19:00:39.661: 
+19:00:39.860: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:39.861: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:39.861: 	title: Zoom Meeting
+19:00:39.861: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:39.861: 	Bit depth: 32
+19:00:39.861: 	Found proper GLXFBConfig (in 9): yes
+19:00:39.861: 
+19:00:44.626: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:44.628: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:44.628: 	title: Zoom Meeting
+19:00:44.628: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:44.628: 	Bit depth: 32
+19:00:44.628: 	Found proper GLXFBConfig (in 9): yes
+19:00:44.628: 
+19:00:45.794: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:00:45.842: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:00:45.842: 	title: Zoom Meeting
+19:00:45.842: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:00:45.842: 	Bit depth: 32
+19:00:45.842: 	Found proper GLXFBConfig (in 9): yes
+19:00:45.842: 
+19:02:45.943: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:02:45.945: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:02:45.945: 	title: Zoom Meeting
+19:02:45.945: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:02:45.945: 	Bit depth: 32
+19:02:45.945: 	Found proper GLXFBConfig (in 9): yes
+19:02:45.945: 
+19:03:09.709: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:09.727: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:03:09.727: 	title: Zoom Meeting
+19:03:09.727: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:03:09.727: 	Bit depth: 32
+19:03:09.727: 	Found proper GLXFBConfig (in 9): yes
+19:03:09.727: 
+19:03:10.393: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:10.411: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:03:10.411: 	title: Zoom Meeting
+19:03:10.411: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:03:10.411: 	Bit depth: 32
+19:03:10.411: 	Found proper GLXFBConfig (in 9): yes
+19:03:10.411: 
+19:03:18.393: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:18.409: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:03:18.409: 	title: Zoom Meeting
+19:03:18.409: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:03:18.409: 	Bit depth: 32
+19:03:18.409: 	Found proper GLXFBConfig (in 9): yes
+19:03:18.409: 
+19:03:25.243: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:25.292: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:03:25.292: 	title: Zoom Meeting
+19:03:25.292: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:03:25.292: 	Bit depth: 32
+19:03:25.292: 	Found proper GLXFBConfig (in 9): yes
+19:03:25.292: 
+19:03:31.160: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:03:31.177: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:03:31.177: 	title: Zoom Meeting
+19:03:31.177: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:03:31.177: 	Bit depth: 32
+19:03:31.177: 	Found proper GLXFBConfig (in 9): yes
+19:03:31.177: 
+19:04:11.360: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:04:11.361: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:04:11.361: 	title: Zoom Meeting
+19:04:11.361: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:04:11.361: 	Bit depth: 32
+19:04:11.361: 	Found proper GLXFBConfig (in 9): yes
+19:04:11.361: 
+19:14:39.493: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:14:39.495: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:14:39.495: 	title: Zoom Meeting
+19:14:39.495: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:14:39.495: 	Bit depth: 32
+19:14:39.495: 	Found proper GLXFBConfig (in 9): yes
+19:14:39.495: 
+19:14:53.143: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:14:53.145: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:14:53.145: 	title: Zoom Meeting
+19:14:53.145: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:14:53.145: 	Bit depth: 32
+19:14:53.145: 	Found proper GLXFBConfig (in 9): yes
+19:14:53.145: 
+19:14:53.843: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:14:53.845: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:14:53.845: 	title: Zoom Meeting
+19:14:53.845: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:14:53.845: 	Bit depth: 32
+19:14:53.845: 	Found proper GLXFBConfig (in 9): yes
+19:14:53.845: 
+19:15:01.643: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:01.645: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:01.645: 	title: Zoom Meeting
+19:15:01.645: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:01.645: 	Bit depth: 32
+19:15:01.645: 	Found proper GLXFBConfig (in 9): yes
+19:15:01.645: 
+19:15:08.260: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:08.275: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:08.275: 	title: Zoom Meeting
+19:15:08.275: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:08.275: 	Bit depth: 32
+19:15:08.275: 	Found proper GLXFBConfig (in 9): yes
+19:15:08.275: 
+19:15:08.426: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:08.428: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:08.428: 	title: Zoom Meeting
+19:15:08.428: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:08.428: 	Bit depth: 32
+19:15:08.428: 	Found proper GLXFBConfig (in 9): yes
+19:15:08.428: 
+19:15:27.860: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:27.875: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:27.875: 	title: Zoom Meeting
+19:15:27.875: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:27.875: 	Bit depth: 32
+19:15:27.875: 	Found proper GLXFBConfig (in 9): yes
+19:15:27.875: 
+19:15:28.476: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:28.478: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:28.478: 	title: Zoom Meeting
+19:15:28.478: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:28.478: 	Bit depth: 32
+19:15:28.478: 	Found proper GLXFBConfig (in 9): yes
+19:15:28.478: 
+19:15:34.910: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:34.911: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:34.911: 	title: Zoom Meeting
+19:15:34.911: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:34.911: 	Bit depth: 32
+19:15:34.911: 	Found proper GLXFBConfig (in 9): yes
+19:15:34.911: 
+19:15:35.376: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:15:35.391: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:15:35.391: 	title: Zoom Meeting
+19:15:35.391: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:15:35.391: 	Bit depth: 32
+19:15:35.391: 	Found proper GLXFBConfig (in 9): yes
+19:15:35.391: 
+19:23:04.143: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:04.157: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:04.157: 	title: Zoom Meeting
+19:23:04.157: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:04.157: 	Bit depth: 32
+19:23:04.157: 	Found proper GLXFBConfig (in 9): yes
+19:23:04.157: 
+19:23:34.143: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:34.157: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:34.157: 	title: Zoom Meeting
+19:23:34.157: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:34.157: 	Bit depth: 32
+19:23:34.157: 	Found proper GLXFBConfig (in 9): yes
+19:23:34.157: 
+19:23:53.710: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:53.711: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:53.711: 	title: Zoom Meeting
+19:23:53.711: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:53.711: 	Bit depth: 32
+19:23:53.711: 	Found proper GLXFBConfig (in 9): yes
+19:23:53.711: 
+19:23:54.543: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:54.545: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:54.545: 	title: Zoom Meeting
+19:23:54.545: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:54.545: 	Bit depth: 32
+19:23:54.545: 	Found proper GLXFBConfig (in 9): yes
+19:23:54.545: 
+19:23:55.126: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:55.127: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:55.127: 	title: Zoom Meeting
+19:23:55.127: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:55.127: 	Bit depth: 32
+19:23:55.127: 	Found proper GLXFBConfig (in 9): yes
+19:23:55.127: 
+19:23:56.843: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:23:56.845: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:23:56.845: 	title: Zoom Meeting
+19:23:56.845: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:23:56.845: 	Bit depth: 32
+19:23:56.845: 	Found proper GLXFBConfig (in 9): yes
+19:23:56.845: 
+19:31:21.860: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:31:21.861: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:31:21.861: 	title: Zoom Meeting
+19:31:21.861: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:31:21.861: 	Bit depth: 32
+19:31:21.861: 	Found proper GLXFBConfig (in 9): yes
+19:31:21.861: 
+19:31:27.160: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:31:27.204: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:31:27.204: 	title: Zoom Meeting
+19:31:27.204: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:31:27.204: 	Bit depth: 32
+19:31:27.204: 	Found proper GLXFBConfig (in 9): yes
+19:31:27.204: 
+19:35:28.821: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:35:28.854: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:35:28.854: 	title: Zoom Meeting
+19:35:28.854: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:35:28.854: 	Bit depth: 32
+19:35:28.854: 	Found proper GLXFBConfig (in 9): yes
+19:35:28.854: 
+19:35:48.470: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:35:48.472: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:35:48.472: 	title: Zoom Meeting
+19:35:48.472: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:35:48.472: 	Bit depth: 32
+19:35:48.472: 	Found proper GLXFBConfig (in 9): yes
+19:35:48.472: 
+19:39:33.943: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:39:33.970: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:39:33.970: 	title: Zoom Meeting
+19:39:33.970: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:39:33.970: 	Bit depth: 32
+19:39:33.970: 	Found proper GLXFBConfig (in 9): yes
+19:39:33.970: 
+19:39:34.926: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:39:34.954: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:39:34.954: 	title: Zoom Meeting
+19:39:34.954: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:39:34.954: 	Bit depth: 32
+19:39:34.954: 	Found proper GLXFBConfig (in 9): yes
+19:39:34.954: 
+19:41:01.271: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:41:01.336: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:41:01.336: 	title: Zoom Meeting
+19:41:01.336: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:41:01.336: 	Bit depth: 32
+19:41:01.336: 	Found proper GLXFBConfig (in 9): yes
+19:41:01.336: 
+19:49:38.610: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:49:38.620: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:49:38.620: 	title: Zoom Meeting
+19:49:38.620: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:49:38.620: 	Bit depth: 32
+19:49:38.620: 	Found proper GLXFBConfig (in 9): yes
+19:49:38.620: 
+19:51:03.976: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:04.002: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:04.002: 	title: Zoom Meeting
+19:51:04.002: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:04.002: 	Bit depth: 32
+19:51:04.002: 	Found proper GLXFBConfig (in 9): yes
+19:51:04.002: 
+19:51:06.093: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:06.095: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:06.095: 	title: Zoom Meeting
+19:51:06.095: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:06.095: 	Bit depth: 32
+19:51:06.095: 	Found proper GLXFBConfig (in 9): yes
+19:51:06.095: 
+19:51:06.326: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:06.328: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:06.328: 	title: Zoom Meeting
+19:51:06.328: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:06.328: 	Bit depth: 32
+19:51:06.328: 	Found proper GLXFBConfig (in 9): yes
+19:51:06.328: 
+19:51:11.543: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:11.552: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:11.552: 	title: Zoom Meeting
+19:51:11.552: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:11.552: 	Bit depth: 32
+19:51:11.552: 	Found proper GLXFBConfig (in 9): yes
+19:51:11.552: 
+19:51:17.365: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/italo/Videos/2022-09-05 18-52-29.mkv' stopped
+19:51:17.365: Output 'simple_file_output': stopping
+19:51:17.365: Output 'simple_file_output': Total frames output: 211646
+19:51:17.365: Output 'simple_file_output': Total drawn frames: 211671 (211683 attempted)
+19:51:17.365: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 12 (0.0%)
+19:51:17.366: ==== Recording Stop ================================================
+19:51:17.553: libfdk_aac encoder destroyed
+19:51:18.451: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:18.453: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:18.453: 	title: Zoom Meeting
+19:51:18.453: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:18.453: 	Bit depth: 32
+19:51:18.453: 	Found proper GLXFBConfig (in 9): yes
+19:51:18.453: 
+19:51:24.259: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:24.269: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:24.269: 	title: Zoom Meeting
+19:51:24.269: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:24.269: 	Bit depth: 32
+19:51:24.269: 	Found proper GLXFBConfig (in 9): yes
+19:51:24.269: 
+19:51:25.460: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:25.469: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:25.469: 	title: Zoom Meeting
+19:51:25.469: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:25.469: 	Bit depth: 32
+19:51:25.469: 	Found proper GLXFBConfig (in 9): yes
+19:51:25.469: 
+19:51:26.343: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:26.384: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:26.384: 	title: Zoom Meeting
+19:51:26.384: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:26.384: 	Bit depth: 32
+19:51:26.384: 	Found proper GLXFBConfig (in 9): yes
+19:51:26.384: 
+19:51:52.376: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:51:52.390: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:51:52.390: 	title: Zoom Meeting
+19:51:52.390: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:51:52.390: 	Bit depth: 32
+19:51:52.390: 	Found proper GLXFBConfig (in 9): yes
+19:51:52.390: 
+19:52:33.679: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:33.682: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:33.682: 	title: Zoom Meeting
+19:52:33.682: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:33.682: 	Bit depth: 32
+19:52:33.682: 	Found proper GLXFBConfig (in 9): yes
+19:52:33.682: 
+19:52:36.243: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:36.259: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:36.259: 	title: Zoom Meeting
+19:52:36.259: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:36.259: 	Bit depth: 32
+19:52:36.259: 	Found proper GLXFBConfig (in 9): yes
+19:52:36.259: 
+19:52:39.409: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:39.412: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:39.412: 	title: Zoom Meeting
+19:52:39.412: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:39.412: 	Bit depth: 32
+19:52:39.412: 	Found proper GLXFBConfig (in 9): yes
+19:52:39.412: 
+19:52:40.412: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:40.420: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:40.420: 	title: Zoom Meeting
+19:52:40.420: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:40.420: 	Bit depth: 32
+19:52:40.420: 	Found proper GLXFBConfig (in 9): yes
+19:52:40.420: 
+19:52:43.793: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:43.803: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:43.803: 	title: Zoom Meeting
+19:52:43.803: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:43.803: 	Bit depth: 32
+19:52:43.803: 	Found proper GLXFBConfig (in 9): yes
+19:52:43.803: 
+19:52:46.826: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:46.840: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:46.840: 	title: Zoom Meeting
+19:52:46.840: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:46.840: 	Bit depth: 32
+19:52:46.840: 	Found proper GLXFBConfig (in 9): yes
+19:52:46.840: 
+19:52:54.293: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:54.307: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:54.307: 	title: Zoom Meeting
+19:52:54.307: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:54.307: 	Bit depth: 32
+19:52:54.307: 	Found proper GLXFBConfig (in 9): yes
+19:52:54.307: 
+19:52:54.760: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:52:54.773: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:52:54.773: 	title: Zoom Meeting
+19:52:54.773: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:52:54.773: 	Bit depth: 32
+19:52:54.773: 	Found proper GLXFBConfig (in 9): yes
+19:52:54.773: 
+19:53:13.309: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:13.320: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:13.320: 	title: Zoom Meeting
+19:53:13.320: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:13.320: 	Bit depth: 32
+19:53:13.320: 	Found proper GLXFBConfig (in 9): yes
+19:53:13.320: 
+19:53:16.410: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:16.415: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:16.415: 	title: Zoom Meeting
+19:53:16.415: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:16.415: 	Bit depth: 32
+19:53:16.415: 	Found proper GLXFBConfig (in 9): yes
+19:53:16.415: 
+19:53:19.046: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:19.051: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:19.051: 	title: Zoom Meeting
+19:53:19.051: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:19.051: 	Bit depth: 32
+19:53:19.051: 	Found proper GLXFBConfig (in 9): yes
+19:53:19.051: 
+19:53:20.511: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:20.521: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:20.521: 	title: Zoom Meeting
+19:53:20.521: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:20.521: 	Bit depth: 32
+19:53:20.521: 	Found proper GLXFBConfig (in 9): yes
+19:53:20.521: 
+19:53:20.693: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:20.696: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:20.696: 	title: Zoom Meeting
+19:53:20.696: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:20.696: 	Bit depth: 32
+19:53:20.696: 	Found proper GLXFBConfig (in 9): yes
+19:53:20.696: 
+19:53:27.576: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:27.582: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:27.582: 	title: Zoom Meeting
+19:53:27.582: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:27.582: 	Bit depth: 32
+19:53:27.582: 	Found proper GLXFBConfig (in 9): yes
+19:53:27.582: 
+19:53:30.893: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:30.900: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:30.900: 	title: Zoom Meeting
+19:53:30.900: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:30.900: 	Bit depth: 32
+19:53:30.900: 	Found proper GLXFBConfig (in 9): yes
+19:53:30.900: 
+19:53:31.076: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:53:31.080: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+19:53:31.080: 	title: Zoom Meeting
+19:53:31.080: 	class: join?action=join&confno=81058812988&uid=wGqSxmijSjasEvHU9Y2WIA&uname=Italo%20Casanova&pk=BMCDqtYLc4LY6I6IocATrygo_YfHuj0qthPcAuemDPE9XqhORg3_uoKPB9KxqEugHccyCmSLThMAHJ6IuHUHIiiLugZpWQKv9pYq1UUaX6WrxsxQQcMo9d6DFDJaMbIXsIfHptaU8eXk97PjCorq.RvequwJ9W1MzEnhW&confid=dXRpZD1VVElEX2RhNDI4NjNhOWU3ZTQwNmNhMTI2YzE4MzdhOWEwOWU0JmVtYWlsPWl0YWxvLmNhc2Fub3ZhLmQlNDB1bmkucGUmdXNzPUFTQmhKVnlMY3dmSG44ZktsN093UmFBeEFlbHJMWVctdmFHZ3p3VDhtUmFLRDB6b2dqLXFlSHI5WFo5LXNIdFV0c2xnTnp2OHVUc1RDZUwzeDFTVlhqRGJST2w5LmNqQkQxX0QxZHg5NkJycDgmdGlkPTI1NjYzOTFlNTlhMDQxZmJhYjc3MTNmNTE0OGM1Njk3&browser=firefox
+19:53:31.080: 	Bit depth: 32
+19:53:31.080: 	Found proper GLXFBConfig (in 9): yes
+19:53:31.080: 
+19:54:40.306: ==== Shutting down ==================================================
+19:54:40.327: pulse-input: Stopped recording from 'alsa_output.pci-0000_2d_00.4.analog-stereo.monitor'
+19:54:40.327: pulse-input: Got 1912960 packets with 165619467 frames
+19:54:40.327: pulse-input: Stopped recording from 'alsa_input.usb-Jieli_Technology_USB_PHY_2.0-02.mono-fallback'
+19:54:40.327: pulse-input: Got 753001 packets with 165672960 frames
+19:54:40.328: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 901903
+19:54:40.328: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 901904
+19:54:40.328: xcompcap: cleanup glXReleaseTexImageEXT failed: GLXBadPixmap
+19:54:40.337: All scene data cleared
+19:54:40.337: ------------------------------------------------
+19:54:40.383: [Scripting] Total detached callbacks: 0
+19:54:40.383: Freeing OBS context data
+19:54:40.389: == Profiler Results =============================
+19:54:40.389: run_program_init: 193.068 ms
+19:54:40.389:  ┣OBSApp::AppInit: 1.019 ms
+19:54:40.389:  ┃ ┗OBSApp::InitLocale: 0.394 ms
+19:54:40.389:  ┗OBSApp::OBSInit: 176.74 ms
+19:54:40.389:    ┣obs_startup: 0.589 ms
+19:54:40.389:    ┗OBSBasic::OBSInit: 145.697 ms
+19:54:40.389:      ┣OBSBasic::InitBasicConfig: 0.041 ms
+19:54:40.389:      ┣OBSBasic::ResetAudio: 0.083 ms
+19:54:40.389:      ┣OBSBasic::ResetVideo: 45.885 ms
+19:54:40.389:      ┣OBSBasic::InitOBSCallbacks: 0.002 ms
+19:54:40.389:      ┣OBSBasic::InitHotkeys: 0.023 ms
+19:54:40.389:      ┣obs_load_all_modules: 55.007 ms
+19:54:40.389:      ┃ ┣obs_init_module(decklink-captions.so): 0.024 ms
+19:54:40.389:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.314 ms
+19:54:40.389:      ┃ ┣obs_init_module(frontend-tools.so): 37.939 ms
+19:54:40.389:      ┃ ┣obs_init_module(image-source.so): 0.004 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-capture.so): 0.166 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-decklink.so): 0.033 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-jack.so): 0 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0 ms
+19:54:40.389:      ┃ ┣obs_init_module(linux-v4l2.so): 3.909 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.261 ms
+19:54:40.389:      ┃ ┃ ┗nvenc_check: 0.185 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-filters.so): 0.011 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-libfdk.so): 0 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-transitions.so): 0.003 ms
+19:54:40.389:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+19:54:40.389:      ┃ ┣obs_init_module(rtmp-services.so): 0.373 ms
+19:54:40.389:      ┃ ┗obs_init_module(text-freetype2.so): 0.003 ms
+19:54:40.389:      ┣OBSBasic::ResetOutputs: 0.056 ms
+19:54:40.389:      ┣OBSBasic::CreateHotkeys: 0.028 ms
+19:54:40.389:      ┣OBSBasic::InitService: 0.457 ms
+19:54:40.389:      ┣OBSBasic::InitPrimitives: 0.084 ms
+19:54:40.389:      ┗OBSBasic::Load: 27.465 ms
+19:54:40.389: obs_hotkey_thread(25 ms): min=0.026 ms, median=0.063 ms, max=28.446 ms, 99th percentile=0.107 ms, 99.9993% below 25 ms
+19:54:40.389: audio_thread(Audio): min=0 ms, median=0.217 ms, max=3.786 ms, 99th percentile=0.472 ms
+19:54:40.389:  ┗receive_audio: min=0.001 ms, median=0.172 ms, max=3.745 ms, 99th percentile=0.352 ms, 0.93719 calls per parent call
+19:54:40.389:    ┣buffer_audio: min=0 ms, median=0 ms, max=0.066 ms, 99th percentile=0.002 ms
+19:54:40.389:    ┗do_encode: min=0.034 ms, median=0.17 ms, max=3.743 ms, 99th percentile=0.348 ms
+19:54:40.389:      ┣encode(simple_aac_recording): min=0.031 ms, median=0.167 ms, max=0.715 ms, 99th percentile=0.338 ms
+19:54:40.389:      ┗send_packet: min=0 ms, median=0.002 ms, max=3.483 ms, 99th percentile=0.013 ms
+19:54:40.389: obs_graphics_thread(16.6667 ms): min=0.13 ms, median=1.444 ms, max=78.681 ms, 99th percentile=2.472 ms, 99.9854% below 16.667 ms
+19:54:40.389:  ┣tick_sources: min=0 ms, median=0.111 ms, max=65.734 ms, 99th percentile=0.186 ms
+19:54:40.389:  ┣output_frame: min=0.055 ms, median=0.97 ms, max=4.943 ms, 99th percentile=1.75 ms
+19:54:40.389:  ┃ ┣gs_context(video->graphics): min=0.055 ms, median=0.202 ms, max=2.356 ms, 99th percentile=0.352 ms
+19:54:40.389:  ┃ ┃ ┣render_video: min=0.017 ms, median=0.138 ms, max=2.259 ms, 99th percentile=0.237 ms
+19:54:40.389:  ┃ ┃ ┃ ┣render_main_texture: min=0.013 ms, median=0.058 ms, max=0.527 ms, 99th percentile=0.104 ms
+19:54:40.389:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.043 ms, max=0.619 ms, 99th percentile=0.08 ms, 0.939407 calls per parent call
+19:54:40.389:  ┃ ┃ ┃ ┗stage_output_texture: min=0.017 ms, median=0.029 ms, max=1.978 ms, 99th percentile=0.064 ms, 0.939407 calls per parent call
+19:54:40.389:  ┃ ┃ ┣gs_flush: min=0.005 ms, median=0.007 ms, max=2.119 ms, 99th percentile=0.013 ms
+19:54:40.389:  ┃ ┃ ┗download_frame: min=0 ms, median=0.002 ms, max=0.156 ms, 99th percentile=0.003 ms, 0.939407 calls per parent call
+19:54:40.389:  ┃ ┗output_video_data: min=0.491 ms, median=0.772 ms, max=4.43 ms, 99th percentile=1.427 ms, 0.939403 calls per parent call
+19:54:40.389:  ┗render_displays: min=0.029 ms, median=0.27 ms, max=41.536 ms, 99th percentile=0.513 ms
+19:54:40.389: video_thread(video): min=0.426 ms, median=0.741 ms, max=7.91 ms, 99th percentile=1.557 ms
+19:54:40.389:  ┗receive_video: min=0.426 ms, median=0.74 ms, max=7.907 ms, 99th percentile=1.556 ms
+19:54:40.389:    ┗do_encode: min=0.425 ms, median=0.74 ms, max=7.906 ms, 99th percentile=1.556 ms
+19:54:40.389:      ┣encode(simple_h264_recording): min=0.424 ms, median=0.734 ms, max=7.891 ms, 99th percentile=1.542 ms
+19:54:40.389:      ┗send_packet: min=0.001 ms, median=0.003 ms, max=1.061 ms, 99th percentile=0.021 ms
+19:54:40.389: =================================================
+19:54:40.389: == Profiler Time Between Calls ==================
+19:54:40.389: obs_hotkey_thread(25 ms): min=25.047 ms, median=25.122 ms, max=53.505 ms, 99.9552% within ±2% of 25 ms (0% lower, 0.0448226% higher)
+19:54:40.389: obs_graphics_thread(16.6667 ms): min=2.192 ms, median=16.667 ms, max=78.691 ms, 99.9716% within ±2% of 16.667 ms (0.0142018% lower, 0.0142018% higher)
+19:54:40.389: =================================================
+19:54:40.407: Number of memory leaks: 0

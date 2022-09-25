@@ -1,0 +1,3 @@
+[2022-09-06 22:46:45.635] [sharedprocess] [info] Starting worker process with pid 341099 (type: fileWatcher, window: 1).
+[2022-09-06 22:46:48.880] [sharedprocess] [info] Getting Manifest... ms-vsliveshare.vsliveshare
+[2022-09-06 22:46:49.374] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare

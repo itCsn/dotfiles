@@ -1,0 +1,22 @@
+[2022-09-05T18:13:31.042Z] Log level: Info
+[2022-09-05T18:13:31.044Z] [info] Validating found git in: git
+[2022-09-05T18:13:31.060Z] [info] Using git  from git
+[2022-09-05T18:13:31.164Z] > git rev-parse --show-toplevel [95ms]
+[2022-09-05T18:13:31.180Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-09-05T18:13:31.184Z] [info] Open repository: /home/italo/trabajo/odoo/odoo15/docker-odoo-15
+[2022-09-05T18:13:31.193Z] > git status -z -uall [3ms]
+[2022-09-05T18:13:31.199Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-05T18:13:31.231Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+[2022-09-05T18:13:31.243Z] > git remote --verbose [1ms]
+[2022-09-05T18:13:31.244Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-05T18:13:31.263Z] > git config --get commit.template [2ms]
+[2022-09-05T18:13:31.270Z] > git status -z -uall [1ms]
+[2022-09-05T18:13:31.275Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-05T18:13:31.280Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-09-05T18:13:31.301Z] > git remote --verbose [15ms]
+[2022-09-05T18:13:31.301Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-09-05T18:13:31.310Z] > git config --get commit.template [1ms]
+[2022-09-05T18:13:31.722Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-05T18:13:55.701Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-05T18:13:57.142Z] > git show --textconv :addons/dv_module_automatic_translation_wizard/models/translation_generator.py [50ms]
+[2022-09-05T18:13:57.142Z] > git ls-files --stage -- /home/italo/trabajo/odoo/odoo15/docker-odoo-15/addons/dv_module_automatic_translation_wizard/models/translation_generator.py [40ms]

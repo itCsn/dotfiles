@@ -1,0 +1,24 @@
+[2022-09-05T18:12:57.499Z] Log level: Info
+[2022-09-05T18:12:57.502Z] [info] Validating found git in: git
+[2022-09-05T18:12:57.520Z] [info] Using git 2.37.2 from git
+[2022-09-05T18:12:58.059Z] > git rev-parse --show-toplevel [533ms]
+[2022-09-05T18:12:58.078Z] > git rev-parse --git-dir --git-common-dir [13ms]
+[2022-09-05T18:12:58.080Z] [info] Open repository: /home/italo/trabajo/odoo/template_odoo_docker_compose
+[2022-09-05T18:12:58.089Z] > git status -z -uall [4ms]
+[2022-09-05T18:12:58.101Z] > git symbolic-ref --short HEAD [6ms]
+[2022-09-05T18:12:58.107Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+[2022-09-05T18:12:58.114Z] > git remote --verbose [1ms]
+[2022-09-05T18:12:58.115Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-05T18:12:58.207Z] > git config --get commit.template [20ms]
+[2022-09-05T18:12:58.221Z] > git status -z -uall [6ms]
+[2022-09-05T18:12:58.266Z] > git symbolic-ref --short HEAD [42ms]
+[2022-09-05T18:12:58.276Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-09-05T18:12:58.285Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-05T18:12:58.285Z] > git remote --verbose [2ms]
+[2022-09-05T18:12:58.294Z] > git config --get commit.template [1ms]
+[2022-09-05T18:13:03.989Z] > git status -z -uall [1ms]
+[2022-09-05T18:13:03.994Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-05T18:13:04.002Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-09-05T18:13:04.012Z] > git remote --verbose [1ms]
+[2022-09-05T18:13:04.012Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-05T18:13:04.020Z] > git config --get commit.template [1ms]

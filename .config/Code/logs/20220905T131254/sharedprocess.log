@@ -1,0 +1,6 @@
+[2022-09-05 13:12:56.370] [sharedprocess] [info] Deleted from disk fudge.auto-using /home/italo/.vscode/extensions/fudge.auto-using-0.7.15
+[2022-09-05 13:12:56.437] [sharedprocess] [info] Starting worker process with pid 104613 (type: fileWatcher, window: 1).
+[2022-09-05 13:12:56.574] [sharedprocess] [info] Deleted from disk rust-lang.rust-analyzer /home/italo/.vscode/extensions/rust-lang.rust-analyzer-0.3.1186-linux-x64
+[2022-09-05 13:12:56.794] [sharedprocess] [info] Deleted from disk unity.unity-debug /home/italo/.vscode/extensions/unity.unity-debug-3.0.2
+[2022-09-05 13:13:26.310] [sharedprocess] [info] Worker process with pid 104613 terminated normally (type: fileWatcher, window: 1).
+[2022-09-05 13:13:26.987] [sharedprocess] [info] Starting worker process with pid 106309 (type: fileWatcher, window: 1).

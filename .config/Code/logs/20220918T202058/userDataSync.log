@@ -1,0 +1,23 @@
+[2022-09-18 20:21:00.003] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-09-18 20:21:00.003] [settingssync] [info] Auto Sync is enabled.
+[2022-09-18 20:21:00.003] [settingssync] [info] Auto Sync: Suspended until auth token is available.
+[2022-09-18 20:21:25.514] [settingssync] [info] Auto Sync: Started
+[2022-09-18 20:21:25.514] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-09-18 20:21:26.941] [settingssync] [info] Settings: Updated remote settings
+[2022-09-18 20:21:26.946] [settingssync] [info] Settings: Updated last synchronized settings
+[2022-09-18 20:21:26.954] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-09-18 20:21:26.957] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-09-18 20:21:26.960] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-09-18 20:21:27.565] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-09-18 20:21:27.569] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-09-18 20:21:28.028] [settingssync] [info] Extensions: Updated remote extensions. Removed: ["fudge.auto-using","unity.unity-debug"].
+[2022-09-18 20:21:28.031] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-09-18 20:21:28.033] [settingssync] [info] Sync done. Took 1496ms
+[2022-09-18 20:26:28.039] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-09-18 20:26:28.778] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-09-18 20:26:28.783] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-09-18 20:26:28.788] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-09-18 20:26:28.790] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-09-18 20:26:28.797] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-09-18 20:26:28.892] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-09-18 20:26:28.893] [settingssync] [info] Sync done. Took 131ms

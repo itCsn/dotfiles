@@ -1,0 +1,38 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Videos/untitled/src/Main.java" timestamp="1662314616599">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/proyectos/talleres/spring/attendance/src/main/java/pe/edu/com/attendance/attendance/ClassSession.java" timestamp="1662613407935">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ew==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ew==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Og==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

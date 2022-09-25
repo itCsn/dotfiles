@@ -1,0 +1,15 @@
+[Info  - 13:13:57] (107707) Pylance language server 2022.8.50 (pyright f107f0f3) starting
+[Info  - 13:13:57] (107707) Server root directory: /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.8.50/dist
+[Info  - 13:13:57] (107707) Starting service instance "dv_module_automatic_translation_wizard"
+[Info  - 13:13:57] (107707) Notebook support: LSP
+[Info  - 13:13:57] (107707) Interactive window support: LSP
+[Info  - 13:13:57] (107707) No configuration file found.
+[Info  - 13:13:57] (107707) No pyproject.toml file found.
+[Info  - 13:13:57] (107707) Setting pythonPath for service "dv_module_automatic_translation_wizard": "/bin/python"
+[Warn  - 13:13:57] (107707) stubPath /home/italo/trabajo/odoo/odoo15/docker-odoo-15/addons/dv_module_automatic_translation_wizard/typings is not a valid directory.
+[Info  - 13:13:57] (107707) Assuming Python version 3.10
+[Info  - 13:13:57] (107707) Assuming Python platform Linux
+[Info  - 13:13:57] (107707) Searching for source files
+[Info  - 13:13:57] (107707) Found 10 source files
+[Info  - 13:13:57] (107707) Background analysis(1) root directory: /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.8.50/dist
+[Info  - 13:13:57] (107707) Background analysis(1) started

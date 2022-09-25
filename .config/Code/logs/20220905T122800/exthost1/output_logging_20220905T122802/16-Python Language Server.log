@@ -1,0 +1,15 @@
+[Info  - 12:28:05] (13937) Pylance language server 2022.8.50 (pyright f107f0f3) starting
+[Info  - 12:28:05] (13937) Server root directory: /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.8.50/dist
+[Info  - 12:28:05] (13937) Starting service instance "dv_traslation_file_generator"
+[Info  - 12:28:05] (13937) Notebook support: LSP
+[Info  - 12:28:05] (13937) Interactive window support: LSP
+[Info  - 12:28:05] (13937) Background analysis(1) root directory: /home/italo/.vscode/extensions/ms-python.vscode-pylance-2022.8.50/dist
+[Info  - 12:28:05] (13937) Background analysis(1) started
+[Info  - 12:28:05] (13937) No configuration file found.
+[Info  - 12:28:05] (13937) No pyproject.toml file found.
+[Info  - 12:28:05] (13937) Setting pythonPath for service "dv_traslation_file_generator": "/bin/python"
+[Warn  - 12:28:05] (13937) stubPath /home/italo/trabajo/odoo/template_odoo_docker_compose/addons/dv_traslation_file_generator/typings is not a valid directory.
+[Info  - 12:28:05] (13937) Assuming Python version 3.10
+[Info  - 12:28:05] (13937) Assuming Python platform Linux
+[Info  - 12:28:05] (13937) Searching for source files
+[Info  - 12:28:05] (13937) Found 5 source files

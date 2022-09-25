@@ -1,0 +1,410 @@
+[2022-09-05 12:28:01.702] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-09-05 12:28:01.724] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-09-05 12:28:01.794] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.794] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.794] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.794] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.795] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.796] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.797] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.798] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.799] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.800] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.801] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.802] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:01.803] [renderer1] [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+[2022-09-05 12:28:03.183] [renderer1] [error] [Extension Host] (node:13532) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-09-05 12:28:07.956] [renderer1] [error] [Extension Host] [ERROR] [default] [2022-09-05T17:28:07.955Z] GitHub Copilot could not connect to server. Extension activation failed: "Failed to get copilot token"
+[2022-09-05 12:28:18.202] [renderer1] [error] Cannot uninstall '.NET Install Tool for Extension Authors' extension. 'CMake Language Support' extension depends on this.: Internal: Cannot uninstall '.NET Install Tool for Extension Authors' extension. 'CMake Language Support' extension depends on this.
+    at V.uninstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:81:103658)
+[2022-09-05 12:28:30.197] [renderer1] [error] Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.: Internal: Cannot uninstall 'C#' extension. 'Debugger for Unity' extension depends on this.
+    at V.uninstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:81:103658)
+[2022-09-05 12:31:06.283] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:31:06.283] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:31:06.284] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:31:06.284] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:31:08.122] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:31:08.122] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:31:08.122] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:31:08.122] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:31:08.969] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:31:08.969] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:31:08.969] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:31:08.970] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:33:18.800] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:33:18.800] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:33:18.800] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:33:18.801] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:33:20.183] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:33:20.184] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:33:20.184] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:33:20.184] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:33:20.668] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:33:20.669] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:33:20.669] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:33:20.669] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:33:21.160] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:33:21.161] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:33:21.161] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:33:21.161] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
+[2022-09-05 12:33:21.555] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 24)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/css/fi.json
+[2022-09-05 12:33:21.555] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 48)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/html/fi.json
+[2022-09-05 12:33:21.555] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 75)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/fi.json
+[2022-09-05 12:33:21.556] [renderer1] [error] Error: Unable to read file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json' (Error: Unable to resolve nonexistent file '/home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json')
+    at h.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20089)
+    at async h.doReadFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:19045)
+    at async C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1555:8710)
+    at async Promise.all (index 77)
+    at async D.getSnippets (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2307:5551)
+    at async C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1246:46224)
+    at async Es.provideCodeActions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1358:8801)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:697:93380
+    at async Promise.all (index 3) file:///home/italo/.vscode/extensions/idleberg.icon-fonts-2.5.4/snippets/jsx/geomicon.json
