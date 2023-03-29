@@ -2,8 +2,7 @@ setopt PROMPT_CR
 setopt PROMPT_SP
 export PROMPT_EOL_MARK=""
 
-export JAVA_HOME="/usr/lib/jvm/java-18-openjdk"
-export PATH=$JAVA_HOME/bin:$PATH
+
 
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
@@ -104,3 +103,13 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
 export PATH="/home/italo/.local/bin:$PATH"
 export PATH="/home/italo/.config/nvim/java-language-server/bin:$PATH"
+
+export JAVA_HOME="/usr/lib/jvm/java-19-openjdk"
+export PATH=$JAVA_HOME/bin:$PATH
+
+
+export LTXLS="/home/italo/programas/ltex-ls-15.2.0"
+export PATH=$LTXLS/bin:$PATH
+export PATH="$HOME/.cargo/bin:$PATH"
+export NODE="/home/italo/.nvm/versions/node/v18.0.0"
+export PATH=$NODE/bin:$PATH
